@@ -20,7 +20,8 @@ versionpress.maintenance
 !/wp-content/uploads/
 !/wp-content/vpdb/
 /wp-content/vpdb/users/
-
+/wp-content/vpdb/options/no/nonce_key.ini
+/wp-content/vpdb/options/no/nonce_salt.ini
 
 #------------------------
 #  Log files
