@@ -1,18 +1,55 @@
 <?php get_header(); ?>
 
-	<main role="main">
-		<!-- section -->
-		<section>
+    <!-- Intro Section -->
+    <section id="intro" class="intro-section">
+        <div class="fullscreen-bg">
+            <video loop muted controls="" autoplay class="fullscreen-bg__video">
+                <source src="<?php echo get_bloginfo('template_url') ?>/img/TOB.mp4" type="video/mp4"/>
+            </video>
+        </div>
+        <div class="container centered-t">
+            <div class="row centered inverted">
+                <div class="col-lg-12">
+                    <h1>Scrolling Nav</h1>
+                    <p><strong>Usage Instructions:</strong> Make sure to include the <code>scrolling-nav.js</code>, <code>jquery.easing.min.js</code>, and <code>scrolling-nav.css</code> files. To make a link smooth scroll to another section on the page, give the link the <code>.page-scroll</code> class and set the link target to a corresponding ID on the page.</p>
+                    <a class="btn btn-default page-scroll" href="#about">Click Me to Scroll Down!</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
-			<h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1>About Section</h1>
+                </div>
+            </div>
+        </div>
+    </section>
 
-			<?php get_template_part('loop'); ?>
+    <!-- Services Section -->
+    <section id="services" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1>Services Section</h1>
+                </div>
+            </div>
+        </div>
+    </section>
 
-			<?php get_template_part('pagination'); ?>
-
-		</section>
-		<!-- /section -->
-	</main>
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1>Contact Section</h1>
+                </div>
+            </div>
+        </div>
+    </section>
 
 <?php get_sidebar(); ?>
 

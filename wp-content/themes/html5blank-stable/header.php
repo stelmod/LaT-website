@@ -7,6 +7,7 @@
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
         <link href="<?php echo get_template_directory_uri(); ?>/img/icons/favicon.ico" rel="shortcut icon">
         <link href="<?php echo get_template_directory_uri(); ?>/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+        <link href="http://fonts.googleapis.com/css?family=Roboto Condensed:100,300,400,700" rel="stylesheet" type="text/css"/>
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,28 +24,49 @@
         </script>
 
 	</head>
-	<body <?php body_class(); ?>>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-		<!-- wrapper -->
-		<div class="wrapper">
+        <!-- header -->
+        <header class="header clear" role="banner">
+            <div class="container gtrans">
+                <?php echo do_shortcode('[gtranslate]'); ?>
+            </div>
 
-			<!-- header -->
-			<header class="header clear" role="banner">
+            <!-- Navigation -->
+            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 
-					<!-- logo -->
-					<div class="logo">
-						<a href="<?php echo home_url(); ?>">
-							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" class="logo-img">
-						</a>
-					</div>
-					<!-- /logo -->
+                <div class="container">
+                    <div class="navbar-header page-scroll">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
 
-					<!-- nav -->
-					<nav class="nav" role="navigation">
-						<?php html5blank_nav(); ?>
-					</nav>
-					<!-- /nav -->
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul class="nav navbar-nav">
+                            <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                            <li class="hidden">
+                                <a class="page-scroll" href="#page-top"></a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="#about">About</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="#services">Services</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="#contact">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container -->
+            </nav>
 
-			</header>
-			<!-- /header -->
+        </header>
+        <!-- /header -->

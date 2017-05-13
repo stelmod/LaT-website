@@ -1,0 +1,166 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-default {
+    background: transparent url("img/logo-lat-large.png") no-repeat;
+    background-size: auto 70%;
+    background-position: 5% center;
+    height: 15%;
+    border-color: transparent;
+}
+
+.gtrans {
+    position: fixed;
+    float: right;
+    width: auto;
+    right: 0;
+    top: 0;
+}
+
+.navbar-header {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+}
+
+@media(min-width:10px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .1s ease-in-out,padding .1s ease-in-out;
+        -moz-transition: background .1s ease-in-out,padding .1s ease-in-out;
+        transition: background .1s ease-in-out,padding .1s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0 0 2% 0;
+        background: #040409 url("img/logo-lat-small.png") no-repeat;
+        height: 7.86%;
+        background-size: auto 68.2%;
+        background-position: 5% center;
+    }
+
+    .top-nav-collapse .navbar-toggle {
+        margin-bottom: 2%;
+        border-color: transparent;
+    }
+}
+
+.navbar-nav {
+    float: right;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.navbar-default .navbar-nav li a {
+    text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
+    color: white;
+}
+
+.navbar-default .navbar-nav li a:hover {
+    color: #2398ab;
+}
+
+.navbar-default {
+    border-color: transparent;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: transparent;
+}
+
+.gtrans {
+    color: red;
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.intro-section {
+    height: 100%;
+    text-align: center;
+    background: #fff;
+    z-index: 5;
+    position: relative;
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.services-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.contact-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.fullscreen-bg {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.fullscreen-bg__video {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: -1;
+}
+
+@media (min-aspect-ratio: 16/9) {
+    .fullscreen-bg__video {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-aspect-ratio: 16/9) {
+    .fullscreen-bg__video {
+        width: auto;
+        height: 100%;
+    }
+}
+
+.centered-t {
+    display: table;
+    display: none;
+}
+
+.inverted {
+    color: white;
+}
+
+.centered {
+    display: table-cell;
+    vertical-align: middle;
+}
