@@ -3,7 +3,7 @@
     <!-- Intro Section -->
     <section id="intro" class="intro-section">
         <div class="fullscreen-bg">
-            <video loop muted controls="" autoplay class="fullscreen-bg__video">
+            <video controls autoplay loop muted playsinline class="fullscreen-bg__video">
                 <source src="<?php echo get_bloginfo('template_url') ?>/img/TOB.mp4" type="video/mp4"/>
             </video>
         </div>
@@ -172,12 +172,37 @@
             </div>
         </div>
     </section>
+
     <!-- Contact Section -->
     <section id="contact" class="contact-section">
-        <div class="container">
+        <div class="container central-column">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Contact Section</h1>
+                    <p class="bigger-font">Proponnos alguna actividad o proyecto</p>
+                </div>
+            </div>
+            <div class="row some-spacing"></div>
+            <div class="row">
+                <div class="col-lg-12 no-padding">
+                    <input class="white-over-black smaller-font" type="text" placeholder="Nombre"/>
+                </div>
+            </div>
+            <div class="row some-minor-spacing"></div>
+            <div class="row">
+                <div class="col-lg-12 no-padding">
+                    <input class="white-over-black smaller-font" type="text" placeholder="e-mail"/>
+                </div>
+            </div>
+            <div class="row some-minor-spacing"></div>
+            <div class="row">
+                <div class="col-lg-12 no-padding">
+                    <textarea class="white-over-black smaller-font" type="text" placeholder="Mensaje" rows="6"></textarea>
+                </div>
+            </div>
+            <div class="row some-minor-spacing"></div>
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-lg-offset-3 col-md-offset-3 no-padding col-sm-6 col-sm-offset-3 col-xs-6 col-xs-offset-3">
+                    <button class="full-width">Enviar</button>
                 </div>
             </div>
         </div>
