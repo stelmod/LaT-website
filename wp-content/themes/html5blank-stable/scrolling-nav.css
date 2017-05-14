@@ -41,7 +41,12 @@ html {
 }
 
 .container {
-    height: 100%;
+    width: 100%;
+    min-height: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0%;
+    padding-right: 0%;
 }
 
 @media(min-width:10px) {
@@ -55,7 +60,7 @@ html {
     .top-nav-collapse {
         padding: 0 0 2% 0;
         background: #040409 url("img/logo-lat-small.png") no-repeat;
-        height: 7.86%;
+        height: 50px;
         background-size: auto 68.2%;
         background-position: 5% center;
     }
@@ -64,6 +69,10 @@ html {
         margin-bottom: 2%;
         border-color: transparent;
     }
+}
+
+.top-nav-collapse .gtrans {
+  display: none;
 }
 
 .navbar-nav {
@@ -106,17 +115,27 @@ of those sections to manage the look and feel of the site. */
 }
 
 .about-section {
-    height: 100%;
-    padding-top: 150px;
+    display: table;
+    min-height: 100%;
     text-align: center;
-    background: #eee;
+    background: #f4f4f4;
+    position: relative;
 }
 
 .services-section {
-    height: 100%;
-    padding-top: 150px;
+    display: table;
+    min-height: 100%;
     text-align: center;
-    background: #fff;
+    background: black;
+    color: white;
+}
+
+.participa-section {
+    display: table;
+    min-height: 100%;
+    text-align: center;
+    background: #f4f4f4;
+    color: black;
 }
 
 .contact-section {
@@ -169,3 +188,102 @@ of those sections to manage the look and feel of the site. */
     display: table-cell;
     vertical-align: middle;
 }
+
+.blended {
+  background-color: #f4f4f4;
+  background-blend-mode: multiply;
+}
+
+.skyline {
+  background-image: url("img/skyline.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 175px;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+p {
+  margin: 0 0 0 0;
+}
+
+.central-column {
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+a:hover {
+    color: #2398ab;
+}
+
+.bigger-font {
+  font-size: 24px;
+}
+
+.biggest-font {
+  font-size: 42px;
+}
+
+.smaller-font {
+  font-size: 16px;
+}
+
+.lighter-font {
+  font-weight: 100;
+}
+
+.row {
+  width: 100%;
+}
+
+.normal-font {
+  font-size: 18px;
+}
+
+.left-aligned {
+  text-align: left;
+}
+
+.right-side {
+  margin-left: auto;
+}
+
+.h-centered {
+  display: block;
+  margin: 0 auto;
+}
+
+.some-spacing {
+  height: 50px;
+}
+
+.some-mid-spacing {
+  height: 54px;
+}
+
+.some-minor-spacing {
+  height: 25px;
+}
+
+.centering-helper {
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.margin-50 {
+  margin-top: 60px;
+  margin-bottom: 70px;
+}
+

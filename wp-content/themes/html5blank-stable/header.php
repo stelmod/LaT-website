@@ -31,7 +31,7 @@
             <!-- Navigation -->
             <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 
-                <div class="container">
+                <div class="container right-side">
                     <div class="navbar-header page-scroll">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                             <span class="sr-only">Toggle navigation</span>
@@ -52,7 +52,13 @@
                                 <a class="page-scroll" href="#about">¿Qué es LaT?</a>
                             </li>
                             <li>
-                                <a class="page-scroll" href="#services">Services</a>
+                                <a class="page-scroll" href="#proyectos">Proyectos</a>
+                            </li>
+                            <li>
+                                <a href="/calendario">Calendario</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="#participa">Participa</a>
                             </li>
                             <li>
                                 <a class="page-scroll" href="#contact">Contact</a>
@@ -62,11 +68,11 @@
                     <!-- /.navbar-collapse -->
                 </div>
                 <!-- /.container -->
+                <div class="gtrans">
+                  <?php echo do_shortcode('[gtranslate]'); ?>
+                </div>
             </nav>
 
-      <div class="container gtrans">
-                <?php echo do_shortcode('[gtranslate]'); ?>
-            </div>
 
         </header>
         <!-- /header -->
