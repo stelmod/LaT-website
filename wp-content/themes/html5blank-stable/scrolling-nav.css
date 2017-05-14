@@ -23,12 +23,17 @@ html {
     border-color: transparent;
 }
 
+.header {
+    z-index: 1;
+}
+
 .gtrans {
     position: fixed;
     float: right;
     width: auto;
     right: 0;
     top: 0;
+    z-index: 1050;
 }
 
 .navbar-header {
@@ -126,7 +131,7 @@ of those sections to manage the look and feel of the site. */
     width: 100%;
     overflow: hidden;
     position: absolute;
-    z-index: -1;
+    z-index: 1;
 }
 
 .fullscreen-bg__video {
@@ -134,7 +139,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     overflow: hidden;
     position: relative;
-    z-index: -1;
+    z-index: 1;
 }
 
 @media (min-aspect-ratio: 16/9) {

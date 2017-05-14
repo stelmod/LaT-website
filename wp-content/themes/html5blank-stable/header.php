@@ -28,10 +28,6 @@
 
         <!-- header -->
         <header class="header clear" role="banner">
-            <div class="container gtrans">
-                <?php echo do_shortcode('[gtranslate]'); ?>
-            </div>
-
             <!-- Navigation -->
             <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 
@@ -53,7 +49,7 @@
                                 <a class="page-scroll" href="#page-top"></a>
                             </li>
                             <li>
-                                <a class="page-scroll" href="#about">About</a>
+                                <a class="page-scroll" href="#about">¿Qué es LaT?</a>
                             </li>
                             <li>
                                 <a class="page-scroll" href="#services">Services</a>
@@ -67,6 +63,10 @@
                 </div>
                 <!-- /.container -->
             </nav>
+
+      <div class="container gtrans">
+                <?php echo do_shortcode('[gtranslate]'); ?>
+            </div>
 
         </header>
         <!-- /header -->
