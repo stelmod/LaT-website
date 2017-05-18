@@ -34,6 +34,12 @@ html {
     right: 0;
     top: 0;
     z-index: 1050;
+    color: white;
+    padding-right: 15px;
+}
+
+.gtrans-link {
+    color: white;
 }
 
 .navbar-header {
@@ -96,14 +102,6 @@ html {
 
 .navbar-default .navbar-collapse {
     border-color: transparent;
-}
-
-.gtrans {
-    color: white;
-}
-
-.gtrans-link {
-    color: white;
 }
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
