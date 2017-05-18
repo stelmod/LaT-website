@@ -6,7 +6,6 @@
 /wp-config.php
 .maintenance
 versionpress.maintenance
-/.htaccess
 /web.config
 
 /wp-content/*
