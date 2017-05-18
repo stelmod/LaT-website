@@ -22,6 +22,10 @@ versionpress.maintenance
 /wp-content/vpdb/users/
 /wp-content/vpdb/options/no/nonce_key.ini
 /wp-content/vpdb/options/no/nonce_salt.ini
+/wp-content/vpdb/options/se/secure_auth_key.ini
+/wp-content/vpdb/options/se/secure_auth_salt.ini
+/wp-content/vpdb/options/si/siteurl.ini
+/wp-content/vpdb/options/WP/WPLANG.ini
 
 #------------------------
 #  Log files
