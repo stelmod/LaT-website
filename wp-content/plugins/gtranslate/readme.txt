@@ -4,7 +4,7 @@ Author: Edvard Ananyan
 Tags: bilingual, multilingual, translate, translation, language, localization, translation proxy, i18n, l10n, localisation, multilanguage, google translate
 Requires at least: 2.8.1
 Tested up to: 4.7
-Stable tag: 2.8.18
+Stable tag: 2.8.21
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://gtranslate.io/?xyz=998#pricing
@@ -46,6 +46,7 @@ Please check our [FAQ](https://gtranslate.io/?xyz=998#faq) to get quick answers.
 **Paid Features**
 
 * Multilingual SEO - Enable search engine indexing
+* New neural machine translations with excellent quality
 * Increase traffic and AdSense revenue
 * Search engine friendly (SEF) URLs
 * Yoast SEO compatible
@@ -125,7 +126,9 @@ GTranslate is a multilingual solution for your website.
 Yes! We have free version and paid versions with [advanced features](https://gtranslate.io/?xyz=998#pricing).
 
 = What is the quality of translation? =
-It's Google translation, hence Google quality. We use machine translations provided by Google Translate service. In the paid versions you can refine the translations manually and order professional translations directly from your site.
+We use Google neural machine translations which are very accurate for popular language pairs. In the paid versions you can refine the translations manually and order professional translations directly from your site.
+
+You can read this blog post for more info: https://gtranslate.io/blog/translation-quality-got-better-with-neural-machine-translations
 
 = Are the translations provided free of charge? =
 Yes, we use Google Translate widget for website which provides free machine translations which makes it possible to make your wordpress website multilingual instantly upon installation.
@@ -210,6 +213,18 @@ You need to go to the language you want to edit, for instance, French: http://do
 7. Settings page
 
 == Changelog ==
+
+= 2.8.21 =
+* Fix for gzip compression issues on mobile phones
+
+= 2.8.20 =
+* Google neural machine translations, better quality!!!
+* Added gzip compression for communication between server and client
+* Fixed issue with double translation
+
+= 2.8.19 =
+* Render gtranslate selector in a submenu if the menu link has gtranslate-parent class
+* Bug fixed when select tag has more than one class assigned
 
 = 2.8.18 =
 * Make sure default language is always selected
