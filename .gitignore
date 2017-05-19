@@ -26,6 +26,7 @@ versionpress.maintenance
 /wp-content/vpdb/options/si/siteurl.ini
 /wp-content/vpdb/options/WP/WPLANG.ini
 /wp-content/plugins/eventON/
+/wp-content/vpdb/options/_e/_evo_products.ini
 
 #------------------------
 #  Log files
