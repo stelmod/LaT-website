@@ -1150,6 +1150,7 @@ function onetone_get_default_options(){
 	}
 	
 	// get default customize data
+	if( function_exists('onetone_standard_settings_data') ):
 	$customize_options = onetone_standard_settings_data( );
 	
 	foreach ( (array) $customize_options as $option ) {
@@ -1166,6 +1167,7 @@ function onetone_get_default_options(){
 	$id = str_replace(']','',$id );
 	$output[ $id ] = $option['default'];
 	}
+	endif;
 	
 	$options = $output;
 	

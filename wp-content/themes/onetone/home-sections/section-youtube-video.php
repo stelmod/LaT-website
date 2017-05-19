@@ -7,7 +7,8 @@
  $youtube_bg_type           = onetone_option("youtube_bg_type");
  $youtube_bg_type           = is_numeric($youtube_bg_type)?$youtube_bg_type:"1";
  $display_video_mobile      = onetone_option("display_video_mobile","no");
- $start_play                = onetone_option("section_youtube_start",3);
+ $start_play                = onetone_option("section_youtube_start",0);
+ $stop_play                 = onetone_option("section_youtube_stop",0);
 
  $youtube_autoplay          = onetone_option("youtube_autoplay");
  $youtube_loop              = onetone_option("youtube_loop");
@@ -35,7 +36,7 @@
 	
 ?>
 <section class="section home-section-<?php echo $video_background_section;?>  onetone-youtube-section video-section">
-<div id="onetone-youtube-video" class="onetone-player" data-property="{videoURL:'<?php echo $section_background_video;?>',containment:'<?php echo $containment;?>', showControls:false, autoPlay:<?php echo $youtube_autoplay;?>, loop:<?php echo $youtube_loop;?>, mute:<?php echo $youtube_mute;?>, startAt:<?php echo $start_play;?>, opacity:1, addRaster:true, quality:'default'}"></div>
+<div id="onetone-youtube-video" class="onetone-player" data-property="{videoURL:'<?php echo $section_background_video;?>',containment:'<?php echo $containment;?>', showControls:false, autoPlay:<?php echo $youtube_autoplay;?>, loop:<?php echo $youtube_loop;?>, mute:<?php echo $youtube_mute;?>, startAt:<?php echo $start_play;?>,stopAt:<?php echo $stop_play;?>, opacity:1, addRaster:true, quality:'default'}"></div>
 
 <?php get_template_part('home-sections/section',$video_background_section);?>
     

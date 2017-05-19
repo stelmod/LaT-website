@@ -24,6 +24,10 @@
 	add_theme_support( 'automatic-feed-links' );
 	add_theme_support('nav_menus');
 	add_theme_support( "title-tag" );
+	add_theme_support( 'wc-product-gallery-zoom' );
+	add_theme_support( 'wc-product-gallery-lightbox' );
+	add_theme_support( 'wc-product-gallery-slider' );
+
 	register_nav_menus( array(
 		'primary' => __( 'Primary Menu', 'onetone' ),
 		'home_menu' => __( 'Home Page Header Menu', 'onetone' ),

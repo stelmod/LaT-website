@@ -431,6 +431,8 @@ function optionsframework_options() {
 		);
 		
 	$options[] = array('name' => __('Start Time', 'onetone'),'std' => '18','desc' => __('Choose time to start to play, in seconds', 'onetone'),'id' => 'section_youtube_start','type' => 'text','class' => 'section-item accordion-group-youtube_video' );
+	
+	$options[] = array('name' => __('Stop Time', 'onetone'),'std' => '0','desc' => __('Choose time to stop to play, in seconds', 'onetone'),'id' => 'section_youtube_stop','type' => 'text','class' => 'section-item accordion-group-youtube_video' );
 		
 	$options[] = array(
 		'name' => __('Display Video Control Buttons.', 'onetone'),

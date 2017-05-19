@@ -2,6 +2,11 @@
 
 == CHANGE LOG == 
 
+= Version 2.1.0 = = 09/05/2017
+* Fix - Fixed Magee Shortcodes animation issue
+* Fix - Fixed https issue
+* Add - Added "Stop Time" option for YouTube Video Background Options
+
 = Version 2.0.9 = = 06/04/2017
 * Fix - Fixed "Tracking" options issue
 

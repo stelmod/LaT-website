@@ -55,8 +55,8 @@ function onetone_standard_settings_data( $onetone_options = array() ) {
 	
 	$os_fonts        = onetone_options_typography_get_os_fonts();	
 	$os_fonts        = array_merge( array('' => __( '-- Default --', 'onetone' ) ), $os_fonts);
-	$opacity         = array_combine(range(0.1,1,0.1), range(0.1,1,0.1));
-    $font_size       = array_combine(range(1,100,1), range(1,100,1));
+	$opacity         = array_combine(range(0,1,0.1), range(0,1,0.1));
+    $font_size       = array_combine(range(0,100,1), range(0,100,1));
 	
 	$position =  array( 
 			
