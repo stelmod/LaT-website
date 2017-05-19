@@ -20,8 +20,8 @@
 
     <!-- About Section -->
     <section id="about" class="about-section">
-        <div class="container central-column">
-            <div class="row">
+        <div class="container central-column-no-padding">
+            <div class="row padding-5">
                 <div class="col-lg-12 bigger-font">
                     <p>La T, <b>Laboratorio de Tecnopolíticas para el bien común </b>
                     es un centro de pensamiento crítico sobre tecnología y sociedad.
@@ -31,11 +31,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="blended skyline"/>
+                <div class="col-lg-12 no-padding">
+                    <img class="full-width no-padding" src="<?php echo get_bloginfo('template_url') ?>/img/quees.png"/>
                 </div>
             </div>
-            <div class="row normal-font left-aligned">
+            <div class="row normal-font left-aligned padding-5">
                 <div class="col-lg-3">
                     <p>
                         Describir y diagnosticar críticamente el presente de los modos de producción, uso y consumo de tecnologías.  

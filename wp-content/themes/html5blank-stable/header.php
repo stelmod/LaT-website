@@ -55,13 +55,10 @@
                                 <a class="page-scroll" href="#proyectos">Proyectos</a>
                             </li>
                             <li>
-                                <a href="/calendario">Calendario</a>
+                                <a class="page-scroll" href="#actividades">Actividades</a>
                             </li>
                             <li>
                                 <a class="page-scroll" href="#participa">Participa</a>
-                            </li>
-                            <li>
-                                <a class="page-scroll" href="#contact">Contact</a>
                             </li>
                         </ul>
                     </div>

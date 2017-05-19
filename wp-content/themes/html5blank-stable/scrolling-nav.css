@@ -205,19 +205,6 @@ of those sections to manage the look and feel of the site. */
   background-blend-mode: multiply;
 }
 
-.skyline {
-  background-image: url("img/skyline.png");
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 175px;
-  width: 90%;
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-top: 1%;
-  margin-bottom: 1%;
-}
-
 .row {
   margin-left: 0px;
   margin-right: 0px;
@@ -232,6 +219,23 @@ p {
   vertical-align: middle;
   padding-left: 5%;
   padding-right: 5%;
+}
+
+.central-column-no-padding {
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.padding-5 {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.no-padding {
+  padding-left: 0%;
+  padding-right: 0%;
 }
 
 a:hover {
