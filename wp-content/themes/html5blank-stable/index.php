@@ -57,7 +57,7 @@
                     </p>
                 </div>
             </div>
-            <div class="row normal-font left-aligned">
+            <div class="row normal-font left-aligned padding-5">
                 <div class="col-lg-3">
                 </div>
                 <div class="col-lg-3">
