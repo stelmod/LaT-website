@@ -25,6 +25,7 @@ versionpress.maintenance
 /wp-content/vpdb/options/se/secure_auth_salt.ini
 /wp-content/vpdb/options/si/siteurl.ini
 /wp-content/vpdb/options/WP/WPLANG.ini
+/wp-content/plugins/eventON/
 
 #------------------------
 #  Log files
