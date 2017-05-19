@@ -27,6 +27,9 @@ versionpress.maintenance
 /wp-content/vpdb/options/WP/WPLANG.ini
 /wp-content/plugins/eventON/
 /wp-content/vpdb/options/_e/_evo_products.ini
+/wp-content/plugins/eventon-full-cal/
+/wp-content/plugins/eventon-rsvp/
+/wp-content/vpdb/options/wi/widget_evofc_widget.ini
 
 #------------------------
 #  Log files
