@@ -143,14 +143,39 @@
           </div>
         </div>
         <div class="row padding-60">
-          <div class="col-lg-3">
+          <div class="col-lg-1">
           </div>
           <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
           <?php
             echo do_shortcode('[add_eventon_fc]');
           ?>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-1">
+          </div>
+          <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 left-aligned normal-font top-padded">
+<b>Los Jueves: Beer2peer</b>
+Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos eventos en una lógica informal, acogedora y unas birras para amenizar. Los eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:
+
+<ul>
+<li>
+<i>TrendingTalks:</i> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT. 
+</li>
+
+<li>
+<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.
+</li>
+
+<li>
+<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. 
+Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social. 
+Curadoria de Emmanuele Ecozzo y Luce prignano.
+</li>
+</ul>
+
+<b>Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y presentaciones.  </b>
+
+          </div>
+          <div class="col-lg-1">
           </div>
         </div>
       </div>
