@@ -17,9 +17,9 @@ html {
 
 .navbar-default {
     background: transparent url("img/logo-lat-large.png") no-repeat;
-    background-size: auto 70%;
-    background-position: 5% center;
-    height: 15%;
+    background-size: 275px;
+    background-position: 5% 20px;
+    height: 300px;
     border-color: transparent;
 }
 
@@ -58,9 +58,9 @@ html {
 @media(min-width:10px) {
     .navbar {
         padding: 20px 0;
-        -webkit-transition: background .1s ease-in-out,padding .1s ease-in-out;
-        -moz-transition: background .1s ease-in-out,padding .1s ease-in-out;
-        transition: background .1s ease-in-out,padding .1s ease-in-out;
+        -webkit-transition: background 0s ease-in-out,padding 0s ease-in-out;
+        -moz-transition: background 0s ease-in-out,padding 0s ease-in-out;
+        transition: background 0s ease-in-out,padding 0s ease-in-out;
     }
 
     .top-nav-collapse {
