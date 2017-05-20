@@ -111,7 +111,7 @@ of those sections to manage the look and feel of the site. */
 .intro-section {
     height: 100%;
     text-align: center;
-    background: #fff;
+    background: black;
     z-index: 5;
     position: relative;
 }
@@ -120,7 +120,8 @@ of those sections to manage the look and feel of the site. */
     display: table;
     min-height: 100%;
     text-align: center;
-    background: #f4f4f4;
+    background: black;
+    color: white;
     position: relative;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -430,5 +431,18 @@ button {
 .max-height {
   height: 100%;
   margin: 0 auto;
+}
+
+.padding-bottom {
+  padding-bottom: 50px;
+}
+
+.padding-bottom-20 {
+  padding-bottom: 30px;
+}
+
+.black-on-white {
+  background: #f4f4f4;
+  color: black;
 }
 

@@ -21,62 +21,72 @@
     <!-- About Section -->
     <section id="about" class="about-section">
         <div class="container central-column-no-padding">
-            <div class="row padding-5">
+            <div class="row hidden-md hidden-sm hidden-xs">
+                <div class="col-lg-12 no-padding">
+                    <img class="full-width no-padding" src="<?php echo get_bloginfo('template_url') ?>/img/quees-completo.png"/>
+                </div>
+            </div>
+            <div class="row padding-5 padding-bottom hidden-lg">
                 <div class="col-lg-3">
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 bigger-font">
-                    <p>La T, <b>Laboratorio de Tecnopolíticas para el bien común </b>
-                    es un centro de pensamiento crítico sobre tecnología y sociedad.
-                    Situado en el corazón de la <i>superilla</i> del <b>Poblenou</b> de <b>Barcelona</b> quiere ser 
-                    un catalizador de proyectos y comunidades tecnológicas de investigación, 
-                    desarrollo, prototipado y transformación para el bien común.</p>
+                  <p>La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y sociedad. El laboratorio quiere ser un catalizador de proyectos y comunidades de investigación, desarrollo y prototipado tecnológico orientados a la transformación social y el bien común.</p>
                 </div>
                 <div class="col-lg-3">
                 </div>
             </div>
-            <div class="row">
+            <div class="row hidden-lg">
                 <div class="col-lg-12 no-padding">
                     <img class="full-width no-padding" src="<?php echo get_bloginfo('template_url') ?>/img/quees.png"/>
                 </div>
             </div>
-            <div class="row normal-font left-aligned padding-5">
-                <div class="col-lg-3">
-                    <p>
-                        Describir y diagnosticar críticamente el presente de los modos de producción, uso y consumo de tecnologías.  
-                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <p>
-                        Explorar tendencias y fronteras en la intersección de la tecnologías con la sociedad, estructurando debates y construyendo miradas disruptivas.    
-                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <p>
-                       Construir procesos de pensamiento, investigación, prototipado y diseño de usos y tecnologías para el bien común.  
-                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <p>
-                        Transversalizar conocimientos, saberes técnicos y visiones políticas facilitando el aprendizaje y la colaboración entre proyectos, comunidades, proyectos y visiones.  
-                    </p>
-                </div>
+          <div class="row black-on-white padding-60">
+            <div class="col-lg-12">
+              <div class="row normal-font left-aligned padding-5">
+                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                      <p class="bigger-font"><b>Territorio</b></p>
+                      <p>
+                      LaT se encuentra en la 8a planta del edificio Mediatic, junto a la <b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y espacio público. El laboratorio está situado en el distrito de Sant Martí, en el llamado <b>22@</b>, un área promovida como <b>distrito motor de la innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con una fuerte tradición asociativa, con gran arraigo de colectivos makers, huertos urbanos y gran concentración de centros de investigación y formación y un fuerte tejido empresarial tecnológico.
+                      </p>
+                  </div>
+                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                      <p class="bigger-font"><b>Contexto tecnológico</b></p>
+                      <p>
+                      Estamos al inicio de una <b>"4ª revolución industrial"</b> que reconfigurará, de lo molecular a lo global, las estructuras materiales de la realidad. Pero las tecnologías no son neutras: constituyen <b>formas de vida y campos de batalla</b> dominados por las corporaciones más poderosas del planeta. Frente a la visión y el diseño de tecnología hegemónicos, guiados por la búsqueda del <b>beneficio privado</b>, han surgido formas de <b>resistencia, re-apropiación y construcción de alternativas</b> tecnológicas orientadas a la <b>autonomía social, la sostenibilidad y el bien común</b>. LaT aspira a nutrir esas alternativas.
+                      </p>
+                  </div>
+                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                      <p class="bigger-font"><b>Visión</b></p>
+                      <p>
+                      En LaT queremos ser un <b>ateneu de experimentación tecnopolítica</b> que sirva como catalizador de proyectos y comunidades de investigación, desarrollo, prototipado y acción orientados al bien común. Trabajamos para <b>ser un proyecto de referencia en la construcción de visiones y prácticas críticas</b>. También aspiramos a construir un proyecto resiliente y sostenible a largo plazo. Para lograrlo interpelamos y orientamos nuestras actividades a comunidades, colectivos y personas apasionadas por las tecnologías y la transformación social.
+                      </p>
+                  </div>
+                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                      <p class="bigger-font"><b>Misión</b></p>
+                      <p>
+                      LaT es un proyecto orientado a:
+
+                      <ul>
+                      <li>
+                      <b>Analizar y diagnosticar</b> críticamente los modos de producción y uso de tecnologías, hoy. 
+                      </li>
+                      <li>
+                      <b>Explorar nuevas tendencias</b> en la intersección entre tecnologías, subjetividad y sociedad.
+                      </li>
+                      <li>
+                      Promover proyectos de <b>pensamiento, investigación, prototipado y diseño de</b> tecnologías libres para el bien común.
+                      </li>
+                      <li>
+                      <b>Potenciar redes y comunidades</b> tecnopoliticas de aprendizaje, conocimiento y acción.
+                      </li>
+                      <li>
+                      <b>Contribuir al bien común</b> de su entorno próximo, Poble Nou, Barcelona y el planeta. 
+                      </li>
+                      </p>
+                  </div>
+              </div>
             </div>
-            <div class="row normal-font left-aligned padding-5">
-                <div class="col-lg-3">
-                </div>
-                <div class="col-lg-3">
-                    <p>
-                        Fomentar y crear condiciones para la emergencia de proyectos, comunidades y tecnolog@s capaces de desarrollar ejemplares de tecnopoliticas para el bien común.  
-                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <p>
-                         Contribuir al bien común, de su entorno próximo, la ciudad y el mundo, en forma de creación de relaciones, de producción de prototipos, de código e infraestructuras libres desde una visión de retorno social de la tecnología en distintos ámbitos.   
-                    </p>
-                </div>
-                <div class="col-lg-3">
-                </div>
-            </div>
+          </div>
         </div>
     </section>
 
