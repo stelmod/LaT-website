@@ -134,12 +134,23 @@ of those sections to manage the look and feel of the site. */
     color: white;
 }
 
+.actividades-section {
+    display: table;
+    min-height: 100%;
+    text-align: center;
+    background: white;
+    color: black;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    width: 100%;
+}
+
 .participa-section {
     display: table;
     min-height: 100%;
     text-align: center;
-    background: #f4f4f4;
-    color: black;
+    background: black;
+    color: white;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -338,3 +349,73 @@ button {
   border-style: none;
   padding: 5px;
 }
+
+.evofc_months_strip {
+  width: 100% !important;
+}
+
+.evofc_month_focus {
+  width: 100% !important;
+}
+
+.evofc_month.focus {
+  width: 100% !important;
+}
+
+.occupy-all {
+  margin: 0 0 0 0;
+}
+
+.evo_fc_day {
+  border-top: 0px !important;
+  border-bottom: 0px !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+  font-family: "Roboto Condensed", sans-serif !important;
+  text-transform: capitalize !important;
+  color: black !important;
+}
+
+.eventon_fc_days {
+  border-top: 0px !important;
+  border-bottom: 0px !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+}
+
+.eventon_fc_daynames {
+  border-top: 0px !important;
+  border-bottom: 0px !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+  text-transform: capitalize !important;
+  font-weight: 300 !important;
+}
+
+.on_focus {
+  background-color: #e90065 !important;
+}
+
+.today::before {
+  background-color: #f55832 !important;
+  height: 8px !important;
+  margin-top: 0px !important;
+}
+
+.evo_month_title {
+  font-size: 30px !important;
+  font-weight: bold !important;
+  font-family: "Roboto Condensed", sans-serif !important;
+  text-transform: capitalize !important;
+  color: black !important;
+}
+
+.pink {
+  background-color: #e90065;
+}
+
+.padding-60 {
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+

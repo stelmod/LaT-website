@@ -22,12 +22,16 @@
     <section id="about" class="about-section">
         <div class="container central-column-no-padding">
             <div class="row padding-5">
-                <div class="col-lg-12 bigger-font">
+                <div class="col-lg-3">
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 bigger-font">
                     <p>La T, <b>Laboratorio de Tecnopolíticas para el bien común </b>
                     es un centro de pensamiento crítico sobre tecnología y sociedad.
                     Situado en el corazón de la <i>superilla</i> del <b>Poblenou</b> de <b>Barcelona</b> quiere ser 
                     un catalizador de proyectos y comunidades tecnológicas de investigación, 
                     desarrollo, prototipado y transformación para el bien común.</p>
+                </div>
+                <div class="col-lg-3">
                 </div>
             </div>
             <div class="row">
@@ -128,6 +132,30 @@
         </div>
     </section>
 
+    <section id="actividades" class="actividades-section">
+      <div class="container">
+        <div class="row pink">
+          <div class="col-lg-12 central-column padding-60">
+            <p class="biggest-font">Actividades</p>
+            <p class="bigger-font">La T es un nodo abierto, un lugar encuentro para compartir conocimiento y tiempo.</p>
+            <p class="bigger-font">Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con una cerveza en la mano.</p>
+            <p class="bigger-font">Consulta nuestro calendario de actividades.</p>
+          </div>
+        </div>
+        <div class="row padding-60">
+          <div class="col-lg-3">
+          </div>
+          <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <?php
+            echo do_shortcode('[add_eventon_fc]');
+          ?>
+          </div>
+          <div class="col-lg-3">
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Participa Section -->
     <section id="participa" class="participa-section">
         <div class="container central-column">
@@ -164,18 +192,12 @@
                 </div>
                 <div class="col-lg-3 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa4.png" />
-                    <div class="row some-mid-spacing"></div>
+                    <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
                         <p class="h-centered">Si te has perdido alguna actividad, en laT/le la tienes todos los videos de nuestras actividades, tambien todas se retransmiten en directo en directo por si no puedes venir</p>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <!-- Contact Section -->
-    <section id="contact" class="contact-section">
-        <div class="container central-column">
             <div class="row">
                 <div class="col-lg-12">
                     <p class="bigger-font">Proponnos alguna actividad o proyecto</p>
