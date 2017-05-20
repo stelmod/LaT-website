@@ -423,3 +423,12 @@ button {
   padding-top: 50px;
 }
 
+.display-table {
+  display: table;
+}
+
+.max-height {
+  height: 100%;
+  margin: 0 auto;
+}
+

@@ -152,28 +152,29 @@
           </div>
           <div class="col-lg-1">
           </div>
-          <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 left-aligned normal-font top-padded">
-<b>Los Jueves: Beer2peer</b>
-Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos eventos en una lógica informal, acogedora y unas birras para amenizar. Los eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:
+          <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 left-aligned normal-font top-padded display-table max-height">
+            <div class="centered">
+              <b>Los Jueves: Beer2peer</b>
+              <p>Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos eventos en una lógica informal, acogedora y unas birras para amenizar. Los eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:</p>
 
-<ul>
-<li>
-<i>TrendingTalks:</i> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT. 
-</li>
+              <ul>
+              <li>
+              <i>TrendingTalks:</i> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT. 
+              </li>
 
-<li>
-<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.
-</li>
+              <li>
+              <i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.
+              </li>
 
-<li>
-<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. 
-Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social. 
-Curadoria de Emmanuele Ecozzo y Luce prignano.
-</li>
-</ul>
+              <li>
+              <i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. 
+              Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social. 
+              Curadoria de Emmanuele Ecozzo y Luce prignano.
+              </li>
+              </ul>
 
-<b>Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y presentaciones.  </b>
-
+              <b>Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y presentaciones.  </b>
+            </div>
           </div>
           <div class="col-lg-1">
           </div>
