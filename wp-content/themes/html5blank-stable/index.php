@@ -95,47 +95,87 @@
         <div class="container central-column">
             <div class="row normal-font left-aligned">
                 <div class="col-lg-3 margin-50">
-                    <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/cyberfeminism-logo.png" />
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/vr-logo.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Ciberfeminismo</p>
+                        <p class="h-centered">Virtual Reality Hub (VRHub)</p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Ciberfeminismo se utiliza para describir las filosofías de una comunidad feminista contemporánea cuyos intereses se centran en el ciberespacio, Internet y la tecnología. El término surge de la fusión de "ciberespacio" y "feminismo" y su primera utilización se sitúa a finales de 1991 y 1992 en paralelo por parte de la teórica cultural inglesa Sadie Plant y del grupo de artistas australianas VNS Matrix conectado con el net.art.1 En la década de los años 90 se utiliza el término para describir el trabajo de las feministas interesadas en la teoría y la crítica.</p>
+                        <p class="h-centered"><i>Realidad Virtual aplicada a políticas públicas, bien común, cambio climático, género y arte</i></p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered">VRHub: iniciativa destinada a concentrar talento, oportunidades y conocimiento en el campo de la Realidad Virtual desde un enfoque social.</p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p>Coordinador: <b>Oscar Marín</b></p>
+                        <p>Curador: <b>Javier Toret</b></p>
+                        <p>Proximo evento: <b>7 de julio</b></p>
                     </div>
                 </div>
                 <div class="col-lg-3 margin-50">
-                    <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/futura-logo.png" />
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/futura-logo.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Barcelona Futura</p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">The Barcelona Initiative for Technological Sovereignty (BITS) aims to stimulate a global debate on changes in the meanings of sovereignty, and to explore the ways in which the various types of sovereignty -of citizens, cities, nations and regions- match with global technologies. With a strong focus on the political effects of technological change. BITS will explore how the emergence of technology platforms and data extractivism is transforming governments, labor, ownership and access to basic concepts of life such as water, food, housing and energy.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 margin-50">
-                    <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/vr-logo.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">VR LABS</p>
+                        <p class="h-centered"><i>Algo·ritmos del bien común. Diagramando la ciudad para nuestras nietas</i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">The Experimental Virtual Environments (EVENT) Lab for Neuroscience and Technology carries out research in computer graphics and virtual environments with applications in psychology and neuroscience. The virtual reality laboratory is led by Mel Slater and is located at the Universitat de Barcelona, Departament de Personalitat, Avaluació i Tractament Psicològic The neuroscience aspects are led by Maria V. Sanchez-Vives located at IDIBAPS.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 margin-50">
-                    <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/makers-logo.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Makers</p>
+                        <p class="h-centered">Una llamada a imaginar futuros posibles para la ciudad y el municipalismo desde un enfoque tecnopolítica, transversal y de los comunes.</p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Makers Laboratories Limited is a rapidly growing Indian Pharmaceutical company with a strong thrust on Branded Generics. We make life easier by offering high quality products at affordable prices. Our product portfolio covers a wide range of General Health Therapeutic segments. Our top formulation brands are Duramol (Paracetamol), Artemak-AB (α-β Arteether), Loroquin (Chloroquine), Nimuwin (Nimuselide), Coffwin (Anti cough Range) and Exylin (Amoxycillin range).</p>
+                        <p>Coordinadores: <b>Pablo de Soto</b> y <b>Jose Pérez de Lama. Hackitectura.net</b></p>
+                        <p>Curadores: <b>Javier Toret</b> y <b>Antonio Calleja</b></p>
+                        <p>Proximo evento: <b>14 y 15 de julio</b></p>
+                    </div>
+                </div>
+                <div class="col-lg-3 margin-50">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/cyberfeminism-logo.png" />
+                    <div class="row some-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Ciberfeminismo</p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><i>En las intersecciones entre género y tecnologías. Feminismos y ciberespacio.</i></p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered">Pasado, presente, futuro: un ciclo para visibilizar espacios de acción ciberfeminista y facilitar la diversidad de género en campo tecnológico</p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p>Coordinador: <b>Alex Hache</b></p>
+                        <p>Curadores: <b>Javier Toret</b> y <b>Antonio Calleja</b></p>
+                        <p>Proximo evento: <b>9 de junio</b></p>
+                    </div>
+                </div>
+                <div class="col-lg-3 margin-50">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/makers-logo.png" />
+                    <div class="row some-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Make/Made</p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><i>Tecnopolíticas del diseño y prácticas del hacer para el bien común.</i></p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered">Makers de barrio: vamos a pensar, diseñar y construir herramientas y dispositivos para el entorno urbano como bien común</p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p>Coordinador: <b>Josian Llorente</b></p>
+                        <p>Curador: <b>Javier Toret</b>
+                        <p>Proximo evento: <b>23 de junio</b></p>
                     </div>
                 </div>
             </div>
