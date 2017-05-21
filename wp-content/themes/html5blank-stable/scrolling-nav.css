@@ -75,9 +75,78 @@ html {
     }
 
     .top-nav-collapse .navbar-toggle {
-        margin-bottom: 2%;
+        margin-top: 18px;
         border-color: transparent;
     }
+}
+
+@media(min-width: 768px) {
+  .navbar-nav {
+    float: right;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-right: 3%;
+    width: 46.5%;
+    height: 70px;
+    /* For 5 sections: width: 58.5%; */
+  }
+}
+
+@media(max-width: 767px) {
+  .navbar-collapse.in {
+    overflow-y: visible;
+    float: right;
+  }
+
+  .navbar-collapse.collapsing {
+    overflow-y: visible;
+    float: right;
+    padding-right: 35px;
+    padding-left: 0px;
+  }
+
+  .navbar-collapse.in .navbar-nav {
+    height: initial;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  .top-nav-collapse .navbar-collapse.in .navbar-nav {
+    background-color: #040409;
+  }
+
+  .top-nav-collapse .navbar-collapse.collapsing .navbar-nav {
+    height: initial;
+    width: 200px;
+    background-color: #040409;
+  }
+
+  .navbar-collapse.collapsing .navbar-nav {
+    float: none;
+  }
+
+  .navbar-collapse.in .li-width {
+    width: 200px;
+    text-align: right;
+  }
+
+  .navbar-collapse.collapsing .li-width {
+    width: 200px;
+    text-align: right;
+  }
+
+  .navbar-collapse .collapsing {
+    overflow-y: hidden;
+    width: 200px;
+    float: right;
+    height: 0px;
+    overflow: hidden;
+    transition: height 2s;
+    -moz-transition: height 2s;
+    -webkit-transition: height 2s;
+    -o-transition: height 2s;
+  }
 }
 
 .top-nav-collapse .gtrans {
@@ -101,6 +170,15 @@ html {
 
 .navbar-collapse.collapse {
   height: 70px !important;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.navbar-collapse.collapsing {
+  height: 70px !important;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  overflow-y: visible;
 }
 
 .li-width {
@@ -489,5 +567,28 @@ button {
 .icon-array {
   width: 126px;
   margin: 0 auto;
+}
+
+div.navbar-header.page-scroll {
+  float: right;
+}
+
+.navbar-toggle {
+  z-index: 1100;
+  border: 0px;
+  margin-top: -15px;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: white;
+  border-radius: 0px;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar {
+  background-color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
 }
 
