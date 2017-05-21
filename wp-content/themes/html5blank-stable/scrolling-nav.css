@@ -446,3 +446,12 @@ button {
   color: black;
 }
 
+.inverted-glyph {
+  filter: invert(100%);
+}
+
+.icon-array {
+  width: 126px;
+  margin: 0 auto;
+}
+

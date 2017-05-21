@@ -241,7 +241,6 @@
             <div class="row bigger-font">
                 <p>LaT es un espacio abierto a la participacion y la creacion colectiva. </p>
                 <p>Por lo que hemos habilitado varias formas para que participes.</p>
-                <p>Abriremos más, pero por ahora puedes:</p>
             </div>
             <div class="row some-minor-spacing"></div>
             <div class="row smaller-font left-aligned">
@@ -249,28 +248,40 @@
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa1.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                        <p class="h-centered">Seguir nuestras redes sociales, donde tendras la info del dia a dia del los proyectos y el laboratorio</p>
+                        <p class="h-centered">Síguenos en las redes sociales, donde tendrás la info actualizada de los proyectos y del laboratorio.</p>
+                    </div>
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row icon-array">
+                      <a href="https://www.facebook.com/laTBcn">
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/FB-f-Logo__white_50.png" height="35px"/>
+                      </a>
+                      <a href="https://twitter.com/laTBcn">
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/Twitter_Logo_White_On_Image.png" height="48px"/>
+                      </a>
+                      <a href="https://www.instagram.com/Lat_bcn_/">
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/glyph-logo_May2016.png" height="35px" class="inverted-glyph"/>
+                      </a>
                     </div>
                 </div>
                 <div class="col-lg-3 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa2.png" />
                     <div class="row some-mid-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                        <p class="h-centered">Suscribirte a la newsletter de laT para que te llegue a tu mail toda la info </p>
+                        <p class="h-centered">Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info del laboratorio.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa3.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                        <p class="h-centered">Sigue nuestros proyectos, duran hasta diciembre. Si quieres participar y recibir toda los materiales de alguno de los proyectos, aqui puedes suscribirte.</p>
+                        <p class="h-centered">Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y recibir las informaciones de alguno de los proyectos, aquí puedes suscribirte y empezar a formar parte de las distintas comunidades.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa4.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                        <p class="h-centered">Si te has perdido alguna actividad, en laT/le la tienes todos los videos de nuestras actividades, tambien todas se retransmiten en directo en directo por si no puedes venir</p>
+                        <p class="h-centered">Si te has perdido alguna actividad, en laT/le tienes todos los videos de nuestras actividades. También se retransmiten en directo por si no puedes venir.</p>
                     </div>
                 </div>
             </div>
