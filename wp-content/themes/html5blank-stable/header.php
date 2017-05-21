@@ -48,16 +48,16 @@
                             <li class="hidden">
                                 <a class="page-scroll" href="#page-top"></a>
                             </li>
-                            <li>
+                            <li class="li-width">
                                 <a class="page-scroll" href="#about">¿Qué es LaT?</a>
                             </li>
-                            <li>
+                            <li class="li-width">
                                 <a class="page-scroll" href="#proyectos">Proyectos</a>
                             </li>
-                            <li>
+                            <li class="li-width">
                                 <a class="page-scroll" href="#actividades">Actividades</a>
                             </li>
-                            <li>
+                            <li class="li-width">
                                 <a class="page-scroll" href="#participa">Participa</a>
                             </li>
                         </ul>

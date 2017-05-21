@@ -17,8 +17,8 @@ html {
 
 .navbar-default {
     background: transparent url("img/logo-lat-large.png") no-repeat;
-    background-size: 275px;
-    background-position: 5% 20px;
+    background-size: 235px;
+    background-position: 6.25% 30px;
     height: 300px;
     border-color: transparent;
 }
@@ -30,12 +30,15 @@ html {
 .gtrans {
     position: fixed;
     float: right;
-    width: auto;
+    width: 46.5%;
     right: 0;
     top: 0;
     z-index: 1050;
     color: white;
     padding-right: 15px;
+    margin-top: 1.5%;
+    margin-right: 3%;
+    padding-left: 15px;
 }
 
 .gtrans-link {
@@ -64,9 +67,9 @@ html {
     }
 
     .top-nav-collapse {
-        padding: 0 0 2% 0;
+        padding: 0 0 0 0;
         background: #040409 url("img/logo-lat-small.png") no-repeat;
-        height: 50px;
+        height: 70px;
         background-size: auto 68.2%;
         background-position: 5% center;
     }
@@ -85,15 +88,48 @@ html {
     float: right;
     font-size: 20px;
     font-weight: 400;
+    margin-top: 15px;
+    margin-right: 3%;
+    width: 46.5%;
+    height: 70px;
+    /* For 5 sections: width: 58.5%; */
+}
+
+.top-nav-collapse .navbar-nav {
+  margin-top: 0px;
+}
+
+.navbar-collapse.collapse {
+  height: 70px !important;
+}
+
+.li-width {
+  width: 25%;
+  height: 70px;
+  display: table !important;
+  text-overflow: ellipsis;
+}
+
+.page-scroll {
+  display: table-cell !important;
+  vertical-align: middle;
+  word-break: normal;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .navbar-default .navbar-nav li a {
-    text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
     color: white;
 }
 
 .navbar-default .navbar-nav li a:hover {
-    color: #2398ab;
+    color: #1FC8AF;
 }
 
 .navbar-default {
@@ -251,7 +287,7 @@ p {
 }
 
 a:hover {
-    color: #2398ab;
+    color: #1FC8AF;
 }
 
 .bigger-font {
@@ -321,14 +357,14 @@ a:hover {
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
-    color: #2398ab;
-    background-color: black;
+    color: #1FC8AF;
+    background-color: #040409;
 }
 
 .white-over-black {
   background-color: transparent;
   color: white;
-  border-color: #2398ab;
+  border-color: #1FC8AF;
   border-width: 1px;
   border-style: solid;
   width: 50%;
@@ -345,7 +381,7 @@ a:hover {
 
 button {
   text-align: left;
-  background-color: #2398ab;
+  background-color: #1FC8AF;
   color: white;
   border-style: none;
   padding: 5px;
