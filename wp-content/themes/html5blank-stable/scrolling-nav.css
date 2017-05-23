@@ -159,7 +159,7 @@ html {
     font-weight: 400;
     margin-top: 15px;
     margin-right: 3%;
-    width: 46.5%;
+    width: 58.5%;
     height: 70px;
     /* For 5 sections: width: 58.5%; */
 }
@@ -182,7 +182,7 @@ html {
 }
 
 .li-width {
-  width: 25%;
+  width: 19%;
   height: 70px;
   display: table !important;
   text-overflow: ellipsis;
