@@ -30,7 +30,7 @@ html {
 .gtrans {
     position: fixed;
     float: right;
-    width: 46.5%;
+    width: 58.5%;
     right: 0;
     top: 0;
     z-index: 1050;
@@ -87,7 +87,7 @@ html {
     font-weight: 400;
     margin-top: 15px;
     margin-right: 3%;
-    width: 46.5%;
+    width: 58.5%;
     height: 70px;
     /* For 5 sections: width: 58.5%; */
   }
