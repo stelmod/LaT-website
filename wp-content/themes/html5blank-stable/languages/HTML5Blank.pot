@@ -1,199 +1,545 @@
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: HTML5 Blank WordPress Theme\n"
-"POT-Creation-Date: 2013-09-18 00:26+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Jürgen Rabe | www.egado.de <rabe@egado.de>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: HTML5 Blank\n"
+"POT-Creation-Date: 2017-05-23 22:39+0200\n"
+"PO-Revision-Date: 2017-05-23 22:39+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: _e;__\n"
-"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: ../404.php:9
+#: 404.php:10
 msgid "Page not found"
 msgstr ""
 
-#: ../404.php:11
+#: 404.php:12
 msgid "Return home?"
 msgstr ""
 
-#: ../archive.php:6
+#: archive.php:7
 msgid "Archives"
 msgstr ""
 
-#: ../author.php:8
+#: author.php:9
 msgid "Author Archives for "
 msgstr ""
 
-#: ../author.php:14
+#: author.php:15
 msgid "About "
 msgstr ""
 
-#: ../author.php:41 ../loop.php:22 ../single.php:27
+#: author.php:42 loop.php:22 single.php:28
 msgid "Published by"
 msgstr ""
 
-#: ../author.php:42 ../loop.php:23 ../single.php:28
+#: author.php:43 loop.php:23 single.php:29
 msgid "Leave your thoughts"
 msgstr ""
 
-#: ../author.php:42 ../loop.php:23 ../single.php:28
+#: author.php:43 loop.php:23 single.php:29
 msgid "1 Comment"
 msgstr ""
 
-#: ../author.php:42 ../loop.php:23 ../single.php:28
+#: author.php:43 loop.php:23 single.php:29
 msgid "% Comments"
 msgstr ""
 
-#: ../author.php:61 ../loop.php:39 ../page.php:31 ../single.php:53
-#: ../template-demo.php:31
+#: author.php:62 loop.php:39 page-backup.php:32 page.php:32 single.php:54
+#: template-demo.php:32
 msgid "Sorry, nothing to display."
 msgstr ""
 
-#: ../category.php:6
-msgid "Categories for"
+#: category.php:7
+msgid "Categories for "
 msgstr ""
 
-#: ../comments.php:3
+#: comments.php:3
 msgid "Post is password protected. Enter the password to view any comments."
 msgstr ""
 
-#: ../comments.php:18
+#: comments.php:18
 msgid "Comments are closed here."
 msgstr ""
 
-#: ../footer.php:6
+#: footer.php:6
 msgid "Powered by"
 msgstr ""
 
-#: ../functions.php:133
+#: functions.php:141
 msgid "Header Menu"
 msgstr ""
 
-#: ../functions.php:134
+#: functions.php:142
 msgid "Sidebar Menu"
 msgstr ""
 
-#: ../functions.php:135
+#: functions.php:143
 msgid "Extra Menu"
 msgstr ""
 
-#: ../functions.php:181
+#: functions.php:189
 msgid "Widget Area 1"
 msgstr ""
 
-#: ../functions.php:182 ../functions.php:193
+#: functions.php:190 functions.php:201
 msgid "Description for this widget-area..."
 msgstr ""
 
-#: ../functions.php:192
+#: functions.php:200
 msgid "Widget Area 2"
 msgstr ""
 
-#: ../functions.php:258
+#: functions.php:266
 msgid "View Article"
 msgstr ""
 
-#: ../functions.php:319
+#: functions.php:327
 #, php-format
 msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
 msgstr ""
 
-#: ../functions.php:322
+#: functions.php:330
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: ../functions.php:328
+#: functions.php:336
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: ../functions.php:328
+#: functions.php:336
 msgid "(Edit)"
 msgstr ""
 
-#: ../functions.php:411 ../functions.php:412
+#: functions.php:418 functions.php:419
 msgid "HTML5 Blank Custom Post"
 msgstr ""
 
-#: ../functions.php:413
+#: functions.php:420
 msgid "Add New"
 msgstr ""
 
-#: ../functions.php:414
+#: functions.php:421
 msgid "Add New HTML5 Blank Custom Post"
 msgstr ""
 
-#: ../functions.php:415
+#: functions.php:422
 msgid "Edit"
 msgstr ""
 
-#: ../functions.php:416
+#: functions.php:423
 msgid "Edit HTML5 Blank Custom Post"
 msgstr ""
 
-#: ../functions.php:417
+#: functions.php:424
 msgid "New HTML5 Blank Custom Post"
 msgstr ""
 
-#: ../functions.php:418 ../functions.php:419
+#: functions.php:425 functions.php:426
 msgid "View HTML5 Blank Custom Post"
 msgstr ""
 
-#: ../functions.php:420
+#: functions.php:427
 msgid "Search HTML5 Blank Custom Post"
 msgstr ""
 
-#: ../functions.php:421
+#: functions.php:428
 msgid "No HTML5 Blank Custom Posts found"
 msgstr ""
 
-#: ../functions.php:422
+#: functions.php:429
 msgid "No HTML5 Blank Custom Posts found in Trash"
 msgstr ""
 
-#: ../index.php:6
-msgid "Latest Posts"
+#: header.php:52
+msgid "¿Qué es LaT?"
 msgstr ""
 
-#: ../search.php:6
+#: header.php:55
+msgid "Proyectos"
+msgstr ""
+
+#: header.php:58 index.php:187
+msgid "Actividades"
+msgstr ""
+
+#: header.php:61 index.php:237
+msgid "Participa"
+msgstr ""
+
+#: index.php:31
+msgid ""
+"La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un "
+"centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y "
+"sociedad. El laboratorio quiere ser un catalizador de proyectos y "
+"comunidades de investigación, desarrollo y prototipado tecnológico "
+"orientados a la transformación social y el bien común."
+msgstr ""
+
+#: index.php:45
+msgid "Territorio"
+msgstr ""
+
+#: index.php:47
+msgid ""
+"LaT se encuentra en la 8a planta del edificio Mediatic, junto a la "
+"<b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y "
+"espacio público. El laboratorio está situado en el distrito de Sant Martí, "
+"en el llamado <b>22@</b>, un área promovida como <b>distrito motor de la "
+"innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un "
+"barrio con una fuerte tradición asociativa, con gran arraigo de colectivos "
+"makers, huertos urbanos y gran concentración de centros de investigación y "
+"formación y un fuerte tejido empresarial tecnológico."
+msgstr ""
+
+#: index.php:51
+msgid "Contexto tecnológico"
+msgstr ""
+
+#: index.php:53
+msgid ""
+"Estamos al inicio de una <b>\"4ª revolución industrial\"</b> que "
+"reconfigurará, de lo molecular a lo global, las estructuras materiales de la "
+"realidad. Pero las tecnologías no son neutras: constituyen <b>formas de vida "
+"y campos de batalla</b> dominados por las corporaciones más poderosas del "
+"planeta. Frente a la visión y el diseño de tecnología hegemónicos, guiados "
+"por la búsqueda del <b>beneficio privado</b>, han surgido formas de "
+"<b>resistencia, re-apropiación y construcción de alternativas</b> "
+"tecnológicas orientadas a la <b>autonomía social, la sostenibilidad y el "
+"bien común</b>. LaT aspira a nutrir esas alternativas."
+msgstr ""
+
+#: index.php:57
+msgid "Visión"
+msgstr ""
+
+#: index.php:59
+msgid ""
+"En LaT queremos ser un <b>ateneu de experimentación tecnopolítica</b> que "
+"sirva como catalizador de proyectos y comunidades de investigación, "
+"desarrollo, prototipado y acción orientados al bien común. Trabajamos para "
+"<b>ser un proyecto de referencia en la construcción de visiones y prácticas "
+"críticas</b>. También aspiramos a construir un proyecto resiliente y "
+"sostenible a largo plazo. Para lograrlo interpelamos y orientamos nuestras "
+"actividades a comunidades, colectivos y personas apasionadas por las "
+"tecnologías y la transformación social."
+msgstr ""
+
+#: index.php:63
+msgid "Misión"
+msgstr ""
+
+#: index.php:65
+msgid "LaT es un proyecto orientado a:"
+msgstr ""
+
+#: index.php:69
+msgid ""
+"<b>Analizar y diagnosticar</b> críticamente los modos de producción y uso de "
+"tecnologías, hoy."
+msgstr ""
+
+#: index.php:72
+msgid ""
+"<b>Explorar nuevas tendencias</b> en la intersección entre tecnologías, "
+"subjetividad y sociedad."
+msgstr ""
+
+#: index.php:75
+msgid ""
+"Promover proyectos de <b>pensamiento, investigación, prototipado y diseño "
+"de</b> tecnologías libres para el bien común."
+msgstr ""
+
+#: index.php:78
+msgid ""
+"<b>Potenciar redes y comunidades</b> tecnopoliticas de aprendizaje, "
+"conocimiento y acción."
+msgstr ""
+
+#: index.php:81
+msgid ""
+"<b>Contribuir al bien común</b> de su entorno próximo, Poble Nou, Barcelona "
+"y el planeta."
+msgstr ""
+
+#: index.php:99
+msgid "Virtual Reality Hub (VRHub)"
+msgstr ""
+
+#: index.php:103
+msgid ""
+"Realidad Virtual aplicada a políticas públicas, bien común, cambio "
+"climático, género y arte"
+msgstr ""
+
+#: index.php:107
+msgid ""
+"VRHub: iniciativa destinada a concentrar talento, oportunidades y "
+"conocimiento en el campo de la Realidad Virtual desde un enfoque social."
+msgstr ""
+
+#: index.php:111 index.php:153 index.php:174
+msgid "Coordinador"
+msgstr ""
+
+#: index.php:111
+msgid "Oscar Marín"
+msgstr ""
+
+#: index.php:112 index.php:175
+msgid "Curador"
+msgstr ""
+
+#: index.php:112 index.php:133
+msgid "Javier Toret"
+msgstr ""
+
+#: index.php:113 index.php:134 index.php:155 index.php:176
+msgid "Próximo evento"
+msgstr ""
+
+#: index.php:113
+msgid "7 de julio"
+msgstr ""
+
+#: index.php:120
+msgid "Barcelona Futura"
+msgstr ""
+
+#: index.php:124
+msgid "Algo·ritmos del bien común. Diagramando la ciudad para nuestras nietas"
+msgstr ""
+
+#: index.php:128
+msgid ""
+"Una llamada a imaginar futuros posibles para la ciudad y el municipalismo "
+"desde un enfoque tecnopolítica, transversal y de los comunes."
+msgstr ""
+
+#: index.php:132
+msgid "Coordinadores"
+msgstr ""
+
+#: index.php:132
+msgid "Pablo de Soto"
+msgstr ""
+
+#: index.php:132 index.php:133
+msgid "y"
+msgstr ""
+
+#: index.php:132
+msgid "Jose Pérez de Lama"
+msgstr ""
+
+#: index.php:133 index.php:154
+msgid "Curadores"
+msgstr ""
+
+#: index.php:133
+msgid "Antonio Calleja"
+msgstr ""
+
+#: index.php:134
+msgid "14 y 15 de julio"
+msgstr ""
+
+#: index.php:141
+msgid "Ciberfeminismo"
+msgstr ""
+
+#: index.php:145
+msgid ""
+"En las intersecciones entre género y tecnologías. Feminismos y ciberespacio."
+msgstr ""
+
+#: index.php:149
+msgid ""
+"Pasado, presente, futuro: un ciclo para visibilizar espacios de acción "
+"ciberfeminista y facilitar la diversidad de género en campo tecnológico"
+msgstr ""
+
+#: index.php:155
+msgid "9 de junio"
+msgstr ""
+
+#: index.php:166
+msgid "Tecnopolíticas del diseño y prácticas del hacer para el bien común."
+msgstr ""
+
+#: index.php:170
+msgid ""
+"Makers de barrio: vamos a pensar, diseñar y construir herramientas y "
+"dispositivos para el entorno urbano como bien común"
+msgstr ""
+
+#: index.php:176
+msgid "23 de junio"
+msgstr ""
+
+#: index.php:188
+msgid ""
+"La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
+"tiempo."
+msgstr ""
+
+#: index.php:189
+msgid ""
+"Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
+"una cerveza en la mano."
+msgstr ""
+
+#: index.php:190
+msgid "Consulta nuestro calendario de actividades."
+msgstr ""
+
+#: index.php:205
+msgid "Los Jueves: Beer2peer"
+msgstr ""
+
+#: index.php:206
+msgid ""
+"Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
+"eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
+"eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
+msgstr ""
+
+#: index.php:210
+msgid ""
+"<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
+"relevantes en los ámbitos de interés de laT. Curadoria de laT."
+msgstr ""
+
+#: index.php:214
+msgid ""
+"<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
+"varios colectivos, proyecto o red para que presenten su trabajo y los "
+"conocimientos sobre temas específicos. Curadoría de laT."
+msgstr ""
+
+#: index.php:218
+msgid ""
+"<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
+"              Seminario permanente de investigación colectiva sobre "
+"ciencias, tecnologías y transformación social. \n"
+"              Curadoria de Emmanuele Ecozzo y Luce prignano."
+msgstr ""
+
+#: index.php:224
+msgid ""
+"Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
+"presentaciones."
+msgstr ""
+
+#: index.php:240
+msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
+msgstr ""
+
+#: index.php:241
+msgid "Por lo que hemos habilitado varias formas para que participes."
+msgstr ""
+
+#: index.php:249
+msgid ""
+"Síguenos en las redes sociales, donde tendrás la info actualizada de los "
+"proyectos y del laboratorio."
+msgstr ""
+
+#: index.php:268
+msgid ""
+"Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
+"del laboratorio."
+msgstr ""
+
+#: index.php:275
+msgid ""
+"Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
+"recibir las informaciones de alguno de los proyectos, aquí puedes "
+"suscribirte y empezar a formar parte de las distintas comunidades."
+msgstr ""
+
+#: index.php:282
+msgid ""
+"Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
+"nuestras actividades. También se retransmiten en directo por si no puedes "
+"venir."
+msgstr ""
+
+#: index.php:288
+msgid "Proponnos alguna actividad o proyecto"
+msgstr ""
+
+#: index.php:294
+msgid "Nombre"
+msgstr ""
+
+#: index.php:306
+msgid "Mensaje"
+msgstr ""
+
+#: index.php:312
+msgid "Enviar"
+msgstr ""
+
+#: search.php:7
 #, php-format
 msgid "%s Search Results for "
 msgstr ""
 
-#: ../searchform.php:3
+#: searchform.php:3
 msgid "To search, type and hit enter."
 msgstr ""
 
-#: ../searchform.php:4
+#: searchform.php:4
 msgid "Search"
 msgstr ""
 
-#: ../single.php:33
+#: single.php:34
 msgid "Tags: "
 msgstr ""
 
-#: ../single.php:35
+#: single.php:36
 msgid "Categorised in: "
 msgstr ""
 
-#: ../single.php:37
+#: single.php:38
 msgid "This post was written by "
 msgstr ""
 
-#: ../tag.php:6
+#: tag.php:7
 msgid "Tag Archive: "
 msgstr ""
 
-#: ../searchform.php:3
-msgid "To search, type and hit enter."
+#. Theme Name of the plugin/theme
+msgid "HTML5 Blank"
 msgstr ""
 
-#~ msgid "%s results for "
-#~ msgstr "%s Ergebnisse für "
+#. Theme URI of the plugin/theme
+msgid "http://html5blank.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "HTML5 Blank WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Todd Motto (@toddmotto)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://toddmotto.com"
+msgstr ""
