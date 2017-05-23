@@ -83,7 +83,7 @@ html {
 @media(min-width: 768px) {
   .navbar-nav {
     float: right;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
     margin-top: 15px;
     margin-right: 3%;
@@ -155,7 +155,7 @@ html {
 
 .navbar-nav {
     float: right;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
     margin-top: 15px;
     margin-right: 3%;
@@ -369,15 +369,15 @@ a:hover {
 }
 
 .bigger-font {
-  font-size: 24px;
+  font-size: 19px;
 }
 
 .biggest-font {
-  font-size: 42px;
+  font-size: 34px;
 }
 
 .smaller-font {
-  font-size: 16px;
+  font-size: 13px;
 }
 
 .lighter-font {
@@ -389,7 +389,7 @@ a:hover {
 }
 
 .normal-font {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .left-aligned {
@@ -518,7 +518,7 @@ button {
 }
 
 .evo_month_title {
-  font-size: 30px !important;
+  font-size: 24px !important;
   font-weight: bold !important;
   font-family: "Roboto Condensed", sans-serif !important;
   text-transform: capitalize !important;
