@@ -19,12 +19,7 @@
     <!-- About Section -->
     <section id="about" class="about-section">
         <div class="container central-column-no-padding">
-            <div class="row hidden-md hidden-sm hidden-xs">
-                <div class="col-lg-12 no-padding">
-                    <img class="full-width no-padding" src="<?php echo get_bloginfo('template_url') ?>/img/quees-completo.png"/>
-                </div>
-            </div>
-            <div class="row padding-5 padding-bottom hidden-lg">
+            <div class="row padding-5 padding-bottom">
                 <div class="col-lg-3">
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 bigger-font">
@@ -33,7 +28,7 @@
                 <div class="col-lg-3">
                 </div>
             </div>
-            <div class="row hidden-lg">
+            <div class="row">
                 <div class="col-lg-12 no-padding">
                     <img class="full-width no-padding" src="<?php echo get_bloginfo('template_url') ?>/img/quees.png"/>
                 </div>
@@ -41,25 +36,25 @@
           <div class="row black-on-white padding-60">
             <div class="col-lg-12">
               <div class="row normal-font left-aligned padding-5">
-                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                  <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Territorio', 'html5blank'); ?></b></p>
                       <p>
                         <?php _e('LaT se encuentra en la 8a planta del edificio Mediatic, junto a la <b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y espacio público. El laboratorio está situado en el distrito de Sant Martí, en el llamado <b>22@</b>, un área promovida como <b>distrito motor de la innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con una fuerte tradición asociativa, con gran arraigo de colectivos makers, huertos urbanos y gran concentración de centros de investigación y formación y un fuerte tejido empresarial tecnológico.', 'html5blank'); ?>
                       </p>
                   </div>
-                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                  <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Contexto tecnológico', 'html5blank');?></b></p>
                       <p>
                         <?php _e('Estamos al inicio de una <b>"4ª revolución industrial"</b> que reconfigurará, de lo molecular a lo global, las estructuras materiales de la realidad. Pero las tecnologías no son neutras: constituyen <b>formas de vida y campos de batalla</b> dominados por las corporaciones más poderosas del planeta. Frente a la visión y el diseño de tecnología hegemónicos, guiados por la búsqueda del <b>beneficio privado</b>, han surgido formas de <b>resistencia, re-apropiación y construcción de alternativas</b> tecnológicas orientadas a la <b>autonomía social, la sostenibilidad y el bien común</b>. LaT aspira a nutrir esas alternativas.', 'html5blank'); ?>
                       </p>
                   </div>
-                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                  <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Visión'); ?></b></p>
                       <p>
                         <?php _e('En LaT queremos ser un <b>ateneu de experimentación tecnopolítica</b> que sirva como catalizador de proyectos y comunidades de investigación, desarrollo, prototipado y acción orientados al bien común. Trabajamos para <b>ser un proyecto de referencia en la construcción de visiones y prácticas críticas</b>. También aspiramos a construir un proyecto resiliente y sostenible a largo plazo. Para lograrlo interpelamos y orientamos nuestras actividades a comunidades, colectivos y personas apasionadas por las tecnologías y la transformación social.', 'html5blank'); ?>
                       </p>
                   </div>
-                  <div class="col-lg-3 col-md-6 padding-bottom-20">
+                  <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Misión', 'html5blank'); ?></b></p>
                       <p>
                       <?php _e('LaT es un proyecto orientado a:', 'html5blank'); ?>
@@ -92,7 +87,7 @@
     <section id="proyectos" class="services-section">
         <div class="container central-column">
             <div class="row normal-font left-aligned">
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/vr-logo.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -113,7 +108,7 @@
                       <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('7 de julio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/futura-logo.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -134,7 +129,7 @@
                       <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('14 y 15 de julio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/cyberfeminism-logo.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -155,7 +150,7 @@
                       <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('9 de junio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/makers-logo.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -182,7 +177,7 @@
 
     <section id="actividades" class="actividades-section">
       <div class="container">
-        <div class="row pink">
+        <div class="row pink display-table">
           <div class="col-lg-12 central-column padding-60">
             <p class="biggest-font"><?php _e('Actividades', 'html5blank'); ?></p>
             <p class="bigger-font"><?php _e('La T es un nodo abierto, un lugar encuentro para compartir conocimiento y tiempo.', 'html5blank'); ?></p>
@@ -193,36 +188,34 @@
         <div class="row padding-60">
           <div class="col-lg-1">
           </div>
-          <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-          <?php
-            echo do_shortcode('[add_eventon_fc]');
-          ?>
-          </div>
-          <div class="col-lg-1">
-          </div>
-          <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 left-aligned normal-font top-padded display-table max-height">
+          <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 left-aligned normal-font display-table max-height">
             <div class="centered">
               <b><?php _e('Los Jueves: Beer2peer', 'html5blank'); ?></b>
               <p><?php _e('Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos eventos en una lógica informal, acogedora y unas birras para amenizar. Los eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:', 'html5blank'); ?></p>
 
-              <ul>
-              <li>
+              <p>
               <?php _e('<i>TrendingTalks:</i> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT.', 'html5blank'); ?>
-              </li>
+              </p>
 
-              <li>
+              <p>
               <?php _e('<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.', 'html5blank'); ?>
-              </li>
+              </p>
 
-              <li>
+              <p>
               <?php _e('<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. 
               Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social. 
               Curadoria de Emmanuele Ecozzo y Luce prignano.', 'html5blank'); ?>
-              </li>
-              </ul>
+              </p>
 
               <b><?php _e('Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y presentaciones.', 'html5blank'); ?></b>
             </div>
+          </div>
+          <div class="col-lg-1">
+          </div>
+          <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12">
+          <?php
+            echo do_shortcode('[add_eventon_fc]');
+          ?>
           </div>
           <div class="col-lg-1">
           </div>
@@ -242,7 +235,7 @@
             </div>
             <div class="row some-minor-spacing"></div>
             <div class="row smaller-font left-aligned">
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa1.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
@@ -261,21 +254,21 @@
                       </a>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa2.png" />
                     <div class="row some-mid-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
                       <p class="h-centered"><?php _e('Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info del laboratorio.', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa3.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
                       <p class="h-centered"><?php _e('Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y recibir las informaciones de alguno de los proyectos, aquí puedes suscribirte y empezar a formar parte de las distintas comunidades.', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa4.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
