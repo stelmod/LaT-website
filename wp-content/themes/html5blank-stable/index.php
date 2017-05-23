@@ -190,7 +190,7 @@
     <section id="who-are-we" class="who-are-we-section">
         <div class="container central-column">
             <div class="row normal-font left-aligned">
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/toret.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -208,7 +208,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/thais.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -224,7 +224,7 @@
                             todo lo que tiene que ver con la cultura digital, la soberanía tecnológica y el activismo social.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/hector.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -240,7 +240,7 @@
                             lo de la producción es accidental, como lo mejor que siempre pasa en la vida. Filólogo, activista y escritor.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/antonio.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -255,10 +255,7 @@
                         <p class="h-centered">Investigador, IN3/UOC.</p>
                     </div>
                 </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/eunate.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -273,7 +270,7 @@
                         <p class="h-centered">Investigadora. Comunicación política y periodismo de datos.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/marcela.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -289,7 +286,10 @@
                             social y uso de la tecnología para el cambio social y el bien común.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+            </div>
+
+            <div class="row normal-font left-aligned">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/bruno.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -304,7 +304,7 @@
                         <p class="h-centered">Periodista optimista. Activista zen. Presentador TV. #CulturaDigital @tipstve Radio @scannerfm @350BCN</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -320,10 +320,7 @@
                             intenta mejorar el mundo con escarceos en ONG’s.</p>
                     </div>
                 </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/sergio.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -340,7 +337,7 @@
                             en las implicaciones de los avances en inteligencia artificial y big data.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/pinar.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -357,7 +354,10 @@
                             en la confianza y el respeto mutuo.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+            </div>
+
+            <div class="row normal-font left-aligned">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/stelios.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -373,7 +373,7 @@
                             código abierto y derechos digitales.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -389,10 +389,7 @@
                             Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)  Nota: no lo sé como traducir al inglés…</p>
                     </div>
                 </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -408,7 +405,7 @@
                             movimientos sociales y medios de comunicación.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 margin-50">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ste.png" />
                     <div class="row some-spacing"></div>
                     <div class="row bigger-font left-aligned">
