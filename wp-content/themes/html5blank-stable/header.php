@@ -49,16 +49,16 @@
                                 <a class="page-scroll" href="#page-top"></a>
                             </li>
                             <li class="li-width">
-                                <a class="page-scroll" href="#about">¿Qué es LaT?</a>
+                              <a class="page-scroll" href="#about"><?php _e('¿Qué es LaT?', 'html5blank'); ?></a>
                             </li>
                             <li class="li-width">
-                                <a class="page-scroll" href="#proyectos">Proyectos</a>
+                              <a class="page-scroll" href="#proyectos"><?php _e('Proyectos', 'html5blank'); ?></a>
                             </li>
                             <li class="li-width">
-                                <a class="page-scroll" href="#actividades">Actividades</a>
+                              <a class="page-scroll" href="#actividades"><?php _e('Actividades', 'html5blank'); ?></a>
                             </li>
                             <li class="li-width">
-                                <a class="page-scroll" href="#participa">Participa</a>
+                              <a class="page-scroll" href="#participa"><?php _e('Participa', 'html5blank'); ?></a>
                             </li>
                         </ul>
                     </div>
@@ -66,10 +66,9 @@
                 </div>
                 <!-- /.container -->
                 <div class="gtrans">
-                  <?php echo do_shortcode('[gtranslate]'); ?>
+                  <a href="/?lang=ca" title="Català" class="glink nturl notranslate gtrans-link">Cat</a> <span>|</span> <a href="/?lang=es_ES" title="Español" class="glink nturl notranslate gtrans-link">Cas</a> <span>|</span> <a href="/?lang=en_US" title="English" class="glink nturl notranslate gtrans-link">Eng</a>
                 </div>
             </nav>
-
 
         </header>
         <!-- /header -->

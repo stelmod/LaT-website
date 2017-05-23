@@ -1,41 +1,41 @@
 msgid ""
 msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-23 22:14+0200\n"
-"PO-Revision-Date: 2017-05-23 22:31+0200\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2017-05-23 23:30+0200\n"
+"PO-Revision-Date: 2017-05-23 23:40+0200\n"
 "Language-Team: \n"
-"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.2\n"
 "X-Poedit-Basepath: ..\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #: 404.php:10
 msgid "Page not found"
-msgstr "Página no encontrada"
+msgstr ""
 
 #: 404.php:12
 msgid "Return home?"
-msgstr "¿Regresar al Inicio?"
+msgstr ""
 
 #: archive.php:7
 msgid "Archives"
-msgstr "Archivos"
+msgstr ""
 
 #: author.php:9
 msgid "Author Archives for "
-msgstr "Archivos de autor de"
+msgstr ""
 
 #: author.php:15
 msgid "About "
@@ -43,130 +43,142 @@ msgstr ""
 
 #: author.php:42 loop.php:22 single.php:28
 msgid "Published by"
-msgstr "Publicado por"
+msgstr ""
 
 #: author.php:43 loop.php:23 single.php:29
 msgid "Leave your thoughts"
-msgstr "Deja tus comentarios"
+msgstr ""
 
 #: author.php:43 loop.php:23 single.php:29
 msgid "1 Comment"
-msgstr "1 Comentario"
+msgstr ""
 
 #: author.php:43 loop.php:23 single.php:29
 msgid "% Comments"
-msgstr "% Comentarios"
+msgstr ""
 
 #: author.php:62 loop.php:39 page-backup.php:32 page.php:32 single.php:54
 #: template-demo.php:32
 msgid "Sorry, nothing to display."
-msgstr "Disculpa, nada para mostrar."
+msgstr ""
 
 #: category.php:7
-#, fuzzy
-#| msgid "Categories for"
 msgid "Categories for "
-msgstr "Categorías para"
+msgstr ""
 
 #: comments.php:3
 msgid "Post is password protected. Enter the password to view any comments."
-msgstr "Entrada protegida. Introduzca la contraseña para ver los comentarios."
+msgstr ""
 
 #: comments.php:18
 msgid "Comments are closed here."
-msgstr "Los comentarios están cerrados."
+msgstr ""
 
 #: footer.php:6
 msgid "Powered by"
-msgstr "Desarrollado con"
+msgstr ""
 
 #: functions.php:141
 msgid "Header Menu"
-msgstr "Menú de la cabecera"
+msgstr ""
 
 #: functions.php:142
 msgid "Sidebar Menu"
-msgstr "Menú de la barra lateral"
+msgstr ""
 
 #: functions.php:143
 msgid "Extra Menu"
-msgstr "Menú extra"
+msgstr ""
 
 #: functions.php:189
 msgid "Widget Area 1"
-msgstr "Zona 1 de widgets"
+msgstr ""
 
 #: functions.php:190 functions.php:201
 msgid "Description for this widget-area..."
-msgstr "Descripción para esta zona..."
+msgstr ""
 
 #: functions.php:200
 msgid "Widget Area 2"
-msgstr "Zona 2 de widgets"
+msgstr ""
 
 #: functions.php:266
 msgid "View Article"
-msgstr "Ver artículo"
+msgstr ""
 
 #: functions.php:327
-#, fuzzy, php-format
-#| msgid "<span class=\"fn\">%s</span> <span class=\"says\">says:</span>"
+#, php-format
 msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
-msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">dice:</span>"
+msgstr ""
 
 #: functions.php:330
 msgid "Your comment is awaiting moderation."
-msgstr "Su comentario espera moderación."
+msgstr ""
 
 #: functions.php:336
 #, php-format
 msgid "%1$s at %2$s"
-msgstr "%1$s en %2$s"
+msgstr ""
 
 #: functions.php:336
 msgid "(Edit)"
-msgstr "(Editar)"
+msgstr ""
 
 #: functions.php:418 functions.php:419
 msgid "HTML5 Blank Custom Post"
-msgstr "Entradas personalizadas de HTML5 Blank"
+msgstr ""
 
 #: functions.php:420
 msgid "Add New"
-msgstr "Añadir nuevo"
+msgstr ""
 
 #: functions.php:421
 msgid "Add New HTML5 Blank Custom Post"
-msgstr "Añadir entrada personalizada de HTML5 Blank"
+msgstr ""
 
 #: functions.php:422
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
 #: functions.php:423
 msgid "Edit HTML5 Blank Custom Post"
-msgstr "Editar entrada personalizada de HTML5 Blank"
+msgstr ""
 
 #: functions.php:424
 msgid "New HTML5 Blank Custom Post"
-msgstr "Nueva entrada personalizada de HTML5 Blank"
+msgstr ""
 
 #: functions.php:425 functions.php:426
 msgid "View HTML5 Blank Custom Post"
-msgstr "Ver entrada personalizada de HTML5 Blank"
+msgstr ""
 
 #: functions.php:427
 msgid "Search HTML5 Blank Custom Post"
-msgstr "Buscar entrada personalizada de HTML5 Blank"
+msgstr ""
 
 #: functions.php:428
 msgid "No HTML5 Blank Custom Posts found"
-msgstr "No se han encontrado entradas personalizadas de HTML5 Blank"
+msgstr ""
 
 #: functions.php:429
 msgid "No HTML5 Blank Custom Posts found in Trash"
 msgstr ""
-"No se han encontrado entradas personalizadas de HTML5 Blank en la papelera"
+
+#: header.php:52
+msgid "¿Qué es LaT?"
+msgstr "What is laT?"
+
+#: header.php:55
+msgid "Proyectos"
+msgstr "Projects"
+
+#: header.php:58 index.php:187
+msgid "Actividades"
+msgstr "Events"
+
+#: header.php:61 index.php:237
+msgid "Participa"
+msgstr "Join Us"
 
 #: index.php:31
 msgid ""
@@ -176,10 +188,15 @@ msgid ""
 "comunidades de investigación, desarrollo y prototipado tecnológico "
 "orientados a la transformación social y el bien común."
 msgstr ""
+"LaT, <b>the Laboratory of Technopolitics for the Common Good</b>, is a "
+"center for critical thinking and practices on technology, subjectivity and "
+"society. The laboratory seeks to foster projects and communities of "
+"research, development and technological prototyping oriented to social "
+"transformation and the common good. "
 
 #: index.php:45
 msgid "Territorio"
-msgstr ""
+msgstr "Territory"
 
 #: index.php:47
 msgid ""
@@ -192,10 +209,18 @@ msgid ""
 "makers, huertos urbanos y gran concentración de centros de investigación y "
 "formación y un fuerte tejido empresarial tecnológico."
 msgstr ""
+"LaT is located on the 8th floor of Mediatic, a building right by the "
+"<b>Poblenou's Super-block</b>, a recent experiment in urban ecology and "
+"public space in Barcelona. The laboratory is situated in the Sant Marti "
+"district, at the heart of the <b>22@</b>, an area promoted as the <b>motor "
+"of  technological and knowledge innovation  of the city</b>. PobleNou is a "
+"neighborhood with a strong tradition of associative organization, plenty of "
+"maker´s collectives, key research/education centers, and a strong presence "
+"of technology companies. "
 
 #: index.php:51
 msgid "Contexto tecnológico"
-msgstr ""
+msgstr "Technological Context"
 
 #: index.php:53
 msgid ""
@@ -209,10 +234,19 @@ msgid ""
 "tecnológicas orientadas a la <b>autonomía social, la sostenibilidad y el "
 "bien común</b>. LaT aspira a nutrir esas alternativas."
 msgstr ""
+"We are at the beginning of a <b>“4th Industrial Revolution”</b> which will "
+"reassemble material structures, from the molecular to a global level. "
+"However, technologies are not neutral: they constitute <b>forms of life and "
+"fields of struggle</b> dominated by the most powerful companies in the "
+"world. In opposition to an hegemonic, <b>for-profit</b> perspective and "
+"design of technologies, new new forms of <b>resistance have emerged, "
+"reappropriation and construction of technological alternatives</b> with a "
+"strong orientation to <b>social autonomy, sustainability and the Common "
+"Good</b>. LaT is meant to nourish such initiatives."
 
 #: index.php:57
 msgid "Visión"
-msgstr ""
+msgstr "Vision"
 
 #: index.php:59
 msgid ""
@@ -225,44 +259,62 @@ msgid ""
 "actividades a comunidades, colectivos y personas apasionadas por las "
 "tecnologías y la transformación social."
 msgstr ""
+"LaT envisions to be a <b>space of/for technopolitical experimentation</b> "
+"meant to foster projetcs and communities of research, development, "
+"prototyping and practices oriented to the Common Good. Our goal is to "
+"<b>become a project of reference on critical visions and practices</b>. We "
+"also aspire to build a resilient and sustainable project in the long term. "
+"Thus, our interpellation and focus rely on activities along with "
+"communities, collectives and people passionate about technologies and social "
+"transformation. "
 
 #: index.php:63
 msgid "Misión"
-msgstr ""
+msgstr "Mission"
 
 #: index.php:65
 msgid "LaT es un proyecto orientado a:"
-msgstr ""
+msgstr "LaT is a project oriented to:"
 
 #: index.php:69
 msgid ""
 "<b>Analizar y diagnosticar</b> críticamente los modos de producción y uso de "
 "tecnologías, hoy."
 msgstr ""
+"Critically <b>analyze and diagnose forms</b> of production and use of "
+"technologies nowadays."
 
 #: index.php:72
 msgid ""
 "<b>Explorar nuevas tendencias</b> en la intersección entre tecnologías, "
 "subjetividad y sociedad."
 msgstr ""
+"<b>Explore new trends</b> in the intersection between technologies, "
+"subjectivity and society."
 
 #: index.php:75
 msgid ""
 "Promover proyectos de <b>pensamiento, investigación, prototipado y diseño "
 "de</b> tecnologías libres para el bien común."
 msgstr ""
+"Promote projects that <b>think, research, prototype and design</b> free "
+"technologies for the Common Good."
 
 #: index.php:78
 msgid ""
 "<b>Potenciar redes y comunidades</b> tecnopoliticas de aprendizaje, "
 "conocimiento y acción."
 msgstr ""
+"<b>Foster technopolitical networks and communities</b> focused on learning, "
+"knowledge and action. "
 
 #: index.php:81
 msgid ""
 "<b>Contribuir al bien común</b> de su entorno próximo, Poble Nou, Barcelona "
 "y el planeta."
 msgstr ""
+"<b>To contribute for the Common Good</b> of its surroundings, that is, "
+"PobleNou neighborhood, Barcelona and the planet. "
 
 #: index.php:99
 msgid "Virtual Reality Hub (VRHub)"
@@ -273,16 +325,20 @@ msgid ""
 "Realidad Virtual aplicada a políticas públicas, bien común, cambio "
 "climático, género y arte"
 msgstr ""
+"Virtual Reality applied to public policies, the Common Good, Climate Change, "
+"Genre and Art"
 
 #: index.php:107
 msgid ""
 "VRHub: iniciativa destinada a concentrar talento, oportunidades y "
 "conocimiento en el campo de la Realidad Virtual desde un enfoque social."
 msgstr ""
+"VRHub: the initiative means to gather talents, opportunities and knowledge "
+"in the field of Virtual Reality, from a social point of view."
 
 #: index.php:111 index.php:153 index.php:174
 msgid "Coordinador"
-msgstr ""
+msgstr "Coordinator"
 
 #: index.php:111
 msgid "Oscar Marín"
@@ -290,7 +346,7 @@ msgstr ""
 
 #: index.php:112 index.php:175
 msgid "Curador"
-msgstr ""
+msgstr "Curator"
 
 #: index.php:112 index.php:133
 msgid "Javier Toret"
@@ -298,11 +354,11 @@ msgstr ""
 
 #: index.php:113 index.php:134 index.php:155 index.php:176
 msgid "Próximo evento"
-msgstr ""
+msgstr "Next event"
 
 #: index.php:113
 msgid "7 de julio"
-msgstr ""
+msgstr "July, 7"
 
 #: index.php:120
 msgid "Barcelona Futura"
@@ -311,16 +367,19 @@ msgstr ""
 #: index.php:124
 msgid "Algo·ritmos del bien común. Diagramando la ciudad para nuestras nietas"
 msgstr ""
+"Algo·rhythms for the Common Good. Diagramming our granddaughters’ city."
 
 #: index.php:128
 msgid ""
 "Una llamada a imaginar futuros posibles para la ciudad y el municipalismo "
 "desde un enfoque tecnopolítica, transversal y de los comunes."
 msgstr ""
+"A call to imagine possible futures for the city and the Municipalism from a "
+"technopolitical, transversal and for-the-commons perspective. "
 
 #: index.php:132
 msgid "Coordinadores"
-msgstr ""
+msgstr "Coordinators"
 
 #: index.php:132
 msgid "Pablo de Soto"
@@ -328,7 +387,7 @@ msgstr ""
 
 #: index.php:132 index.php:133
 msgid "y"
-msgstr ""
+msgstr "and"
 
 #: index.php:132
 msgid "Jose Pérez de Lama"
@@ -336,7 +395,7 @@ msgstr ""
 
 #: index.php:133 index.php:154
 msgid "Curadores"
-msgstr ""
+msgstr "Curators"
 
 #: index.php:133
 msgid "Antonio Calleja"
@@ -344,44 +403,48 @@ msgstr ""
 
 #: index.php:134
 msgid "14 y 15 de julio"
-msgstr ""
+msgstr "July, 14 and 15"
 
 #: index.php:141
 msgid "Ciberfeminismo"
-msgstr ""
+msgstr "Cyberfeminism"
 
 #: index.php:145
 msgid ""
 "En las intersecciones entre género y tecnologías. Feminismos y ciberespacio."
 msgstr ""
+"On the intersection between Genre and Technologies. Feminisms and "
+"Cyberspace.  "
 
 #: index.php:149
 msgid ""
 "Pasado, presente, futuro: un ciclo para visibilizar espacios de acción "
 "ciberfeminista y facilitar la diversidad de género en campo tecnológico"
 msgstr ""
+"Past, present, future: a space for cyberfeminist protagonism and to "
+"facilitate genre diversity in the technological field"
 
 #: index.php:155
 msgid "9 de junio"
-msgstr ""
+msgstr "June, 9"
 
 #: index.php:166
 msgid "Tecnopolíticas del diseño y prácticas del hacer para el bien común."
 msgstr ""
+"Technopolitical Design and Practice: the maker-culture oriented to the "
+"Common Good. "
 
 #: index.php:170
 msgid ""
 "Makers de barrio: vamos a pensar, diseñar y construir herramientas y "
 "dispositivos para el entorno urbano como bien común"
 msgstr ""
+"Community makers: join us to think, to design and to build tools and devices "
+"for the urban surroundings and focused on the Common Good"
 
 #: index.php:176
 msgid "23 de junio"
-msgstr ""
-
-#: index.php:187
-msgid "Actividades"
-msgstr ""
+msgstr "June, 23"
 
 #: index.php:188
 msgid ""
@@ -401,7 +464,7 @@ msgstr ""
 
 #: index.php:205
 msgid "Los Jueves: Beer2peer"
-msgstr ""
+msgstr "Every Thursday: Beer2Peer"
 
 #: index.php:206
 msgid ""
@@ -409,12 +472,18 @@ msgid ""
 "eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
 "eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
 msgstr ""
+"Every Thursday, from 6:30pm, LaT will hold different events with an informal "
+"and kind atmosphere and some beers to relax. We will switch events every "
+"week, alternating between Trending Talks, CCC and C-4:"
 
 #: index.php:210
 msgid ""
 "<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
 "relevantes en los ámbitos de interés de laT. Curadoria de laT."
 msgstr ""
+"<i>TrendingTalks</i>: Conferences by people we believe to be relevant in a "
+"diverse range of areas and topics of interest of LaT community. Curated by "
+"LaT. "
 
 #: index.php:214
 msgid ""
@@ -422,6 +491,10 @@ msgid ""
 "varios colectivos, proyecto o red para que presenten su trabajo y los "
 "conocimientos sobre temas específicos. Curadoría de laT."
 msgstr ""
+"<i>CCC / Compartiu Coneximent Colectiu (Shared Collective Knowledge)</i>: a "
+"collective or a group of collectives, projects or networks to present their "
+"work and share knowledge about a specific topic of interest of LaT "
+"community. Curated by LaT. "
 
 #: index.php:218
 msgid ""
@@ -430,36 +503,39 @@ msgid ""
 "ciencias, tecnologías y transformación social. \n"
 "              Curadoria de Emmanuele Ecozzo y Luce prignano."
 msgstr ""
+"<i>C-4</i>: Science - Commons - Cities - Communities\n"
+"A permanent seminar for collective research on science, technologies and "
+"social transformation. Curated by Emmanuele Ecozzo and Luce Prignano. "
 
 #: index.php:224
 msgid ""
 "Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
 "presentaciones."
 msgstr ""
-
-#: index.php:237
-msgid "Participa"
-msgstr ""
+"Every Friday, from 6:30pm: Sessions about LaT’s projects and presentations. "
 
 #: index.php:240
 msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
-msgstr ""
+msgstr "LaT is open to your participation and the collective creation."
 
 #: index.php:241
 msgid "Por lo que hemos habilitado varias formas para que participes."
-msgstr ""
+msgstr "For now, we have a few options for you to join us."
 
 #: index.php:249
 msgid ""
 "Síguenos en las redes sociales, donde tendrás la info actualizada de los "
 "proyectos y del laboratorio."
 msgstr ""
+"Follow us on social networks, where you will find updated info of our "
+"projects and the laboratory. "
 
 #: index.php:268
 msgid ""
 "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
 "del laboratorio."
 msgstr ""
+"Subscribe to LaT newsletter to get all relevant info at your e-mail box. "
 
 #: index.php:275
 msgid ""
@@ -467,6 +543,9 @@ msgid ""
 "recibir las informaciones de alguno de los proyectos, aquí puedes "
 "suscribirte y empezar a formar parte de las distintas comunidades."
 msgstr ""
+"Follow our projects which will be active until December. If you would like "
+"to participate and to receive all information about any project, subscribe "
+"here and start to be part of our communities."
 
 #: index.php:282
 msgid ""
@@ -474,59 +553,68 @@ msgid ""
 "nuestras actividades. También se retransmiten en directo por si no puedes "
 "venir."
 msgstr ""
+"In case you have missed any activity, you can find videos en laT/le so you "
+"get updated. LaT/le also livestreams the activities that take place in the "
+"laboratory. "
 
 #: index.php:288
 msgid "Proponnos alguna actividad o proyecto"
 msgstr ""
+"You can also propose here any activity or project that you believe to "
+"resonate with LaT."
 
 #: index.php:294
 msgid "Nombre"
-msgstr ""
+msgstr "Name"
+
+#: index.php:306
+msgid "Mensaje"
+msgstr "Message"
+
+#: index.php:312
+msgid "Enviar"
+msgstr "Send"
 
 #: search.php:7
 #, php-format
 msgid "%s Search Results for "
-msgstr "%s resultados resultados para"
+msgstr ""
 
 #: searchform.php:3
 msgid "To search, type and hit enter."
-msgstr "Para buscar, escribe y presiona Enter"
+msgstr ""
 
 #: searchform.php:4
 msgid "Search"
-msgstr "Buscar"
+msgstr ""
 
 #: single.php:34
 msgid "Tags: "
-msgstr "Etiquetas: "
+msgstr ""
 
 #: single.php:36
 msgid "Categorised in: "
-msgstr "Categorizado en: "
+msgstr ""
 
 #: single.php:38
 msgid "This post was written by "
-msgstr "Esta entrada fue escrita por"
+msgstr ""
 
 #: tag.php:7
 msgid "Tag Archive: "
-msgstr "Archivo de etiquetas: "
+msgstr ""
 
 #. Theme Name of the plugin/theme
-#, fuzzy
-#| msgid "HTML5 Blank Custom Post"
 msgid "HTML5 Blank"
-msgstr "Entradas personalizadas de HTML5 Blank"
+msgstr ""
 
 #. Theme URI of the plugin/theme
 msgid "http://html5blank.com"
 msgstr ""
 
 #. Description of the plugin/theme
-#, fuzzy
-#| msgid "HTML5 Blank Custom Post"
 msgid "HTML5 Blank WordPress Theme"
-msgstr "Entradas personalizadas de HTML5 Blank"
+msgstr ""
 
 #. Author of the plugin/theme
 msgid "Todd Motto (@toddmotto)"
@@ -535,12 +623,3 @@ msgstr ""
 #. Author URI of the plugin/theme
 msgid "http://toddmotto.com"
 msgstr ""
-
-#~ msgid "La T,"
-#~ msgstr "La T,"
-
-#~ msgid "Latest Posts"
-#~ msgstr "Últimas entradas"
-
-#~ msgid "%s results for "
-#~ msgstr "%s Ergebnisse für "
