@@ -1,7 +1,7 @@
 #------------------------
 #  Main ignored items
 #------------------------
-
+*.idea/
 /../wp-config.php
 /wp-config.php
 .maintenance

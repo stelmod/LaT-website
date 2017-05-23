@@ -55,6 +55,9 @@
                               <a class="page-scroll" href="#proyectos"><?php _e('Proyectos', 'html5blank'); ?></a>
                             </li>
                             <li class="li-width">
+                                <a class="page-scroll" href="#who-are-we"><?php _e('Quiénes somos', 'html5blank'); ?></a>
+                            </li>
+                            <li class="li-width">
                               <a class="page-scroll" href="#actividades"><?php _e('Actividades', 'html5blank'); ?></a>
                             </li>
                             <li class="li-width">
