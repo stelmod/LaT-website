@@ -103,9 +103,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                      <p><?php _e('Coordinador', 'html5blank'); ?>: <b><?php _e('Oscar Marín', 'html5blank'); ?></b></p>
-                      <p><?php _e('Curador', 'html5blank'); ?>: <b><?php _e('Javier Toret', 'html5blank'); ?></b></p>
-                      <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('7 de julio', 'html5blank'); ?></b></p>
+                      <p><?php _e('Coordinador', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('Oscar Marín', 'html5blank'); ?></b></p>
+                      <p><?php _e('Curador', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('Javier Toret', 'html5blank'); ?></b></p>
+                      <p><?php _e('Próximo evento', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('7 de julio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
@@ -124,9 +127,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                      <p><?php _e('Coordinadores', 'html5blank'); ?>: <b><?php _e('Pablo DeSoto', 'html5blank'); ?></b> <?php _e('y', 'html5blank'); ?> <b><?php _e('Jose Pérez de Lama', 'html5blank'); ?>. Hackitectura.net</b></p>
-                      <p><?php _e('Curadores', 'html5blank'); ?>: <b><?php _e('Javier Toret', 'html5blank'); ?></b> <?php _e('y', 'html5blank'); ?> <b><?php _e('Antonio Calleja', 'html5blank'); ?></b></p>
-                      <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('14 y 15 de julio', 'html5blank'); ?></b></p>
+                      <p><?php _e('Coordinadores', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('Pablo DeSoto', 'html5blank'); ?></b> <?php _e('y', 'html5blank'); ?> <b><?php _e('Jose Pérez de Lama', 'html5blank'); ?>. Hackitectura.net</b></p>
+                      <p><?php _e('Curadores', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('Javier Toret', 'html5blank'); ?></b> <?php _e('y', 'html5blank'); ?> <b><?php _e('Antonio Calleja', 'html5blank'); ?></b></p>
+                      <p><?php _e('Próximo evento', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('14 y 15 de julio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
@@ -145,9 +151,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                      <p><?php _e('Coordinador', 'html5blank'); ?>: <b>Alex Hache</b></p>
-                      <p><?php _e('Curadores', 'html5blank'); ?>: <b>Javier Toret</b> y <b>Antonio Calleja</b></p>
-                      <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('9 de junio', 'html5blank'); ?></b></p>
+                      <p><?php _e('Coordinador', 'html5blank'); ?>:</p>
+                      <p><b>Alex Hache</b></p>
+                      <p><?php _e('Curadores', 'html5blank'); ?>:</p>
+                      <p><b>Javier Toret</b> y <b>Antonio Calleja</b></p>
+                      <p><?php _e('Próximo evento', 'html5blank'); ?>:</p>
+                      <p><b><?php _e('9 de junio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
@@ -166,8 +175,10 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                      <p><?php _e('Coordinador', 'html5blank'); ?>: <b>Josian Llorente</b></p>
-                      <p><?php _e('Curador', 'html5blank'); ?>: <b>Javier Toret</b>
+                      <p><?php _e('Coordinador', 'html5blank'); ?>:</p>
+                      <p><b>Josian Llorente</b></p>
+                      <p><?php _e('Curador', 'html5blank'); ?>:</p>
+                      <p><b>Javier Toret</b>
                       <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('23 de junio', 'html5blank'); ?></b></p>
                     </div>
                 </div>
