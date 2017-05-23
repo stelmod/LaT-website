@@ -543,7 +543,7 @@ button {
 }
 
 .max-height {
-  height: 100%;
+  height: 615px;
   margin: 0 auto;
 }
 
@@ -590,5 +590,11 @@ div.navbar-header.page-scroll {
 
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
+}
+
+ul,li {
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
 }
 
