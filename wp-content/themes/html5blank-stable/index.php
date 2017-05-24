@@ -242,7 +242,7 @@
             </div>
             <div class="row normal-font left-aligned">
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/toret.png" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/toret.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Javier Toret</p>
@@ -260,7 +260,7 @@
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/thais.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/thais.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Thais Ruiz de Alda</p>
@@ -276,7 +276,7 @@
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/hector.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/hector.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Hector Huerga</p>
@@ -292,7 +292,7 @@
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/antonio.png" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/antonio.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Antonio Calleja</p>
@@ -307,7 +307,7 @@
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/eunate.png" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/eunate.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Eunate Serrano</p>
@@ -322,7 +322,7 @@
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/marcela.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/marcela.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Marcela Canavarro</p>
@@ -341,7 +341,7 @@
 
             <div class="row normal-font left-aligned">
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/bruno.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/bruno.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Bruno Sokolowicz</p>
@@ -356,7 +356,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Dani Ortiz</p>
@@ -372,7 +372,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/sergio.png" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/sergio.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Sergio Alvarez</p>
@@ -389,7 +389,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/pinar.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/pinar.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Pinar Wennerberg</p>
@@ -409,7 +409,7 @@
 
             <div class="row normal-font left-aligned">
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/stelios.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/stelios.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Stelios Modes</p>
@@ -425,7 +425,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Lliure Hilla Ariza</p>
@@ -442,7 +442,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Ana Bastero</p>
@@ -458,7 +458,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ste.png" />
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ste.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Stephen Cowley</p>

@@ -633,3 +633,7 @@ ul,li {
   filter: grayscale(100%) saturate(0%) brightness(70%) contrast(1000%);
 }
 
+.img-circle {
+    border-radius: 50px;
+}
+
