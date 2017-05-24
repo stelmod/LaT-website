@@ -238,6 +238,15 @@
             <div class="row biggest-font margin-40">
               <p class="text-centered"><?php _e('Quiénes somos', 'html5blank'); ?></p>
             </div>
+            <div class="row bigger-font margin-bottom-40">
+              <div class="col-lg-2 col-md-2 col-sm-2">
+              </div>
+              <div class="col-lg-8 col-md-8 col-sm-8">
+                <p class="text-centered"><?php _e('LaT es un proyecto autónomo que nace de la colaboracion de tres actores: TecnopoliticaBCN, <a href="https://www.thoughtworks.com/">Thoughtworks.com</a> y <a href="http://tecnopolitica.net/">Tecnopolitica.net/UOC</a>. Somos un grupo de personas apasionadas por las tecnologías y la transformación social.', 'html5blank'); ?></p>
+              </div>
+              <div class="col-lg-2 col-md-2 col-sm-2">
+              </div>
+            </div>
             <div class="row normal-font left-aligned">
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/toret.png" />
