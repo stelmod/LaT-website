@@ -464,7 +464,7 @@ a:hover {
 
 .white-over-black {
   background-color: transparent;
-  color: white;
+  color: black;
   border-color: #1FC8AF;
   border-width: 1px;
   border-style: solid;

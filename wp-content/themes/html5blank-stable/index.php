@@ -551,35 +551,37 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                <p class="bigger-font"><?php _e('Proponnos alguna actividad o proyecto', 'html5blank'); ?></p>
-                </div>
-            </div>
-            <div class="row some-spacing"></div>
-            <div class="row">
-                <div class="col-lg-12 no-padding">
-                  <input class="white-over-black smaller-font" type="text" placeholder="<?php _e('Nombre', 'html5blank'); ?>"/>
-                </div>
-            </div>
-            <div class="row some-minor-spacing"></div>
-            <div class="row">
-                <div class="col-lg-12 no-padding">
-                    <input class="white-over-black smaller-font" type="text" placeholder="e-mail"/>
-                </div>
-            </div>
-            <div class="row some-minor-spacing"></div>
-            <div class="row">
-                <div class="col-lg-12 no-padding">
-                  <textarea class="white-over-black smaller-font" type="text" placeholder="<?php _e('Mensaje', 'html5blank'); ?>" rows="6"></textarea>
-                </div>
-            </div>
-            <div class="row some-minor-spacing"></div>
-            <div class="row">
-                <div class="col-lg-3 col-md-3 col-lg-offset-3 col-md-offset-3 no-padding col-sm-6 col-sm-offset-3 col-xs-6 col-xs-offset-3">
-                  <button class="full-width"><?php _e('Enviar', 'html5blank'); ?></button>
-                </div>
-            </div>
+            <form action="mailto:info@lat.barcelona" target="_blank" enctype="text/plain" method="post">
+              <div class="row">
+                  <div class="col-lg-12">
+                  <p class="bigger-font"><?php _e('Proponnos alguna actividad o proyecto', 'html5blank'); ?></p>
+                  </div>
+              </div>
+              <div class="row some-spacing"></div>
+              <div class="row">
+                  <div class="col-lg-12 no-padding">
+                    <input name="name" class="white-over-black smaller-font" type="text" placeholder="<?php _e('Nombre', 'html5blank'); ?>"/>
+                  </div>
+              </div>
+              <div class="row some-minor-spacing"></div>
+              <div class="row">
+                  <div class="col-lg-12 no-padding">
+                      <input name="e-mail" class="white-over-black smaller-font" type="text" placeholder="e-mail"/>
+                  </div>
+              </div>
+              <div class="row some-minor-spacing"></div>
+              <div class="row">
+                  <div class="col-lg-12 no-padding">
+                    <textarea name="mensaje" class="white-over-black smaller-font" type="text" placeholder="<?php _e('Mensaje', 'html5blank'); ?>" rows="6"></textarea>
+                  </div>
+              </div>
+              <div class="row some-minor-spacing"></div>
+              <div class="row">
+                  <div class="col-lg-3 col-md-3 col-lg-offset-3 col-md-offset-3 no-padding col-sm-6 col-sm-offset-3 col-xs-6 col-xs-offset-3">
+                    <button type="submit" class="full-width"><?php _e('Enviar', 'html5blank'); ?></button>
+                  </div>
+              </div>
+            </form>
         </div>
     </section>
 
