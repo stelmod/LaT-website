@@ -39,7 +39,7 @@
                   <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Territorio', 'html5blank'); ?></b></p>
                       <p>
-                        <?php _e('LaT se encuentra en la 8a planta del edificio Mediatic, junto a la <b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y espacio público. El laboratorio está situado en el distrito de Sant Martí, en el llamado <b>22@</b>, un área promovida como <b>distrito motor de la innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con una fuerte tradición asociativa, con gran arraigo de colectivos makers, huertos urbanos y gran concentración de centros de investigación y formación y un fuerte tejido empresarial tecnológico.', 'html5blank'); ?>
+                        <?php _e('LaT se encuentra en la 8a planta del edificio Mediatic, junto a la <b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y espacio público. El laboratorio está situado en el distrito de Sant Martí, en el <b>22@</b>, un área promovida como <b>distrito motor de la innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con una fuerte tradición asociativa, con gran arraigo de colectivos makers, huertos urbanos y gran concentración de centros de investigación y formación y un fuerte tejido empresarial tecnológico.', 'html5blank'); ?>
                       </p>
                   </div>
                   <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
@@ -151,8 +151,8 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                      <p><?php _e('Coordinador', 'html5blank'); ?>:</p>
-                      <p><b>Alex Hache</b></p>
+                      <p><?php _e('Coordinadoras', 'html5blank'); ?>:</p>
+                      <p><b>DonesTech</b></p>
                       <p><?php _e('Curadores', 'html5blank'); ?>:</p>
                       <p><b>Javier Toret</b> y <b>Antonio Calleja</b></p>
                       <p><?php _e('Próximo evento', 'html5blank'); ?>:</p>
@@ -213,8 +213,8 @@
               </p>
 
               <p>
-              <?php _e('<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. 
-              Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social. 
+              <?php _e('<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades.
+              Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social.
               Curadoria de Emmanuele Ecozzo y Luce prignano.', 'html5blank'); ?>
               </p>
             </div>
@@ -256,13 +256,11 @@
                     </div>
                     <div class="row some-very-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></p>
+                        <p class="h-centered"><?php _e('Coordinador de laT. Curaduría de proyectos. Coordinación de líneas de investigación y desarrollo.'); ?></p>
                     </div>
                     <div class="row some-very-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered italics"><?php _e('Me gusta conectar y producir multiplicidades variables e intensivas entre filosofía,
-                            clínica, política, tecnologia, comunicación, datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.
-                            Rebelcities. Comunes. GlobalSouth. Investigador, psicólogo, activista y tecnólogo.', 'html5blank'); ?>
+                        <p class="h-centered italics"><?php _e('Me gusta conectar y producir multiplicidades potentes entre filosofía, clínica, política, tecnología, comunicación, datos, redes, deseo y movimientos.', 'html5blank'); ?>
                         </p>
                     </div>
                 </div>
@@ -459,8 +457,7 @@
                     <div class="row some-very-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
                         <p class="italics h-centered"><?php _e('Surfeando entre saberes expertos y activistas, entre lo local y lo metropolit(ano).
-                            Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)  
-                            Nota: no lo sé como traducir al inglés…', 'html5blank'); ?></p>
+                            Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
@@ -533,7 +530,7 @@
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa2.png" />
                     <div class="row some-mid-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                      <p class="h-centered"><?php _e('Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info del laboratorio.', 'html5blank'); ?></p>
+                      <p class="h-centered"><?php _e('Suscríbete a la <a href="https://docs.google.com/a/thoughtworks.com/forms/d/1syQDQdMd7JFu9MkSQB8a2KJSzLpxuXzN6CGSuv--Q0M/edit">newsletter</a> de laT para que te llegue a tu mail toda la info del laboratorio.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
@@ -547,7 +544,7 @@
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa4.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                      <p class="h-centered"><?php _e('Si te has perdido alguna actividad, en laT/le tienes todos los videos de nuestras actividades. También se retransmiten en directo por si no puedes venir.', 'html5blank'); ?></p>
+                      <p class="h-centered"><?php _e('Si te has perdido alguna actividad, en <a href="https://www.youtube.com/channel/UCvUVC_bGvUiQecAt_HWEUQw">laT/le</a> tienes todos los videos de nuestras actividades. También se retransmiten en directo por si no puedes venir.', 'html5blank'); ?></p>
                     </div>
                 </div>
             </div>
