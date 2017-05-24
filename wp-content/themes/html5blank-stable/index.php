@@ -193,7 +193,7 @@
             <p class="biggest-font"><?php _e('Actividades', 'html5blank'); ?></p>
             <p class="bigger-font"><?php _e('La T es un nodo abierto, un lugar encuentro para compartir conocimiento y tiempo.', 'html5blank'); ?></p>
             <p class="bigger-font"><?php _e('Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con una cerveza en la mano.', 'html5blank'); ?></p>
-            <p class="bigger-font"><?php _e('Consulta nuestro calendario de actividades.', 'html5blank'); ?></p>
+            <p class="bigger-font"><?php _e('Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y presentaciones.', 'html5blank'); ?></p>
           </div>
         </div>
         <div class="row padding-60">
@@ -217,8 +217,6 @@
               Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social. 
               Curadoria de Emmanuele Ecozzo y Luce prignano.', 'html5blank'); ?>
               </p>
-
-              <b><?php _e('Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y presentaciones.', 'html5blank'); ?></b>
             </div>
           </div>
           <div class="col-lg-1">
