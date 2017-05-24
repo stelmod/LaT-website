@@ -1,13 +1,15 @@
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-23 23:41+0200\n"
-"PO-Revision-Date: 2017-05-23 23:44+0200\n"
+"POT-Creation-Date: 2017-05-24 16:49+0200\n"
+"PO-Revision-Date: 2017-05-24 17:01+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.0.2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
@@ -16,8 +18,6 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
-"Last-Translator: \n"
-"Language: es_ES\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
@@ -57,8 +57,7 @@ msgstr "1 Comentario"
 msgid "% Comments"
 msgstr "% Comentarios"
 
-#: author.php:62 loop.php:39 page-backup.php:32 page.php:32 single.php:54
-#: template-demo.php:32
+#: author.php:62 loop.php:39 page.php:32 single.php:54 template-demo.php:32
 msgid "Sorry, nothing to display."
 msgstr "Disculpa, nada que mostrar."
 
@@ -173,15 +172,19 @@ msgstr ""
 msgid "Proyectos"
 msgstr ""
 
-#: header.php:58 index.php:187
+#: header.php:58
+msgid "Quiénes somos"
+msgstr ""
+
+#: header.php:61 index.php:432
 msgid "Actividades"
 msgstr ""
 
-#: header.php:61 index.php:237
+#: header.php:64 index.php:480
 msgid "Participa"
 msgstr ""
 
-#: index.php:31
+#: index.php:26
 msgid ""
 "La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un "
 "centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y "
@@ -190,11 +193,11 @@ msgid ""
 "orientados a la transformación social y el bien común."
 msgstr ""
 
-#: index.php:45
+#: index.php:40
 msgid "Territorio"
 msgstr ""
 
-#: index.php:47
+#: index.php:42
 msgid ""
 "LaT se encuentra en la 8a planta del edificio Mediatic, junto a la "
 "<b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y "
@@ -206,11 +209,11 @@ msgid ""
 "formación y un fuerte tejido empresarial tecnológico."
 msgstr ""
 
-#: index.php:51
+#: index.php:46
 msgid "Contexto tecnológico"
 msgstr ""
 
-#: index.php:53
+#: index.php:48
 msgid ""
 "Estamos al inicio de una <b>\"4ª revolución industrial\"</b> que "
 "reconfigurará, de lo molecular a lo global, las estructuras materiales de la "
@@ -223,11 +226,11 @@ msgid ""
 "bien común</b>. LaT aspira a nutrir esas alternativas."
 msgstr ""
 
-#: index.php:57
+#: index.php:52
 msgid "Visión"
 msgstr ""
 
-#: index.php:59
+#: index.php:54
 msgid ""
 "En LaT queremos ser un <b>ateneu de experimentación tecnopolítica</b> que "
 "sirva como catalizador de proyectos y comunidades de investigación, "
@@ -239,94 +242,94 @@ msgid ""
 "tecnologías y la transformación social."
 msgstr ""
 
-#: index.php:63
+#: index.php:58
 msgid "Misión"
 msgstr ""
 
-#: index.php:65
+#: index.php:60
 msgid "LaT es un proyecto orientado a:"
 msgstr ""
 
-#: index.php:69
+#: index.php:64
 msgid ""
 "<b>Analizar y diagnosticar</b> críticamente los modos de producción y uso de "
 "tecnologías, hoy."
 msgstr ""
 
-#: index.php:72
+#: index.php:67
 msgid ""
 "<b>Explorar nuevas tendencias</b> en la intersección entre tecnologías, "
 "subjetividad y sociedad."
 msgstr ""
 
-#: index.php:75
+#: index.php:70
 msgid ""
 "Promover proyectos de <b>pensamiento, investigación, prototipado y diseño "
 "de</b> tecnologías libres para el bien común."
 msgstr ""
 
-#: index.php:78
+#: index.php:73
 msgid ""
 "<b>Potenciar redes y comunidades</b> tecnopoliticas de aprendizaje, "
 "conocimiento y acción."
 msgstr ""
 
-#: index.php:81
+#: index.php:76
 msgid ""
 "<b>Contribuir al bien común</b> de su entorno próximo, Poble Nou, Barcelona "
 "y el planeta."
 msgstr ""
 
-#: index.php:99
+#: index.php:94
 msgid "Virtual Reality Hub (VRHub)"
 msgstr ""
 
-#: index.php:103
+#: index.php:98
 msgid ""
 "Realidad Virtual aplicada a políticas públicas, bien común, cambio "
 "climático, género y arte"
 msgstr ""
 
-#: index.php:107
+#: index.php:102
 msgid ""
 "VRHub: iniciativa destinada a concentrar talento, oportunidades y "
 "conocimiento en el campo de la Realidad Virtual desde un enfoque social."
 msgstr ""
 
-#: index.php:111 index.php:153 index.php:174
+#: index.php:106 index.php:154 index.php:178
 msgid "Coordinador"
 msgstr ""
 
-#: index.php:111
+#: index.php:107
 msgid "Oscar Marín"
 msgstr ""
 
-#: index.php:112 index.php:175
+#: index.php:108 index.php:180
 msgid "Curador"
 msgstr ""
 
-#: index.php:112 index.php:133
+#: index.php:109 index.php:133
 msgid "Javier Toret"
 msgstr ""
 
-#: index.php:113 index.php:134 index.php:155 index.php:176
+#: index.php:110 index.php:134 index.php:158 index.php:182
 msgid "Próximo evento"
 msgstr ""
 
-#: index.php:113
+#: index.php:111
 msgid "7 de julio"
 msgstr ""
 
-#: index.php:120
+#: index.php:118
 msgid "Barcelona Futura"
 msgstr ""
 
-#: index.php:124
+#: index.php:122
 msgid "Algo·ritmos del bien común. Diagramando la ciudad para nuestras nietas"
 msgstr ""
 "Algo-ritmos para el bien común. Diagramando la ciudad para nuestras nietas"
 
-#: index.php:128
+#: index.php:126
 msgid ""
 "Una llamada a imaginar futuros posibles para la ciudad y el municipalismo "
 "desde un enfoque tecnopolítica, transversal y de los comunes."
@@ -334,23 +337,23 @@ msgstr ""
 "Una llamada a imaginar futuros posibles para la ciudad y el municipalismo "
 "desde un enfoque tecnopolítico, transversal y de los comunes."
 
-#: index.php:132
+#: index.php:130
 msgid "Coordinadores"
 msgstr ""
 
-#: index.php:132
-msgid "Pablo de Soto"
+#: index.php:131
+msgid "Pablo DeSoto"
 msgstr ""
 
-#: index.php:132 index.php:133
+#: index.php:131 index.php:133
 msgid "y"
 msgstr ""
 
-#: index.php:132
+#: index.php:131
 msgid "Jose Pérez de Lama"
 msgstr ""
 
-#: index.php:133 index.php:154
+#: index.php:132 index.php:156
 msgid "Curadores"
 msgstr ""
 
@@ -358,84 +361,230 @@ msgstr ""
 msgid "Antonio Calleja"
 msgstr ""
 
-#: index.php:134
+#: index.php:135
 msgid "14 y 15 de julio"
 msgstr ""
 
-#: index.php:141
+#: index.php:142
 msgid "Ciberfeminismo"
 msgstr ""
 
-#: index.php:145
+#: index.php:146
 msgid ""
 "En las intersecciones entre género y tecnologías. Feminismos y ciberespacio."
 msgstr ""
 
-#: index.php:149
+#: index.php:150
 msgid ""
 "Pasado, presente, futuro: un ciclo para visibilizar espacios de acción "
 "ciberfeminista y facilitar la diversidad de género en campo tecnológico"
 msgstr ""
 
-#: index.php:155
+#: index.php:159
 msgid "9 de junio"
 msgstr ""
 
-#: index.php:166
+#: index.php:170
 msgid "Tecnopolíticas del diseño y prácticas del hacer para el bien común."
 msgstr ""
 
-#: index.php:170
+#: index.php:174
 msgid ""
 "Makers de barrio: vamos a pensar, diseñar y construir herramientas y "
 "dispositivos para el entorno urbano como bien común"
 msgstr ""
 
-#: index.php:176
+#: index.php:182
 msgid "23 de junio"
 msgstr ""
 
-#: index.php:188
+#: index.php:201
+msgid ""
+"Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación "
+"de líneas de investigación y desarrollo."
+msgstr ""
+
+#: index.php:205
+msgid ""
+"Me gusta conectar y producir multiplicidades variables e intensivas entre "
+"filosofía,\n"
+"                            clínica, política, tecnologia, comunicación, "
+"datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.\n"
+"                            Rebelcities. Comunes. GlobalSouth. Investigador, "
+"psicólogo, activista y tecnólogo."
+msgstr ""
+"Investigador, psicólogo, activista y tecnólogo.  \n"
+"Me gusta conectar y producir multiplicidades potentes entre filosofía, "
+"clínica, política, tecnologia, comunicación, datos, redes, deseo y "
+"movimientos. "
+
+#: index.php:219
+msgid "Project Manager"
+msgstr ""
+
+#: index.php:223
+msgid ""
+"Jurista, eterna estudiante de entornos digitales y cambio social. Me "
+"interesa\n"
+"                            todo lo que tiene que ver con la cultura "
+"digital, la soberanía tecnológica y el activismo social."
+msgstr ""
+
+#: index.php:235
+msgid "Responsable de Comunicación. Equipo de Producción"
+msgstr ""
+
+#: index.php:239
+msgid ""
+"Si sale comunicación es por que me ha molado el arte del micro-relato, así, "
+"en redes;\n"
+"                            lo de la producción es accidental, como lo mejor "
+"que siempre pasa en la vida. Filólogo, activista y escritor."
+msgstr ""
+
+#: index.php:251
+msgid ""
+"Curaduría de proyectos y coordinación de líneas de investigación y "
+"desarrollo."
+msgstr ""
+
+#: index.php:255
+msgid "Investigador, IN3/UOC."
+msgstr "Investigador, IN3/UOC, Equipo Decidim. "
+
+#: index.php:266
+msgid "Equipo de producción y comunicación."
+msgstr ""
+
+#: index.php:270
+msgid "Investigadora. Comunicación política y periodismo de datos."
+msgstr ""
+
+#: index.php:281 index.php:401
+msgid "Equipo de comunicación."
+msgstr ""
+
+#: index.php:285
+msgid ""
+"Periodista con interés práctico y teórico en ciencia de datos, activismo\n"
+"                            social y uso de la tecnología para el cambio "
+"social y el bien común."
+msgstr ""
+
+#: index.php:300
+msgid "Equipo de comunicación. Responsable de laT[le]."
+msgstr ""
+
+#: index.php:304
+msgid ""
+"Periodista optimista. Activista zen. Presentador TV. #CulturaDigital "
+"@tipstve Radio @scannerfm @350BCN"
+msgstr ""
+
+#: index.php:315 index.php:331 index.php:368 index.php:417
+msgid "Equipo de comunicación/web"
+msgstr ""
+
+#: index.php:319
+msgid ""
+"Psicólogo y programador con ínfulas de activista. De vez en cuando\n"
+"                            intenta mejorar el mundo con escarceos en ONG’s."
+msgstr ""
+
+#: index.php:335
+msgid ""
+"Permanentemente a caballo entre la ingeniería, la investigación y la "
+"cinematografía.\n"
+"                            Interesado en el impacto de las nuevas "
+"tecnologías en la sociedad y en el individuo, y fundamentalmente\n"
+"                            en las implicaciones de los avances en "
+"inteligencia artificial y big data."
+msgstr ""
+
+#: index.php:348
+msgid "Equipo de producción"
+msgstr ""
+
+#: index.php:352
+msgid ""
+"Me gusta innovar a través de la tecnología y ayudar a crear productos de "
+"software\n"
+"                            técnicamente excelentes que mejoran la vida "
+"humana. Valoro fuertes relaciones humanas basadas\n"
+"                            en la confianza y el respeto mutuo."
+msgstr ""
+
+#: index.php:372
+msgid ""
+"Ingeniero informático y entusiasta de la tecnología. Interesado en big "
+"data,\n"
+"                            código abierto y derechos digitales."
+msgstr ""
+
+#: index.php:384
+msgid "Equipo de Producción."
+msgstr ""
+
+#: index.php:388
+msgid ""
+"Surfeando entre saberes expertos y activistas, entre lo local y lo "
+"metropolit(ano).\n"
+"                            Produciendo para el común siempre que sea sexy y "
+"me aseguren que se puede liar parda ;)  \n"
+"                            Nota: no lo sé como traducir al inglés…"
+msgstr ""
+
+#: index.php:405
+msgid ""
+"Costurera: a veces con hilos otras en redes, con experiencia cosiendo en\n"
+"                            movimientos sociales y medios de comunicación."
+msgstr ""
+
+#: index.php:421
+msgid "Ingeniero informático y entusiasta de la tecnología."
+msgstr ""
+
+#: index.php:433
 msgid ""
 "La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
 "tiempo."
 msgstr ""
 
-#: index.php:189
+#: index.php:434
 msgid ""
 "Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
 "una cerveza en la mano."
 msgstr ""
 
-#: index.php:190
+#: index.php:435
 msgid "Consulta nuestro calendario de actividades."
 msgstr ""
 
-#: index.php:205
+#: index.php:443
 msgid "Los Jueves: Beer2peer"
 msgstr ""
 
-#: index.php:206
+#: index.php:444
 msgid ""
 "Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
 "eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
 "eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
 msgstr ""
 
-#: index.php:210
+#: index.php:447
 msgid ""
 "<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
 "relevantes en los ámbitos de interés de laT. Curadoria de laT."
 msgstr ""
 
-#: index.php:214
+#: index.php:451
 msgid ""
 "<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
 "varios colectivos, proyecto o red para que presenten su trabajo y los "
 "conocimientos sobre temas específicos. Curadoría de laT."
 msgstr ""
 
-#: index.php:218
+#: index.php:455
 msgid ""
 "<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
 "              Seminario permanente de investigación colectiva sobre "
@@ -443,59 +592,59 @@ msgid ""
 "              Curadoria de Emmanuele Ecozzo y Luce prignano."
 msgstr ""
 
-#: index.php:224
+#: index.php:460
 msgid ""
 "Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
 "presentaciones."
 msgstr ""
 
-#: index.php:240
+#: index.php:483
 msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
 msgstr ""
 
-#: index.php:241
+#: index.php:484
 msgid "Por lo que hemos habilitado varias formas para que participes."
 msgstr ""
 
-#: index.php:249
+#: index.php:492
 msgid ""
 "Síguenos en las redes sociales, donde tendrás la info actualizada de los "
 "proyectos y del laboratorio."
 msgstr ""
 
-#: index.php:268
+#: index.php:511
 msgid ""
 "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
 "del laboratorio."
 msgstr ""
 
-#: index.php:275
+#: index.php:518
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
 "recibir las informaciones de alguno de los proyectos, aquí puedes "
 "suscribirte y empezar a formar parte de las distintas comunidades."
 msgstr ""
 
-#: index.php:282
+#: index.php:525
 msgid ""
 "Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
 "nuestras actividades. También se retransmiten en directo por si no puedes "
 "venir."
 msgstr ""
 
-#: index.php:288
+#: index.php:531
 msgid "Proponnos alguna actividad o proyecto"
 msgstr ""
 
-#: index.php:294
+#: index.php:537
 msgid "Nombre"
 msgstr ""
 
-#: index.php:306
+#: index.php:549
 msgid "Mensaje"
 msgstr ""
 
-#: index.php:312
+#: index.php:555
 msgid "Enviar"
 msgstr ""
 
