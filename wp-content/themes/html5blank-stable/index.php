@@ -20,12 +20,12 @@
     <section id="about" class="about-section">
         <div class="container central-column-no-padding">
             <div class="row padding-5 padding-bottom">
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 bigger-font">
+                <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 bigger-font">
                 <p><?php _e('La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y sociedad. El laboratorio quiere ser un catalizador de proyectos y comunidades de investigación, desarrollo y prototipado tecnológico orientados a la transformación social y el bien común.', 'html5blank'); ?></p>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                 </div>
             </div>
             <div class="row">
