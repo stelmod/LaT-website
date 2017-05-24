@@ -3,7 +3,7 @@
     <!-- Intro Section -->
     <section id="intro" class="intro-section">
         <div class="fullscreen-bg">
-            <video controls autoplay loop muted playsinline class="fullscreen-bg__video">
+            <video controls autoplay loop muted playsinline poster="<?php echo get_bloginfo('template_url') ?>/img/planB_home.png" class="fullscreen-bg__video">
                 <source src="<?php echo get_bloginfo('template_url') ?>/img/TOB.mp4" type="video/mp4"/>
             </video>
         </div>
