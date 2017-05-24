@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-24 16:50+0200\n"
-"PO-Revision-Date: 2017-05-24 16:56+0200\n"
+"POT-Creation-Date: 2017-05-24 21:45+0200\n"
+"PO-Revision-Date: 2017-05-24 21:48+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -173,15 +173,15 @@ msgstr "Què és LaT?"
 msgid "Proyectos"
 msgstr "Projectes"
 
-#: header.php:58
-msgid "Quiénes somos"
-msgstr "Qui som"
-
-#: header.php:61 index.php:432
+#: header.php:58 index.php:193
 msgid "Actividades"
 msgstr "Activitats"
 
-#: header.php:64 index.php:480
+#: header.php:61 index.php:241
+msgid "Quiénes somos"
+msgstr "Qui som"
+
+#: header.php:64 index.php:483
 msgid "Participa"
 msgstr "Participa"
 
@@ -448,7 +448,75 @@ msgstr ""
 msgid "23 de junio"
 msgstr "23 de Juny"
 
-#: index.php:201
+#: index.php:194
+msgid ""
+"La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
+"tiempo."
+msgstr ""
+
+#: index.php:195
+msgid ""
+"Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
+"una cerveza en la mano."
+msgstr ""
+
+#: index.php:196
+msgid "Consulta nuestro calendario de actividades."
+msgstr ""
+
+#: index.php:204
+msgid "Los Jueves: Beer2peer"
+msgstr "Els Dijous Beer2peer"
+
+#: index.php:205
+msgid ""
+"Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
+"eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
+"eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
+msgstr ""
+"Tots els dijous, a partir de les 18.30, ens trobaràs a LaT amb diferents "
+"activitats en una lògica informal, acollidora i unes birres per amenitzar. "
+"Els esdeveniments canviaran a cada setmana, amb els TrendingTalks i CCC i el "
+"C-4:"
+
+#: index.php:208
+msgid ""
+"<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
+"relevantes en los ámbitos de interés de laT. Curadoria de laT."
+msgstr ""
+"<i>TrendingTalks:</i> Conferències amb persones que pensem que són "
+"rellevants en els àmbits d'interès de LaT. Curadoria de LaT."
+
+#: index.php:212
+msgid ""
+"<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
+"varios colectivos, proyecto o red para que presenten su trabajo y los "
+"conocimientos sobre temas específicos. Curadoría de laT."
+msgstr ""
+"<i>CCC / Compartiu coneximent colectiu</i>: convidarem a un o diversos "
+"col·lectius, projecte o xarxa perquè presentin el seu treball i els "
+"coneixements sobre temes específics. Curadoria de LaT."
+
+#: index.php:216
+msgid ""
+"<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
+"              Seminario permanente de investigación colectiva sobre "
+"ciencias, tecnologías y transformación social. \n"
+"              Curadoria de Emmanuele Ecozzo y Luce prignano."
+msgstr ""
+"<i>C-4</i>: Ciències - Comuns - Ciutats - Comunitats.\n"
+"Seminari permanent d'investigació col·lectiva sobre ciències, tecnologies i "
+"transformació social. Curadoria d’Emmanuele Ecozzo i Luce Prignano."
+
+#: index.php:221
+msgid ""
+"Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
+"presentaciones."
+msgstr ""
+"Els divendres a partir de les 18.30: Sessions dels nostres Projectes i "
+"presentacions."
+
+#: index.php:252
 msgid ""
 "Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación "
 "de líneas de investigación y desarrollo."
@@ -456,7 +524,7 @@ msgstr ""
 "Coordinació de laT. Curadoria de projectes. Coordinació de línies de recerca "
 "i desenvolupament."
 
-#: index.php:205
+#: index.php:256
 msgid ""
 "Me gusta conectar y producir multiplicidades variables e intensivas entre "
 "filosofía,\n"
@@ -469,11 +537,11 @@ msgstr ""
 "M'agrada connectar i produir multiplicitats potens entre filosofia, clinica, "
 "política, tecnologia, comunicació, dades, xarxes, desig, moviments. "
 
-#: index.php:219
+#: index.php:270
 msgid "Project Manager"
 msgstr ""
 
-#: index.php:223
+#: index.php:274
 msgid ""
 "Jurista, eterna estudiante de entornos digitales y cambio social. Me "
 "interesa\n"
@@ -484,11 +552,11 @@ msgstr ""
 "el que té a veure amb la cultura digital, la sobirania tecnològica i "
 "l'activisme social."
 
-#: index.php:235
+#: index.php:286
 msgid "Responsable de Comunicación. Equipo de Producción"
 msgstr "Responsable de comunicació i de l’equip de producció. "
 
-#: index.php:239
+#: index.php:290
 msgid ""
 "Si sale comunicación es por que me ha molado el arte del micro-relato, así, "
 "en redes;\n"
@@ -499,30 +567,30 @@ msgstr ""
 "xarxes; el de la producció és accidental, com el millor que sempre passa en "
 "la vida. Filòleg, activista i escriptor."
 
-#: index.php:251
+#: index.php:302
 msgid ""
 "Curaduría de proyectos y coordinación de líneas de investigación y "
 "desarrollo."
 msgstr ""
 "Curadoria de projectes i coordinació de línies de recerca i desenvolupament."
 
-#: index.php:255
+#: index.php:306
 msgid "Investigador, IN3/UOC."
 msgstr "Investigador, IN3/UOC, Equip Decidim."
 
-#: index.php:266
+#: index.php:317
 msgid "Equipo de producción y comunicación."
 msgstr "Eunate Serrano. Equip de producció y comunicació. "
 
-#: index.php:270
+#: index.php:321
 msgid "Investigadora. Comunicación política y periodismo de datos."
 msgstr "Investigadora. Comunicació política i periodisme de dades."
 
-#: index.php:281 index.php:401
+#: index.php:332 index.php:452
 msgid "Equipo de comunicación."
 msgstr "Equip de comunicació. "
 
-#: index.php:285
+#: index.php:336
 msgid ""
 "Periodista con interés práctico y teórico en ciencia de datos, activismo\n"
 "                            social y uso de la tecnología para el cambio "
@@ -531,11 +599,11 @@ msgstr ""
 "Periodista amb interès pràctic i teòric en ciència de dades, activisme "
 "social i ús de la tecnologia per al canvi social i el bé comú."
 
-#: index.php:300
+#: index.php:351
 msgid "Equipo de comunicación. Responsable de laT[le]."
 msgstr "Bruno Sokolowicz. Equip de comunicació. Responsable de laT[le]"
 
-#: index.php:304
+#: index.php:355
 msgid ""
 "Periodista optimista. Activista zen. Presentador TV. #CulturaDigital "
 "@tipstve Radio @scannerfm @350BCN"
@@ -543,11 +611,11 @@ msgstr ""
 "Periodista optimista ツ Activista zen  Presentador  TV #CulturaDigital "
 "@tipstve  Radio  @scannerfm @350BCN "
 
-#: index.php:315 index.php:331 index.php:368 index.php:417
+#: index.php:366 index.php:382 index.php:416 index.php:468
 msgid "Equipo de comunicación/web"
 msgstr "Equip de comunicació/web"
 
-#: index.php:319
+#: index.php:370
 msgid ""
 "Psicólogo y programador con ínfulas de activista. De vez en cuando\n"
 "                            intenta mejorar el mundo con escarceos en ONG’s."
@@ -555,7 +623,7 @@ msgstr ""
 "Psicòleg i programador amb ínfules d'activista. De tant en tant intenta "
 "millorar el món participant en ONG’s."
 
-#: index.php:335
+#: index.php:386
 msgid ""
 "Permanentemente a caballo entre la ingeniería, la investigación y la "
 "cinematografía.\n"
@@ -564,16 +632,15 @@ msgid ""
 "                            en las implicaciones de los avances en "
 "inteligencia artificial y big data."
 msgstr ""
-"Permanentment a cavall entre l'enginyeria, la recerca i la cinematografia. "
-"Interessat en l'impacte de les noves tecnologies en la societat i en "
-"l'individu, i fonamentalment en les implicacions dels avenços en "
-"intel·ligència artificial i big data."
+"Enginyer i investigador. Interessat en l'impacte de les noves tecnologies, "
+"especialment intel·ligència artificial i big data, en la societat i en "
+"l'individu."
 
-#: index.php:348
+#: index.php:399
 msgid "Equipo de producción"
 msgstr "Equip de producció"
 
-#: index.php:352
+#: index.php:403
 msgid ""
 "Me gusta innovar a través de la tecnología y ayudar a crear productos de "
 "software\n"
@@ -585,7 +652,7 @@ msgstr ""
 "programari tècnicament excel·lents que milloren la vida humana. Valoro les "
 "relacions humanes basades en la confiança i el respecte mutu."
 
-#: index.php:372
+#: index.php:420
 msgid ""
 "Ingeniero informático y entusiasta de la tecnología. Interesado en big "
 "data,\n"
@@ -594,11 +661,11 @@ msgstr ""
 "Enginyer informàtic i entusiasta de la tecnologia. Interessat en big data, "
 "codi obert i drets digitals."
 
-#: index.php:384
+#: index.php:432
 msgid "Equipo de Producción."
 msgstr "Equip de producció."
 
-#: index.php:388
+#: index.php:436
 msgid ""
 "Surfeando entre saberes expertos y activistas, entre lo local y lo "
 "metropolit(ano).\n"
@@ -610,7 +677,7 @@ msgstr ""
 "metropolit(anus). Produint per al comú sempre que sigui sexy i m'assegurin "
 "que es pot liar parda ;)"
 
-#: index.php:405
+#: index.php:456
 msgid ""
 "Costurera: a veces con hilos otras en redes, con experiencia cosiendo en\n"
 "                            movimientos sociales y medios de comunicación."
@@ -618,87 +685,19 @@ msgstr ""
 "Costurera: de vegades amb fils, altres en xarxes, amb experiència cosint en "
 "moviments socials i mitjans de comunicació."
 
-#: index.php:421
+#: index.php:472
 msgid "Ingeniero informático y entusiasta de la tecnología."
 msgstr "Enginyer informàtic i entusiasta de la tecnologia."
 
-#: index.php:433
-msgid ""
-"La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
-"tiempo."
-msgstr ""
-
-#: index.php:434
-msgid ""
-"Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
-"una cerveza en la mano."
-msgstr ""
-
-#: index.php:435
-msgid "Consulta nuestro calendario de actividades."
-msgstr ""
-
-#: index.php:443
-msgid "Los Jueves: Beer2peer"
-msgstr "Els Dijous Beer2peer"
-
-#: index.php:444
-msgid ""
-"Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
-"eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
-"eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
-msgstr ""
-"Tots els dijous, a partir de les 18.30, ens trobaràs a LaT amb diferents "
-"activitats en una lògica informal, acollidora i unes birres per amenitzar. "
-"Els esdeveniments canviaran a cada setmana, amb els TrendingTalks i CCC i el "
-"C-4:"
-
-#: index.php:447
-msgid ""
-"<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
-"relevantes en los ámbitos de interés de laT. Curadoria de laT."
-msgstr ""
-"<i>TrendingTalks:</i> Conferències amb persones que pensem que són "
-"rellevants en els àmbits d'interès de LaT. Curadoria de LaT."
-
-#: index.php:451
-msgid ""
-"<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
-"varios colectivos, proyecto o red para que presenten su trabajo y los "
-"conocimientos sobre temas específicos. Curadoría de laT."
-msgstr ""
-"<i>CCC / Compartiu coneximent colectiu</i>: convidarem a un o diversos "
-"col·lectius, projecte o xarxa perquè presentin el seu treball i els "
-"coneixements sobre temes específics. Curadoria de LaT."
-
-#: index.php:455
-msgid ""
-"<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
-"              Seminario permanente de investigación colectiva sobre "
-"ciencias, tecnologías y transformación social. \n"
-"              Curadoria de Emmanuele Ecozzo y Luce prignano."
-msgstr ""
-"<i>C-4</i>: Ciències - Comuns - Ciutats - Comunitats.\n"
-"Seminari permanent d'investigació col·lectiva sobre ciències, tecnologies i "
-"transformació social. Curadoria d’Emmanuele Ecozzo i Luce Prignano."
-
-#: index.php:460
-msgid ""
-"Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
-"presentaciones."
-msgstr ""
-"Els divendres a partir de les 18.30: Sessions dels nostres Projectes i "
-"presentacions."
-
-#: index.php:483
+#: index.php:486
 msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
 msgstr "LaT és un espai obert a la participació i a la creació col·lectiva."
 
-#: index.php:484
+#: index.php:487
 msgid "Por lo que hemos habilitado varias formas para que participes."
 msgstr "Ja tenim diverses formes per a que participis."
 
-#: index.php:492
+#: index.php:495
 msgid ""
 "Síguenos en las redes sociales, donde tendrás la info actualizada de los "
 "proyectos y del laboratorio."
@@ -706,7 +705,7 @@ msgstr ""
 "Segueix-nos a les xarxes socials, on tindràs la info actualitzada dels "
 "projectes i del laboratori."
 
-#: index.php:511
+#: index.php:514
 msgid ""
 "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
 "del laboratorio."
@@ -714,7 +713,7 @@ msgstr ""
 "Subscriu-te a la newsletter de laT perquè t'arribi al teu mail tota la info "
 "del laboratori."
 
-#: index.php:518
+#: index.php:521
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
 "recibir las informaciones de alguno de los proyectos, aquí puedes "
@@ -724,7 +723,7 @@ msgstr ""
 "i rebre les informacions d'algun dels projectes, aquí pots subscriure't i "
 "començar a formar part de les diferents comunitats."
 
-#: index.php:525
+#: index.php:528
 msgid ""
 "Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
 "nuestras actividades. También se retransmiten en directo por si no puedes "
@@ -733,21 +732,21 @@ msgstr ""
 "Si t'has perdut alguna activitat, a laT/le tens tots els videos de les "
 "nostres activitats. També es retransmeten en directe per si no pots venir."
 
-#: index.php:531
+#: index.php:534
 msgid "Proponnos alguna actividad o proyecto"
 msgstr ""
 "Si tens alguna activitat o projecte que sintonitzi amb LaT pots proposar-"
 "aquí."
 
-#: index.php:537
+#: index.php:540
 msgid "Nombre"
 msgstr "Nom"
 
-#: index.php:549
+#: index.php:552
 msgid "Mensaje"
 msgstr "Missatge"
 
-#: index.php:555
+#: index.php:558
 msgid "Enviar"
 msgstr "Enviar"
 

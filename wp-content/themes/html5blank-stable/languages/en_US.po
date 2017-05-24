@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-24 17:03+0200\n"
-"PO-Revision-Date: 2017-05-24 18:58+0200\n"
+"POT-Creation-Date: 2017-05-24 21:47+0200\n"
+"PO-Revision-Date: 2017-05-24 21:48+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -171,15 +171,15 @@ msgstr "What is laT?"
 msgid "Proyectos"
 msgstr "Projects"
 
-#: header.php:58
-msgid "Quiénes somos"
-msgstr "Who we are"
-
-#: header.php:61 index.php:432
+#: header.php:58 index.php:193
 msgid "Actividades"
 msgstr "Events"
 
-#: header.php:64 index.php:480
+#: header.php:61 index.php:241
+msgid "Quiénes somos"
+msgstr "Who we are"
+
+#: header.php:64 index.php:483
 msgid "Participa"
 msgstr "Join Us"
 
@@ -449,14 +449,82 @@ msgstr ""
 msgid "23 de junio"
 msgstr "June, 23"
 
-#: index.php:201
+#: index.php:194
+msgid ""
+"La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
+"tiempo."
+msgstr ""
+
+#: index.php:195
+msgid ""
+"Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
+"una cerveza en la mano."
+msgstr ""
+
+#: index.php:196
+msgid "Consulta nuestro calendario de actividades."
+msgstr ""
+
+#: index.php:204
+msgid "Los Jueves: Beer2peer"
+msgstr "Every Thursday: Beer2Peer"
+
+#: index.php:205
+msgid ""
+"Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
+"eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
+"eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
+msgstr ""
+"Every Thursday, from 6:30pm, LaT will hold different events with an informal "
+"and kind atmosphere and some beers to relax. We will switch events every "
+"week, alternating between Trending Talks, CCC and C-4:"
+
+#: index.php:208
+msgid ""
+"<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
+"relevantes en los ámbitos de interés de laT. Curadoria de laT."
+msgstr ""
+"<i>TrendingTalks</i>: Conferences by people we believe to be relevant in a "
+"diverse range of areas and topics of interest of LaT community. Curated by "
+"LaT. "
+
+#: index.php:212
+msgid ""
+"<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
+"varios colectivos, proyecto o red para que presenten su trabajo y los "
+"conocimientos sobre temas específicos. Curadoría de laT."
+msgstr ""
+"<i>CCC / Compartiu Coneximent Colectiu (Shared Collective Knowledge)</i>: a "
+"collective or a group of collectives, projects or networks to present their "
+"work and share knowledge about a specific topic of interest of LaT "
+"community. Curated by LaT. "
+
+#: index.php:216
+msgid ""
+"<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
+"              Seminario permanente de investigación colectiva sobre "
+"ciencias, tecnologías y transformación social. \n"
+"              Curadoria de Emmanuele Ecozzo y Luce prignano."
+msgstr ""
+"<i>C-4</i>: Science - Commons - Cities - Communities\n"
+"A permanent seminar for collective research on science, technologies and "
+"social transformation. Curated by Emmanuele Ecozzo and Luce Prignano. "
+
+#: index.php:221
+msgid ""
+"Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
+"presentaciones."
+msgstr ""
+"Every Friday, from 6:30pm: Sessions about LaT’s projects and presentations. "
+
+#: index.php:252
 msgid ""
 "Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación "
 "de líneas de investigación y desarrollo."
 msgstr ""
 "Coordinator of LaT. Project curator. Research and development coordinator."
 
-#: index.php:205
+#: index.php:256
 msgid ""
 "Me gusta conectar y producir multiplicidades variables e intensivas entre "
 "filosofía,\n"
@@ -470,11 +538,11 @@ msgstr ""
 "clinic, politics, technology, communication, data, networks, desire and "
 "movements. "
 
-#: index.php:219
+#: index.php:270
 msgid "Project Manager"
 msgstr ""
 
-#: index.php:223
+#: index.php:274
 msgid ""
 "Jurista, eterna estudiante de entornos digitales y cambio social. Me "
 "interesa\n"
@@ -485,11 +553,11 @@ msgstr ""
 "everything related to digital culture, technological sovereignty and social "
 "activism. "
 
-#: index.php:235
+#: index.php:286
 msgid "Responsable de Comunicación. Equipo de Producción"
 msgstr "Communication and Production."
 
-#: index.php:239
+#: index.php:290
 msgid ""
 "Si sale comunicación es por que me ha molado el arte del micro-relato, así, "
 "en redes;\n"
@@ -500,29 +568,29 @@ msgstr ""
 "storytelling in social networks. The production part is accidental, such as "
 "all the best things that happen in life. Philologist, activist and writer."
 
-#: index.php:251
+#: index.php:302
 msgid ""
 "Curaduría de proyectos y coordinación de líneas de investigación y "
 "desarrollo."
 msgstr "Research and development coordinator. Project curator. "
 
-#: index.php:255
+#: index.php:306
 msgid "Investigador, IN3/UOC."
 msgstr "Researcher, IN3/UOC, Decidim Team. "
 
-#: index.php:266
+#: index.php:317
 msgid "Equipo de producción y comunicación."
 msgstr "Production and Communication. "
 
-#: index.php:270
+#: index.php:321
 msgid "Investigadora. Comunicación política y periodismo de datos."
 msgstr "Researcher. Political Communication and Data Journalism."
 
-#: index.php:281 index.php:401
+#: index.php:332 index.php:452
 msgid "Equipo de comunicación."
 msgstr "Communication."
 
-#: index.php:285
+#: index.php:336
 msgid ""
 "Periodista con interés práctico y teórico en ciencia de datos, activismo\n"
 "                            social y uso de la tecnología para el cambio "
@@ -531,11 +599,11 @@ msgstr ""
 "Journalist with practical and theoretical interest in Data Science, Social "
 "Activism and the use of technology for social change and the common good."
 
-#: index.php:300
+#: index.php:351
 msgid "Equipo de comunicación. Responsable de laT[le]."
 msgstr "Communication, laT[le]. "
 
-#: index.php:304
+#: index.php:355
 msgid ""
 "Periodista optimista. Activista zen. Presentador TV. #CulturaDigital "
 "@tipstve Radio @scannerfm @350BCN"
@@ -543,11 +611,11 @@ msgstr ""
 "Optimistic journalist ツ Activist zen  TV Presenter #DigitalCulture  "
 "@tipstve Radio.   @scannerfm    @350BCN "
 
-#: index.php:315 index.php:331 index.php:368 index.php:417
+#: index.php:366 index.php:382 index.php:416 index.php:468
 msgid "Equipo de comunicación/web"
 msgstr "Communication/Web"
 
-#: index.php:319
+#: index.php:370
 msgid ""
 "Psicólogo y programador con ínfulas de activista. De vez en cuando\n"
 "                            intenta mejorar el mundo con escarceos en ONG’s."
@@ -555,7 +623,7 @@ msgstr ""
 "Psychologist and programmer with an enthusiasm for activism. Once in a while "
 "he tries to make a better world by collaborating with NGOs. "
 
-#: index.php:335
+#: index.php:386
 msgid ""
 "Permanentemente a caballo entre la ingeniería, la investigación y la "
 "cinematografía.\n"
@@ -564,16 +632,14 @@ msgid ""
 "                            en las implicaciones de los avances en "
 "inteligencia artificial y big data."
 msgstr ""
-"In a permanent movement between Engineering, research and cinematography. "
-"Interested in the impact of new technologies in society and individuals, and "
-"fundamentally, in the implications of the development of Artificial "
-"Intelligence and big data. "
+"Engineer and researcher. Interested in the impact of new technologies, esp. "
+"Artificial Intelligence and big data, in society and individuals."
 
-#: index.php:348
+#: index.php:399
 msgid "Equipo de producción"
 msgstr "Production"
 
-#: index.php:352
+#: index.php:403
 msgid ""
 "Me gusta innovar a través de la tecnología y ayudar a crear productos de "
 "software\n"
@@ -585,7 +651,7 @@ msgstr ""
 "technology and in software solutions of excellence made to improve people’s "
 "lives. She values human relations based on confidence and mutual respect. "
 
-#: index.php:372
+#: index.php:420
 msgid ""
 "Ingeniero informático y entusiasta de la tecnología. Interesado en big "
 "data,\n"
@@ -594,11 +660,11 @@ msgstr ""
 "Software engineer and technology enthusiast. Interested in big data, open "
 "source and digital rights."
 
-#: index.php:384
+#: index.php:432
 msgid "Equipo de Producción."
 msgstr "Production."
 
-#: index.php:388
+#: index.php:436
 msgid ""
 "Surfeando entre saberes expertos y activistas, entre lo local y lo "
 "metropolit(ano).\n"
@@ -609,7 +675,7 @@ msgstr ""
 "Surfing on expert knowledge and activism, between the local and the "
 "metropolis. Producing for the Commons whenever it is sexy. "
 
-#: index.php:405
+#: index.php:456
 msgid ""
 "Costurera: a veces con hilos otras en redes, con experiencia cosiendo en\n"
 "                            movimientos sociales y medios de comunicación."
@@ -617,87 +683,19 @@ msgstr ""
 "A sewer: sometimes using sewing thread and sometimes, networks. With "
 "experience in sewing social movements and media. "
 
-#: index.php:421
+#: index.php:472
 msgid "Ingeniero informático y entusiasta de la tecnología."
 msgstr "Software engineer and technology enthusiast."
 
-#: index.php:433
-msgid ""
-"La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
-"tiempo."
-msgstr ""
-
-#: index.php:434
-msgid ""
-"Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
-"una cerveza en la mano."
-msgstr ""
-
-#: index.php:435
-msgid "Consulta nuestro calendario de actividades."
-msgstr ""
-
-#: index.php:443
-msgid "Los Jueves: Beer2peer"
-msgstr "Every Thursday: Beer2Peer"
-
-#: index.php:444
-msgid ""
-"Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
-"eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
-"eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
-msgstr ""
-"Every Thursday, from 6:30pm, LaT will hold different events with an informal "
-"and kind atmosphere and some beers to relax. We will switch events every "
-"week, alternating between Trending Talks, CCC and C-4:"
-
-#: index.php:447
-msgid ""
-"<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
-"relevantes en los ámbitos de interés de laT. Curadoria de laT."
-msgstr ""
-"<i>TrendingTalks</i>: Conferences by people we believe to be relevant in a "
-"diverse range of areas and topics of interest of LaT community. Curated by "
-"LaT. "
-
-#: index.php:451
-msgid ""
-"<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
-"varios colectivos, proyecto o red para que presenten su trabajo y los "
-"conocimientos sobre temas específicos. Curadoría de laT."
-msgstr ""
-"<i>CCC / Compartiu Coneximent Colectiu (Shared Collective Knowledge)</i>: a "
-"collective or a group of collectives, projects or networks to present their "
-"work and share knowledge about a specific topic of interest of LaT "
-"community. Curated by LaT. "
-
-#: index.php:455
-msgid ""
-"<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
-"              Seminario permanente de investigación colectiva sobre "
-"ciencias, tecnologías y transformación social. \n"
-"              Curadoria de Emmanuele Ecozzo y Luce prignano."
-msgstr ""
-"<i>C-4</i>: Science - Commons - Cities - Communities\n"
-"A permanent seminar for collective research on science, technologies and "
-"social transformation. Curated by Emmanuele Ecozzo and Luce Prignano. "
-
-#: index.php:460
-msgid ""
-"Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
-"presentaciones."
-msgstr ""
-"Every Friday, from 6:30pm: Sessions about LaT’s projects and presentations. "
-
-#: index.php:483
+#: index.php:486
 msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
 msgstr "LaT is open to your participation and the collective creation."
 
-#: index.php:484
+#: index.php:487
 msgid "Por lo que hemos habilitado varias formas para que participes."
 msgstr "For now, we have a few options for you to join us."
 
-#: index.php:492
+#: index.php:495
 msgid ""
 "Síguenos en las redes sociales, donde tendrás la info actualizada de los "
 "proyectos y del laboratorio."
@@ -705,14 +703,14 @@ msgstr ""
 "Follow us on social networks, where you will find updated info of our "
 "projects and the laboratory. "
 
-#: index.php:511
+#: index.php:514
 msgid ""
 "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
 "del laboratorio."
 msgstr ""
 "Subscribe to LaT newsletter to get all relevant info at your e-mail box. "
 
-#: index.php:518
+#: index.php:521
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
 "recibir las informaciones de alguno de los proyectos, aquí puedes "
@@ -722,7 +720,7 @@ msgstr ""
 "to participate and to receive all information about any project, subscribe "
 "here and start to be part of our communities."
 
-#: index.php:525
+#: index.php:528
 msgid ""
 "Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
 "nuestras actividades. También se retransmiten en directo por si no puedes "
@@ -732,21 +730,21 @@ msgstr ""
 "get updated. LaT/le also livestreams the activities that take place in the "
 "laboratory. "
 
-#: index.php:531
+#: index.php:534
 msgid "Proponnos alguna actividad o proyecto"
 msgstr ""
 "You can also propose here any activity or project that you believe to "
 "resonate with LaT."
 
-#: index.php:537
+#: index.php:540
 msgid "Nombre"
 msgstr "Name"
 
-#: index.php:549
+#: index.php:552
 msgid "Mensaje"
 msgstr "Message"
 
-#: index.php:555
+#: index.php:558
 msgid "Enviar"
 msgstr "Send"
 
