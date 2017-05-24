@@ -417,6 +417,10 @@ a:hover {
   height: 25px;
 }
 
+.some-very-minor-spacing {
+  height: 10px;
+}
+
 .centering-helper {
   height: 100%;
   display: inline-block;
@@ -426,6 +430,15 @@ a:hover {
 .margin-50 {
   margin-top: 60px;
   margin-bottom: 70px;
+}
+
+.margin-40 {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.margin-bottom-40 {
+  margin-bottom: 40px;
 }
 
 .navbar-default .navbar-nav>li>a:focus {
@@ -596,5 +609,13 @@ ul,li {
   list-style-position: inside;
   margin: 0;
   padding: 0;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+.italics {
+  font-style: italic;
 }
 

@@ -89,7 +89,7 @@
             <div class="row normal-font left-aligned">
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/vr-logo.png" />
-                    <div class="row some-spacing"></div>
+                    <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                       <p class="h-centered"><?php _e('Virtual Reality Hub (VRHub)', 'html5blank'); ?></p>
                     </div>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/futura-logo.png" />
-                    <div class="row some-spacing"></div>
+                    <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                       <p class="h-centered"><?php _e('Barcelona Futura', 'html5blank'); ?></p>
                     </div>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/cyberfeminism-logo.png" />
-                    <div class="row some-spacing"></div>
+                    <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                       <p class="h-centered"><?php _e('Ciberfeminismo', 'html5blank'); ?></p>
                     </div>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/makers-logo.png" />
-                    <div class="row some-spacing"></div>
+                    <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
                         <p class="h-centered">Make/Made</p>
                     </div>
@@ -180,245 +180,6 @@
                       <p><?php _e('Curador', 'html5blank'); ?>:</p>
                       <p><b>Javier Toret</b>
                       <p><?php _e('Próximo evento', 'html5blank'); ?>: <b><?php _e('23 de junio', 'html5blank'); ?></b></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Who are we Section -->
-    <section id="who-are-we" class="who-are-we-section">
-        <div class="container central-column">
-            <div class="row normal-font left-aligned">
-                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/toret.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Javier Toret</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Me gusta conectar y producir multiplicidades variables e intensivas entre filosofía,
-                            clínica, política, tecnologia, comunicación, datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.
-                            Rebelcities. Comunes. GlobalSouth. Investigador, psicólogo, activista y tecnólogo.', 'html5blank'); ?>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/thais.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Thais Ruiz de Alda</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Project Manager', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Jurista, eterna estudiante de entornos digitales y cambio social. Me interesa
-                            todo lo que tiene que ver con la cultura digital, la soberanía tecnológica y el activismo social.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/hector.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Hector Huerga</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Responsable de Comunicación. Equipo de Producción', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Si sale comunicación es por que me ha molado el arte del micro-relato, así, en redes;
-                            lo de la producción es accidental, como lo mejor que siempre pasa en la vida. Filólogo, activista y escritor.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/antonio.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Antonio Calleja</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Curaduría de proyectos y coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Investigador, IN3/UOC.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/eunate.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Eunate Serrano</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de producción y comunicación.', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Investigadora. Comunicación política y periodismo de datos.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/marcela.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Marcela Canavarro</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación.', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Periodista con interés práctico y teórico en ciencia de datos, activismo
-                            social y uso de la tecnología para el cambio social y el bien común.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/bruno.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Bruno Sokolowicz</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación. Responsable de laT[le].', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Periodista optimista. Activista zen. Presentador TV. #CulturaDigital @tipstve Radio @scannerfm @350BCN', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Dani Ortiz</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Psicólogo y programador con ínfulas de activista. De vez en cuando
-                            intenta mejorar el mundo con escarceos en ONG’s.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/sergio.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Sergio Alvarez</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Permanentemente a caballo entre la ingeniería, la investigación y la cinematografía.
-                            Interesado en el impacto de las nuevas tecnologías en la sociedad y en el individuo, y fundamentalmente
-                            en las implicaciones de los avances en inteligencia artificial y big data.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/pinar.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Pinar Wennerberg</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de producción', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Me gusta innovar a través de la tecnología y ayudar a crear productos de software
-                            técnicamente excelentes que mejoran la vida humana. Valoro fuertes relaciones humanas basadas
-                            en la confianza y el respeto mutuo.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/stelios.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Stelios Modes</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Ingeniero informático y entusiasta de la tecnología. Interesado en big data,
-                            código abierto y derechos digitales.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Lliure Hilla Ariza</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de Producción.', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Surfeando entre saberes expertos y activistas, entre lo local y lo metropolit(ano).
-                            Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)  
-                            Nota: no lo sé como traducir al inglés…', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Ana Bastero</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación.', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Costurera: a veces con hilos otras en redes, con experiencia cosiendo en
-                            movimientos sociales y medios de comunicación.', 'html5blank'); ?></p>
-                    </div>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
-                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ste.png" />
-                    <div class="row some-spacing"></div>
-                    <div class="row bigger-font left-aligned">
-                        <p class="h-centered">Stephen Cowley</p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
-                    </div>
-                    <div class="row some-minor-spacing"></div>
-                    <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Ingeniero informático y entusiasta de la tecnología.', 'html5blank'); ?></p>
                     </div>
                 </div>
             </div>
@@ -471,6 +232,248 @@
           </div>
         </div>
       </div>
+    </section>
+
+    <!-- Who are we Section -->
+    <section id="who-are-we" class="who-are-we-section">
+        <div class="container central-column">
+            <div class="row biggest-font margin-40">
+              <p class="text-centered"><?php _e('Quiénes somos', 'html5blank'); ?></p>
+            </div>
+            <div class="row normal-font left-aligned">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/toret.png" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Javier Toret</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered italics"><?php _e('Me gusta conectar y producir multiplicidades variables e intensivas entre filosofía,
+                            clínica, política, tecnologia, comunicación, datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.
+                            Rebelcities. Comunes. GlobalSouth. Investigador, psicólogo, activista y tecnólogo.', 'html5blank'); ?>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/thais.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Thais Ruiz de Alda</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Project Manager', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Jurista, eterna estudiante de entornos digitales y cambio social. Me interesa
+                            todo lo que tiene que ver con la cultura digital, la soberanía tecnológica y el activismo social.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/hector.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Hector Huerga</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Responsable de Comunicación. Equipo de Producción', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Si sale comunicación es por que me ha molado el arte del micro-relato, así, en redes;
+                            lo de la producción es accidental, como lo mejor que siempre pasa en la vida. Filólogo, activista y escritor.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/antonio.png" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Antonio Calleja</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Curaduría de proyectos y coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Investigador, IN3/UOC.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/eunate.png" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Eunate Serrano</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de producción y comunicación.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Investigadora. Comunicación política y periodismo de datos.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/marcela.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Marcela Canavarro</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Periodista con interés práctico y teórico en ciencia de datos, activismo
+                            social y uso de la tecnología para el cambio social y el bien común.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row normal-font left-aligned">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/bruno.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Bruno Sokolowicz</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación. Responsable de laT[le].', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Periodista optimista. Activista zen. Presentador TV. #CulturaDigital @tipstve Radio @scannerfm @350BCN', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Dani Ortiz</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación/web', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Psicólogo y programador con ínfulas de activista. De vez en cuando
+                            intenta mejorar el mundo con escarceos en ONG’s.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/sergio.png" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Sergio Alvarez</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación/web', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Permanentemente a caballo entre la ingeniería, la investigación y la cinematografía.
+                            Interesado en el impacto de las nuevas tecnologías en la sociedad y en el individuo, y fundamentalmente
+                            en las implicaciones de los avances en inteligencia artificial y big data.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/pinar.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Pinar Wennerberg</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de producción', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Me gusta innovar a través de la tecnología y ayudar a crear productos de software
+                            técnicamente excelentes que mejoran la vida humana. Valoro fuertes relaciones humanas basadas
+                            en la confianza y el respeto mutuo.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row normal-font left-aligned">
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/stelios.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Stelios Modes</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación/web', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Ingeniero informático y entusiasta de la tecnología. Interesado en big data,
+                            código abierto y derechos digitales.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Lliure Hilla Ariza</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de Producción.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Surfeando entre saberes expertos y activistas, entre lo local y lo metropolit(ano).
+                            Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)  
+                            Nota: no lo sé como traducir al inglés…', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Ana Bastero</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Costurera: a veces con hilos otras en redes, con experiencia cosiendo en
+                            movimientos sociales y medios de comunicación.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                    <img class="h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ste.png" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Stephen Cowley</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Equipo de comunicación/web', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Ingeniero informático y entusiasta de la tecnología.', 'html5blank'); ?></p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- Participa Section -->
