@@ -497,13 +497,13 @@
                     <div class="row some-minor-spacing"></div>
                     <div class="row icon-array">
                       <a href="https://www.facebook.com/laTBcn">
-                        <img src="<?php echo get_bloginfo('template_url') ?>/img/FB-f-Logo__white_50.png" height="35px"/>
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/FB-f-Logo__white_50.png" class="inverted-glyph" height="35px"/>
                       </a>
                       <a href="https://twitter.com/laTBcn">
-                        <img src="<?php echo get_bloginfo('template_url') ?>/img/Twitter_Logo_White_On_Image.png" height="48px"/>
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/Twitter_Logo_Blue.png" class="grey-glyph" height="48px"/>
                       </a>
                       <a href="https://www.instagram.com/Lat_bcn_/">
-                        <img src="<?php echo get_bloginfo('template_url') ?>/img/glyph-logo_May2016.png" height="35px" class="inverted-glyph"/>
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/glyph-logo_May2016.png" height="35px"/>
                       </a>
                     </div>
                 </div>

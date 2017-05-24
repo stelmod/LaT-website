@@ -260,12 +260,22 @@ of those sections to manage the look and feel of the site. */
     width: 100%;
 }
 
-.participa-section {
+.who-are-we-section {
     display: table;
     min-height: 100%;
     text-align: center;
     background: black;
     color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.participa-section {
+    display: table;
+    min-height: 100%;
+    text-align: center;
+    background: white;
+    color: black;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -617,5 +627,9 @@ ul,li {
 
 .italics {
   font-style: italic;
+}
+
+.grey-glyph {
+  filter: grayscale(100%) saturate(0%) brightness(70%) contrast(1000%);
 }
 
