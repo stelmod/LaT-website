@@ -94,6 +94,9 @@
                     <div class="row lighter-font normal-font left-aligned">
                       <p class="h-centered"><?php _e('VRHub: iniciativa destinada a concentrar talento, oportunidades y conocimiento en el campo de la Realidad Virtual desde un enfoque social.', 'html5blank'); ?></p>
                     </div>
+                    <div class="row lighter-font normal-font left-aligned">
+                      <p class="h-centered"><?php _e('<a href="https://docs.google.com/a/thoughtworks.com/forms/d/1GSMfy8tHhbD-WTDs_Lx4mmkvAEDuoMKtXRvCNfnIjO4/edit">Inscríbete</a>'); ?></p>
+                    </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
                       <p><?php _e('Coordinador', 'html5blank'); ?>:</p>
@@ -117,6 +120,9 @@
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
                       <p class="h-centered"><?php _e('Una llamada a imaginar futuros posibles para la ciudad y el municipalismo desde un enfoque tecnopolítica, transversal y de los comunes.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row lighter-font normal-font left-aligned">
+                      <p class="h-centered"><?php _e('<a href="https://docs.google.com/a/thoughtworks.com/forms/d/1Qp9gZn7V22MW4JUAKEucj2VMpfJNS7VjqdP9102Odpg/edit">Inscríbete</a>'); ?></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
@@ -142,6 +148,9 @@
                     <div class="row lighter-font normal-font left-aligned">
                       <p class="h-centered"><?php _e('Pasado, presente, futuro: un ciclo para visibilizar espacios de acción ciberfeminista y facilitar la diversidad de género en campo tecnológico', 'html5blank'); ?></p>
                     </div>
+                    <div class="row lighter-font normal-font left-aligned">
+                      <p class="h-centered"><?php _e('<a href="https://docs.google.com/a/thoughtworks.com/forms/d/1GSMfy8tHhbD-WTDs_Lx4mmkvAEDuoMKtXRvCNfnIjO4/edit">Inscríbete</a>'); ?></p>
+                    </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
                       <p><?php _e('Coordinadoras', 'html5blank'); ?>:</p>
@@ -165,6 +174,9 @@
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
                       <p class="h-centered"><?php _e('Makers de barrio: vamos a pensar, diseñar y construir herramientas y dispositivos para el entorno urbano como bien común', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row lighter-font normal-font left-aligned">
+                      <p class="h-centered"><?php _e('<a href="https://docs.google.com/a/thoughtworks.com/forms/d/1NSzQXnSaf_jQmkA8b0aohsukoDzU0O6c5-JmPEggZwQ/edit">Inscríbete</a>'); ?></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
@@ -198,15 +210,15 @@
               <p><?php _e('Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos eventos en una lógica informal, acogedora y unas birras para amenizar. Los eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:', 'html5blank'); ?></p>
 
               <p>
-              <?php _e('<i>TrendingTalks:</i> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT.', 'html5blank'); ?>
+              <?php _e('<b>TrendingTalks:</b> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT.', 'html5blank'); ?>
               </p>
 
               <p>
-              <?php _e('<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.', 'html5blank'); ?>
+              <?php _e('<b>CCC / Compartiu coneximent colectiu:</b> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.', 'html5blank'); ?>
               </p>
 
               <p>
-              <?php _e('<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades.
+              <?php _e('<b>C-4:</b> Ciencias - Comunes - Ciudades - Comunidades.
               Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social.
               Curadoria de Emmanuele Ecozzo y Luce prignano.', 'html5blank'); ?>
               </p>
