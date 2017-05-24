@@ -7,13 +7,6 @@
                 <source src="<?php echo get_bloginfo('template_url') ?>/img/TOB.mp4" type="video/mp4"/>
             </video>
         </div>
-        <div class="container centered-t">
-            <div class="row centered inverted">
-                <div class="col-lg-12">
-                  <!-- static image will go here //-->
-                </div>
-            </div>
-        </div>
     </section>
 
     <!-- About Section -->

@@ -102,14 +102,29 @@ html {
   .navbar-collapse.collapsing {
     overflow-y: visible;
     float: right;
-    padding-right: 35px;
     padding-left: 0px;
+  }
+
+  .top-nav-collapse .navbar-collapse.collapsing .navbar-nav {
+    margin-right: 15px;
+  }
+
+  .top-nav-collapse .navbar-collapse.in .navbar-nav {
+    margin-right: 15px;
+  }
+
+  .navbar-collapse.collapsing .navbar-nav {
+    height: initial;
+    width: 200px;
+    margin-right: -30px;
+    background-color: black;
   }
 
   .navbar-collapse.in .navbar-nav {
     height: initial;
     width: 200px;
-    margin-right: 20px;
+    margin-right: -30px;
+    background-color: black;
   }
 
   .top-nav-collapse .navbar-collapse.in .navbar-nav {
@@ -603,12 +618,12 @@ div.navbar-header.page-scroll {
 }
 
 .navbar-default .navbar-toggle:hover {
-  background-color: white;
+  background-color: black;
   border-radius: 0px;
 }
 
 .navbar-default .navbar-toggle:hover .icon-bar {
-  background-color: black;
+  background-color: white;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
