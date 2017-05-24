@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-24 22:11+0200\n"
-"PO-Revision-Date: 2017-05-24 22:14+0200\n"
+"POT-Creation-Date: 2017-05-24 22:28+0200\n"
+"PO-Revision-Date: 2017-05-24 22:29+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -179,7 +179,7 @@ msgstr "Events"
 msgid "Quiénes somos"
 msgstr "Who we are"
 
-#: header.php:64 index.php:490
+#: header.php:64 index.php:505
 msgid "Participa"
 msgstr "Join Us"
 
@@ -598,7 +598,7 @@ msgstr "Production and Communication. "
 msgid "Investigadora. Comunicación política y periodismo de datos."
 msgstr "Researcher. Political Communication and Data Journalism."
 
-#: index.php:339 index.php:459
+#: index.php:339 index.php:474
 msgid "Equipo de comunicación."
 msgstr "Communication."
 
@@ -623,11 +623,19 @@ msgstr ""
 "Optimistic journalist ツ Activist zen  TV Presenter #DigitalCulture  "
 "@tipstve Radio.   @scannerfm    @350BCN "
 
-#: index.php:373 index.php:389 index.php:423 index.php:475
+#: index.php:373
+msgid "Diseño gráfico."
+msgstr "Graphical design."
+
+#: index.php:377
+msgid "Prototipos de mobiliario de diseño abierto. Assoc Makea Tu Vida"
+msgstr "Open design furniture prototyping: Assoc Makea Tu Vida"
+
+#: index.php:388 index.php:404 index.php:438 index.php:490
 msgid "Equipo de comunicación/web"
 msgstr "Communication/Web"
 
-#: index.php:377
+#: index.php:392
 msgid ""
 "Psicólogo y programador con ínfulas de activista. De vez en cuando\n"
 "                            intenta mejorar el mundo con escarceos en ONG’s."
@@ -635,7 +643,7 @@ msgstr ""
 "Psychologist and programmer with an enthusiasm for activism. Once in a while "
 "he tries to make a better world by collaborating with NGOs. "
 
-#: index.php:393
+#: index.php:408
 msgid ""
 "Permanentemente a caballo entre la ingeniería, la investigación y la "
 "cinematografía.\n"
@@ -647,11 +655,11 @@ msgstr ""
 "Engineer and researcher. Interested in the impact of new technologies, esp. "
 "Artificial Intelligence and big data, in society and individuals."
 
-#: index.php:406
+#: index.php:421
 msgid "Equipo de producción"
 msgstr "Production"
 
-#: index.php:410
+#: index.php:425
 msgid ""
 "Me gusta innovar a través de la tecnología y ayudar a crear productos de "
 "software\n"
@@ -663,7 +671,7 @@ msgstr ""
 "technology and in software solutions of excellence made to improve people’s "
 "lives. She values human relations based on confidence and mutual respect. "
 
-#: index.php:427
+#: index.php:442
 msgid ""
 "Ingeniero informático y entusiasta de la tecnología. Interesado en big "
 "data,\n"
@@ -672,11 +680,11 @@ msgstr ""
 "Software engineer and technology enthusiast. Interested in big data, open "
 "source and digital rights."
 
-#: index.php:439
+#: index.php:457
 msgid "Equipo de Producción."
 msgstr "Production."
 
-#: index.php:443
+#: index.php:461
 msgid ""
 "Surfeando entre saberes expertos y activistas, entre lo local y lo "
 "metropolit(ano).\n"
@@ -687,7 +695,7 @@ msgstr ""
 "Surfing on expert knowledge and activism, between the local and the "
 "metropolis. Producing for the Commons whenever it is sexy. "
 
-#: index.php:463
+#: index.php:478
 msgid ""
 "Costurera: a veces con hilos otras en redes, con experiencia cosiendo en\n"
 "                            movimientos sociales y medios de comunicación."
@@ -695,19 +703,19 @@ msgstr ""
 "A sewer: sometimes using sewing thread and sometimes, networks. With "
 "experience in sewing social movements and media. "
 
-#: index.php:479
+#: index.php:494
 msgid "Ingeniero informático y entusiasta de la tecnología."
 msgstr "Software engineer and technology enthusiast."
 
-#: index.php:493
+#: index.php:508
 msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
 msgstr "LaT is open to your participation and the collective creation."
 
-#: index.php:494
+#: index.php:509
 msgid "Por lo que hemos habilitado varias formas para que participes."
 msgstr "For now, we have a few options for you to join us."
 
-#: index.php:502
+#: index.php:517
 msgid ""
 "Síguenos en las redes sociales, donde tendrás la info actualizada de los "
 "proyectos y del laboratorio."
@@ -715,14 +723,14 @@ msgstr ""
 "Follow us on social networks, where you will find updated info of our "
 "projects and the laboratory. "
 
-#: index.php:521
+#: index.php:536
 msgid ""
 "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
 "del laboratorio."
 msgstr ""
 "Subscribe to LaT newsletter to get all relevant info at your e-mail box. "
 
-#: index.php:528
+#: index.php:543
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
 "recibir las informaciones de alguno de los proyectos, aquí puedes "
@@ -732,7 +740,7 @@ msgstr ""
 "to participate and to receive all information about any project, subscribe "
 "here and start to be part of our communities."
 
-#: index.php:535
+#: index.php:550
 msgid ""
 "Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
 "nuestras actividades. También se retransmiten en directo por si no puedes "
@@ -742,21 +750,21 @@ msgstr ""
 "get updated. LaT/le also livestreams the activities that take place in the "
 "laboratory. "
 
-#: index.php:541
+#: index.php:556
 msgid "Proponnos alguna actividad o proyecto"
 msgstr ""
 "You can also propose here any activity or project that you believe to "
 "resonate with LaT."
 
-#: index.php:547
+#: index.php:562
 msgid "Nombre"
 msgstr "Name"
 
-#: index.php:559
+#: index.php:574
 msgid "Mensaje"
 msgstr "Message"
 
-#: index.php:565
+#: index.php:580
 msgid "Enviar"
 msgstr "Send"
 

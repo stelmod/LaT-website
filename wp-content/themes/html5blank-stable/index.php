@@ -363,6 +363,21 @@
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
+                    <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/LaP.png" />
+                    <div class="row some-minor-spacing"></div>
+                    <div class="row bigger-font left-aligned">
+                        <p class="h-centered">Paadin</p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="h-centered"><?php _e('Diseño gráfico.', 'html5blank'); ?></p>
+                    </div>
+                    <div class="row some-very-minor-spacing"></div>
+                    <div class="row lighter-font normal-font left-aligned">
+                        <p class="italics h-centered"><?php _e('Prototipos de mobiliario de diseño abierto. Assoc Makea Tu Vida', 'html5blank'); ?></p>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -428,6 +443,9 @@
                             código abierto y derechos digitales.', 'html5blank'); ?></p>
                     </div>
                 </div>
+            </div>
+
+            <div class="row normal-font left-aligned">
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
                     <div class="row some-minor-spacing"></div>
@@ -445,9 +463,6 @@
                             Nota: no lo sé como traducir al inglés…', 'html5blank'); ?></p>
                     </div>
                 </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
                     <div class="row some-minor-spacing"></div>
