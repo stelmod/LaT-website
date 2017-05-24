@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
 "POT-Creation-Date: 2017-05-24 17:03+0200\n"
-"PO-Revision-Date: 2017-05-24 17:03+0200\n"
+"PO-Revision-Date: 2017-05-24 18:58+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -173,7 +173,7 @@ msgstr "Projects"
 
 #: header.php:58
 msgid "Quiénes somos"
-msgstr ""
+msgstr "Who we are"
 
 #: header.php:61 index.php:432
 msgid "Actividades"
