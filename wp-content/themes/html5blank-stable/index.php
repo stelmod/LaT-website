@@ -198,13 +198,13 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación de líneas de investigación y desarrollo.</i></p>
+                        <p class="h-centered"><i><?php _e('Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Me gusta conectar y producir multiplicidades variables e intensivas entre filosofía,
+                        <p class="h-centered"><?php _e('Me gusta conectar y producir multiplicidades variables e intensivas entre filosofía,
                             clínica, política, tecnologia, comunicación, datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.
-                            Rebelcities. Comunes. GlobalSouth. Investigador, psicólogo, activista y tecnólogo.
+                            Rebelcities. Comunes. GlobalSouth. Investigador, psicólogo, activista y tecnólogo.', 'html5blank'); ?>
                         </p>
                     </div>
                 </div>
@@ -216,12 +216,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Project Manager</i></p>
+                        <p class="h-centered"><i><?php _e('Project Manager', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Jurista, eterna estudiante de entornos digitales y cambio social. Me interesa
-                            todo lo que tiene que ver con la cultura digital, la soberanía tecnológica y el activismo social.</p>
+                        <p class="h-centered"><?php _e('Jurista, eterna estudiante de entornos digitales y cambio social. Me interesa
+                            todo lo que tiene que ver con la cultura digital, la soberanía tecnológica y el activismo social.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
@@ -232,12 +232,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Responsable de Comunicación. Equipo de Producción</i></p>
+                        <p class="h-centered"><i><?php _e('Responsable de Comunicación. Equipo de Producción', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Si sale comunicación es por que me ha molado el arte del micro-relato, así, en redes;
-                            lo de la producción es accidental, como lo mejor que siempre pasa en la vida. Filólogo, activista y escritor.</p>
+                        <p class="h-centered"><?php _e('Si sale comunicación es por que me ha molado el arte del micro-relato, así, en redes;
+                            lo de la producción es accidental, como lo mejor que siempre pasa en la vida. Filólogo, activista y escritor.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
@@ -248,11 +248,11 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Curaduría de proyectos y coordinación de líneas de investigación y desarrollo.</i></p>
+                        <p class="h-centered"><i><?php _e('Curaduría de proyectos y coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Investigador, IN3/UOC.</p>
+                        <p class="h-centered"><?php _e('Investigador, IN3/UOC.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
@@ -263,11 +263,11 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de producción y comunicación.</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de producción y comunicación.', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Investigadora. Comunicación política y periodismo de datos.</p>
+                        <p class="h-centered"><?php _e('Investigadora. Comunicación política y periodismo de datos.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2 col-lg-2 margin-50">
@@ -278,12 +278,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación.</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación.', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Periodista con interés práctico y teórico en ciencia de datos, activismo
-                            social y uso de la tecnología para el cambio social y el bien común.</p>
+                        <p class="h-centered"><?php _e('Periodista con interés práctico y teórico en ciencia de datos, activismo
+                            social y uso de la tecnología para el cambio social y el bien común.', 'html5blank'); ?></p>
                     </div>
                 </div>
             </div>
@@ -297,11 +297,11 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación. Responsable de laT[le].</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación. Responsable de laT[le].', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Periodista optimista. Activista zen. Presentador TV. #CulturaDigital @tipstve Radio @scannerfm @350BCN</p>
+                        <p class="h-centered"><?php _e('Periodista optimista. Activista zen. Presentador TV. #CulturaDigital @tipstve Radio @scannerfm @350BCN', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
@@ -312,12 +312,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación/web</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Psicólogo y programador con ínfulas de activista. De vez en cuando
-                            intenta mejorar el mundo con escarceos en ONG’s.</p>
+                        <p class="h-centered"><?php _e('Psicólogo y programador con ínfulas de activista. De vez en cuando
+                            intenta mejorar el mundo con escarceos en ONG’s.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
@@ -328,13 +328,13 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación/web</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Permanentemente a caballo entre la ingeniería, la investigación y la cinematografía.
+                        <p class="h-centered"><?php _e('Permanentemente a caballo entre la ingeniería, la investigación y la cinematografía.
                             Interesado en el impacto de las nuevas tecnologías en la sociedad y en el individuo, y fundamentalmente
-                            en las implicaciones de los avances en inteligencia artificial y big data.</p>
+                            en las implicaciones de los avances en inteligencia artificial y big data.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
@@ -345,13 +345,13 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de producción</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de producción', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Me gusta innovar a través de la tecnología y ayudar a crear productos de software
+                        <p class="h-centered"><?php _e('Me gusta innovar a través de la tecnología y ayudar a crear productos de software
                             técnicamente excelentes que mejoran la vida humana. Valoro fuertes relaciones humanas basadas
-                            en la confianza y el respeto mutuo.</p>
+                            en la confianza y el respeto mutuo.', 'html5blank'); ?></p>
                     </div>
                 </div>
             </div>
@@ -365,12 +365,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación/web</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Ingeniero informático y entusiasta de la tecnología. Interesado en big data,
-                            código abierto y derechos digitales.</p>
+                        <p class="h-centered"><?php _e('Ingeniero informático y entusiasta de la tecnología. Interesado en big data,
+                            código abierto y derechos digitales.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
@@ -381,12 +381,13 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de Producción.</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de Producción.', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Surfeando entre saberes expertos y activistas, entre lo local y lo metropolit(ano).
-                            Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)  Nota: no lo sé como traducir al inglés…</p>
+                        <p class="h-centered"><?php _e('Surfeando entre saberes expertos y activistas, entre lo local y lo metropolit(ano).
+                            Produciendo para el común siempre que sea sexy y me aseguren que se puede liar parda ;)  
+                            Nota: no lo sé como traducir al inglés…', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
@@ -397,12 +398,12 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación.</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación.', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Costurera: a veces con hilos otras en redes, con experiencia cosiendo en
-                            movimientos sociales y medios de comunicación.</p>
+                        <p class="h-centered"><?php _e('Costurera: a veces con hilos otras en redes, con experiencia cosiendo en
+                            movimientos sociales y medios de comunicación.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-sm-3 col-md-3 col-lg-3 margin-50">
@@ -413,11 +414,11 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><i>Equipo de comunicación/web</i></p>
+                        <p class="h-centered"><i><?php _e('Equipo de comunicación/web', 'html5blank'); ?></i></p>
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered">Ingeniero informático y entusiasta de la tecnología.</p>
+                        <p class="h-centered"><?php _e('Ingeniero informático y entusiasta de la tecnología.', 'html5blank'); ?></p>
                     </div>
                 </div>
             </div>
