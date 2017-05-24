@@ -340,7 +340,7 @@
             </div>
 
             <div class="row normal-font left-aligned">
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/bruno.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -355,7 +355,7 @@
                         <p class="italics h-centered"><?php _e('Periodista optimista. Activista zen. Presentador TV. #CulturaDigital @tipstve Radio @scannerfm @350BCN', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/dani.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -371,7 +371,7 @@
                             intenta mejorar el mundo con escarceos en ONG’s.', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/sergio.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -388,7 +388,7 @@
                             en las implicaciones de los avances en inteligencia artificial y big data.', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/pinar.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -405,10 +405,7 @@
                             en la confianza y el respeto mutuo.', 'html5blank'); ?></p>
                     </div>
                 </div>
-            </div>
-
-            <div class="row normal-font left-aligned">
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/stelios.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -424,7 +421,7 @@
                             código abierto y derechos digitales.', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/lliure.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -441,7 +438,10 @@
                             Nota: no lo sé como traducir al inglés…', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+            </div>
+
+            <div class="row normal-font left-aligned">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ana.jpg" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
@@ -457,7 +457,7 @@
                             movimientos sociales y medios de comunicación.', 'html5blank'); ?></p>
                     </div>
                 </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 margin-bottom-40">
+                <div class="col-sm-2 col-md-2 col-lg-2 margin-bottom-40">
                     <img class="img-circle h-centered" height="100" src="<?php echo get_bloginfo('template_url') ?>/img/ste.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row bigger-font left-aligned">
