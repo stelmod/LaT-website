@@ -509,11 +509,11 @@ msgid ""
 "<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
 "              Seminario permanente de investigación colectiva sobre "
 "ciencias, tecnologías y transformación social. \n"
-"              Curadoria de Emmanuele Ecozzo y Luce prignano."
+"              Curadoria de Emmanuele Cozzo y Luce Prignano."
 msgstr ""
 "<b><i>C-4:</i></b> Science - Commons - Cities - Communities\n"
 "A permanent seminar for collective research on science, technologies and "
-"social transformation. Curated by Emmanuele Ecozzo and Luce Prignano."
+"social transformation. Curated by Emmanuele Cozzo y Luce Prignano."
 
 #: index.php:245
 msgid ""

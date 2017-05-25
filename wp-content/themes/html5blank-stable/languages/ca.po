@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-24 22:29+0200\n"
-"PO-Revision-Date: 2017-05-24 22:29+0200\n"
+"POT-Creation-Date: 2017-05-25 10:22+0200\n"
+"PO-Revision-Date: 2017-05-25 10:27+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -165,27 +165,27 @@ msgstr "No HTML5 en blanc Custom missatges trobats"
 msgid "No HTML5 Blank Custom Posts found in Trash"
 msgstr "No HTML5 en blanc Custom missatges trobats a escombraries"
 
-#: header.php:52
+#: header.php:68
 msgid "¿Qué es LaT?"
 msgstr "Què és LaT?"
 
-#: header.php:55
+#: header.php:71
 msgid "Proyectos"
 msgstr "Projectes"
 
-#: header.php:58 index.php:193
+#: header.php:74 index.php:198
 msgid "Actividades"
 msgstr "Activitats"
 
-#: header.php:61 index.php:239
+#: header.php:77 index.php:244
 msgid "Quiénes somos"
 msgstr "Qui som"
 
-#: header.php:64 index.php:505
+#: header.php:80 index.php:507
 msgid "Participa"
 msgstr "Participa"
 
-#: index.php:26
+#: index.php:19
 msgid ""
 "La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un "
 "centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y "
@@ -199,20 +199,31 @@ msgstr ""
 "desenvolupament i prototipat tecnològic orientats a la transformació social "
 "i el ben comú."
 
-#: index.php:40
+#: index.php:33
 msgid "Territorio"
 msgstr "Territori"
 
-#: index.php:42
+#: index.php:35
+#, fuzzy
+#| msgid ""
+#| "LaT se encuentra en la 8a planta del edificio Mediatic, junto a la "
+#| "<b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana "
+#| "y espacio público. El laboratorio está situado en el distrito de Sant "
+#| "Martí, en el llamado <b>22@</b>, un área promovida como <b>distrito motor "
+#| "de la innovación tecnológica y del conocimiento en Barcelona</b>. "
+#| "Poblenou es un barrio con una fuerte tradición asociativa, con gran "
+#| "arraigo de colectivos makers, huertos urbanos y gran concentración de "
+#| "centros de investigación y formación y un fuerte tejido empresarial "
+#| "tecnológico."
 msgid ""
 "LaT se encuentra en la 8a planta del edificio Mediatic, junto a la "
 "<b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y "
 "espacio público. El laboratorio está situado en el distrito de Sant Martí, "
-"en el llamado <b>22@</b>, un área promovida como <b>distrito motor de la "
-"innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un "
-"barrio con una fuerte tradición asociativa, con gran arraigo de colectivos "
-"makers, huertos urbanos y gran concentración de centros de investigación y "
-"formación y un fuerte tejido empresarial tecnológico."
+"en el <b>22@</b>, un área promovida como <b>distrito motor de la innovación "
+"tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con "
+"una fuerte tradición asociativa, con gran arraigo de colectivos makers, "
+"huertos urbanos y gran concentración de centros de investigación y formación "
+"y un fuerte tejido empresarial tecnológico."
 msgstr ""
 "LaT es troba en la 8a planta de l'edifici Mediàtic, al costat de la "
 "<b>Superilla del Poblenou</b>, un recent experiment d'ecologia urbana i "
@@ -223,11 +234,11 @@ msgstr ""
 "urbans i gran concentració de centres de recerca i formació amb un fort "
 "teixit empresarial tecnològic."
 
-#: index.php:46
+#: index.php:39
 msgid "Contexto tecnológico"
 msgstr "Context tecnològic"
 
-#: index.php:48
+#: index.php:41
 msgid ""
 "Estamos al inicio de una <b>\"4ª revolución industrial\"</b> que "
 "reconfigurará, de lo molecular a lo global, las estructuras materiales de la "
@@ -249,11 +260,11 @@ msgstr ""
 "social, la sostenibilitat i el bé comú</b>. LaT aspira a nodrir aquestes "
 "alternatives."
 
-#: index.php:52
+#: index.php:45
 msgid "Visión"
 msgstr "Visió"
 
-#: index.php:54
+#: index.php:47
 msgid ""
 "En LaT queremos ser un <b>ateneu de experimentación tecnopolítica</b> que "
 "sirva como catalizador de proyectos y comunidades de investigación, "
@@ -273,15 +284,15 @@ msgstr ""
 "col·lectius i persones apassionades per les tecnologies i la transformació "
 "social."
 
-#: index.php:58
+#: index.php:51
 msgid "Misión"
 msgstr "Misió"
 
-#: index.php:60
+#: index.php:53
 msgid "LaT es un proyecto orientado a:"
 msgstr "LaT és un projecte orientat a:"
 
-#: index.php:64
+#: index.php:57
 msgid ""
 "<b>Analizar y diagnosticar</b> críticamente los modos de producción y uso de "
 "tecnologías, hoy."
@@ -289,7 +300,7 @@ msgstr ""
 "<b>Analitzar i diagnosticar</b> críticament les maneres de producció i ús de "
 "tecnologies, avui."
 
-#: index.php:67
+#: index.php:60
 msgid ""
 "<b>Explorar nuevas tendencias</b> en la intersección entre tecnologías, "
 "subjetividad y sociedad."
@@ -297,7 +308,7 @@ msgstr ""
 "<b>Explorar noves tendències</b> en la intersecció entre tecnologies, "
 "subjectivitat i societat."
 
-#: index.php:70
+#: index.php:63
 msgid ""
 "Promover proyectos de <b>pensamiento, investigación, prototipado y diseño "
 "de</b> tecnologías libres para el bien común."
@@ -305,7 +316,7 @@ msgstr ""
 "Promoure projectes de <b>pensament, recerca, prototipat i disseny de</b> "
 "tecnologies lliures pel bé comú."
 
-#: index.php:73
+#: index.php:66
 msgid ""
 "<b>Potenciar redes y comunidades</b> tecnopoliticas de aprendizaje, "
 "conocimiento y acción."
@@ -313,7 +324,7 @@ msgstr ""
 "<b>Potenciar xarxes i comunitats</b> tecnopolítiques d'aprenentatge, "
 "coneixement i acció."
 
-#: index.php:76
+#: index.php:69
 msgid ""
 "<b>Contribuir al bien común</b> de su entorno próximo, Poble Nou, Barcelona "
 "y el planeta."
@@ -321,11 +332,11 @@ msgstr ""
 "<b>Contribuir al bé comú</b> del seu entorn proper, Poble Nou, Barcelona i "
 "el planeta."
 
-#: index.php:94
+#: index.php:87
 msgid "Virtual Reality Hub (VRHub)"
 msgstr ""
 
-#: index.php:98
+#: index.php:91
 msgid ""
 "Realidad Virtual aplicada a políticas públicas, bien común, cambio "
 "climático, género y arte"
@@ -333,7 +344,7 @@ msgstr ""
 "Realitat Virtual aplicada a polítiques públiques, bé comú, canvi climàtic, "
 "gènere i art"
 
-#: index.php:102
+#: index.php:95
 msgid ""
 "VRHub: iniciativa destinada a concentrar talento, oportunidades y "
 "conocimiento en el campo de la Realidad Virtual desde un enfoque social."
@@ -341,40 +352,44 @@ msgstr ""
 "VRHub: iniciativa destinada a concentrar talent, oportunitats i coneixement "
 "en el camp de la Realitat Virtual des d'un enfocament social."
 
-#: index.php:106 index.php:154 index.php:178
+#: index.php:98
+msgid "Inscríbete"
+msgstr "Inscriu-te"
+
+#: index.php:102 index.php:183
 msgid "Coordinador"
 msgstr ""
 
-#: index.php:107
+#: index.php:103
 msgid "Oscar Marín"
 msgstr ""
 
-#: index.php:108 index.php:180
+#: index.php:104 index.php:185
 msgid "Curador"
 msgstr ""
 
-#: index.php:109 index.php:133
+#: index.php:105 index.php:132
 msgid "Javier Toret"
 msgstr ""
 
-#: index.php:110 index.php:134 index.php:158 index.php:182
+#: index.php:106 index.php:133 index.php:160 index.php:187
 msgid "Próximo evento"
 msgstr "Proper esdeveniment"
 
-#: index.php:111
+#: index.php:107
 msgid "7 de julio"
 msgstr "7 de Juliol"
 
-#: index.php:118
+#: index.php:114
 msgid "Barcelona Futura"
 msgstr ""
 
-#: index.php:122
+#: index.php:118
 msgid "Algo·ritmos del bien común. Diagramando la ciudad para nuestras nietas"
 msgstr ""
 "“Algo-ritmos” del ben comú. Diagramant la ciutat per a les nostres nétes"
 
-#: index.php:126
+#: index.php:122
 msgid ""
 "Una llamada a imaginar futuros posibles para la ciudad y el municipalismo "
 "desde un enfoque tecnopolítica, transversal y de los comunes."
@@ -382,45 +397,51 @@ msgstr ""
 "Una trucada a imaginar futurs possibles per a la ciutat i el municipalisme "
 "des d'un enfocament tecnopolítica, transversal i dels comuns."
 
-#: index.php:130
+#: index.php:125
+msgid ""
+"<a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
+"d/1Qp9gZn7V22MW4JUAKEucj2VMpfJNS7VjqdP9102Odpg/edit\">Inscríbete</a>"
+msgstr ""
+
+#: index.php:129
 msgid "Coordinadores"
 msgstr "Coordinadors"
 
-#: index.php:131
+#: index.php:130
 msgid "Pablo DeSoto"
 msgstr ""
 
-#: index.php:131 index.php:133
+#: index.php:130 index.php:132
 msgid "y"
 msgstr "i"
 
-#: index.php:131
+#: index.php:130
 msgid "Jose Pérez de Lama"
 msgstr ""
 
-#: index.php:132 index.php:156
+#: index.php:131 index.php:158
 msgid "Curadores"
 msgstr "Curadors"
 
-#: index.php:133
+#: index.php:132
 msgid "Antonio Calleja"
 msgstr ""
 
-#: index.php:135
+#: index.php:134
 msgid "14 y 15 de julio"
 msgstr "14 i 15 de Juliol"
 
-#: index.php:142
+#: index.php:141
 msgid "Ciberfeminismo"
 msgstr "Ciberfeminisme"
 
-#: index.php:146
+#: index.php:145
 msgid ""
 "En las intersecciones entre género y tecnologías. Feminismos y ciberespacio."
 msgstr ""
 "En les interseccions entre gènere i tecnologies. Feminismes i ciberespai."
 
-#: index.php:150
+#: index.php:149
 msgid ""
 "Pasado, presente, futuro: un ciclo para visibilizar espacios de acción "
 "ciberfeminista y facilitar la diversidad de género en campo tecnológico"
@@ -428,15 +449,27 @@ msgstr ""
 "Passat, present, futur: un cicle per visibilitzar espais d'acció "
 "ciberfeminista i facilitar la diversitat de gènere en el camp tecnològic"
 
-#: index.php:159
+#: index.php:152
+msgid ""
+"<a href=\"https://docs.google.com/a/thoughtworks.com/forms/d/1GSMfy8tHhbD-"
+"WTDs_Lx4mmkvAEDuoMKtXRvCNfnIjO4/edit\">Inscríbete</a>"
+msgstr ""
+
+#: index.php:156
+#, fuzzy
+#| msgid "Coordinadores"
+msgid "Coordinadoras"
+msgstr "Coordinadors"
+
+#: index.php:161
 msgid "9 de junio"
 msgstr "9 de Juny"
 
-#: index.php:170
+#: index.php:172
 msgid "Tecnopolíticas del diseño y prácticas del hacer para el bien común."
 msgstr "Tecnopolítiques del disseny i pràctiques del fer pel bé comú."
 
-#: index.php:174
+#: index.php:176
 msgid ""
 "Makers de barrio: vamos a pensar, diseñar y construir herramientas y "
 "dispositivos para el entorno urbano como bien común"
@@ -444,18 +477,24 @@ msgstr ""
 "Makers de barri: Pensar, dissenyar i construir eines i dispositius per a "
 "l'entorn urbà com bé comú"
 
-#: index.php:182
+#: index.php:179
+msgid ""
+"<a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
+"d/1NSzQXnSaf_jQmkA8b0aohsukoDzU0O6c5-JmPEggZwQ/edit\">Inscríbete</a>"
+msgstr ""
+
+#: index.php:187
 msgid "23 de junio"
 msgstr "23 de Juny"
 
-#: index.php:194
+#: index.php:199
 msgid ""
 "La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
 "tiempo."
 msgstr ""
 "La T és un node obert, un punt de trobada a on compartir coneixement i temps."
 
-#: index.php:195
+#: index.php:200
 msgid ""
 "Cada jueves organizamos Beer2Peer charlas, presentaciones y actividades con "
 "una cerveza en la mano."
@@ -463,7 +502,7 @@ msgstr ""
 "Cada dijous organitzem Beer2Peer: xerrades, presentacions i activitats amb "
 "una cervesa a la mà."
 
-#: index.php:196
+#: index.php:201
 msgid ""
 "Los viernes, a partir de las 18:30h: Sesiones de nuestros proyectos y "
 "presentaciones."
@@ -471,11 +510,11 @@ msgstr ""
 "Els divendres a partir de les 18.30: Sessions dels nostres Projectes i "
 "presentacions."
 
-#: index.php:204
+#: index.php:209
 msgid "Los Jueves: Beer2peer"
 msgstr "Els Dijous Beer2peer"
 
-#: index.php:205
+#: index.php:210
 msgid ""
 "Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
 "eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
@@ -486,17 +525,26 @@ msgstr ""
 "Els esdeveniments canviaran a cada setmana, amb els TrendingTalks i CCC i el "
 "C-4:"
 
-#: index.php:208
+#: index.php:213
+#, fuzzy
+#| msgid ""
+#| "<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
+#| "relevantes en los ámbitos de interés de laT. Curadoria de laT."
 msgid ""
-"<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
+"<b>TrendingTalks:</b> Conferencias con personas que pensamos que son "
 "relevantes en los ámbitos de interés de laT. Curadoria de laT."
 msgstr ""
 "<b><i>TrendingTalks:</i></b> Conferències amb persones que pensem que són "
 "rellevants en els àmbits d'interès de LaT. Curadoria de LaT."
 
-#: index.php:212
+#: index.php:217
+#, fuzzy
+#| msgid ""
+#| "<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
+#| "varios colectivos, proyecto o red para que presenten su trabajo y los "
+#| "conocimientos sobre temas específicos. Curadoría de laT."
 msgid ""
-"<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
+"<b>CCC / Compartiu coneximent colectiu:</b> invitaremos a un colectivo o "
 "varios colectivos, proyecto o red para que presenten su trabajo y los "
 "conocimientos sobre temas específicos. Curadoría de laT."
 msgstr ""
@@ -504,18 +552,24 @@ msgstr ""
 "diversos col·lectius, projecte o xarxa perquè presentin el seu treball i els "
 "coneixements sobre temes específics. Curadoria de LaT."
 
-#: index.php:216
+#: index.php:221
+#, fuzzy
+#| msgid ""
+#| "<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
+#| "              Seminario permanente de investigación colectiva sobre "
+#| "ciencias, tecnologías y transformación social. \n"
+#| "              Curadoria de Emmanuele Cozzo y Luce Prignano."
 msgid ""
-"<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
+"<b>C-4:</b> Ciencias - Comunes - Ciudades - Comunidades.\n"
 "              Seminario permanente de investigación colectiva sobre "
-"ciencias, tecnologías y transformación social. \n"
-"              Curadoria de Emmanuele Ecozzo y Luce prignano."
+"ciencias, tecnologías y transformación social.\n"
+"              Curadoria de Emmanuele Cozzo y Luce Prignano."
 msgstr ""
 "<b><i>C-4:</i></b> Ciències - Comuns - Ciutats - Comunitats.\n"
 "Seminari permanent d'investigació col·lectiva sobre ciències, tecnologies i "
-"transformació social. Curadoria d’Emmanuele Ecozzo i Luce Prignano."
+"transformació social. Curadoria d’Emmanuele Cozzo y Luce Prignano."
 
-#: index.php:245
+#: index.php:250
 msgid ""
 "LaT es un proyecto autónomo que nace de la colaboracion de tres actores: "
 "TecnopoliticaBCN, <a href=\"https://www.thoughtworks.com/\">Thoughtworks."
@@ -529,32 +583,30 @@ msgstr ""
 "Som un grup de persones apassionades per les tecnologies i la transformació "
 "social."
 
-#: index.php:259
+#: index.php:264
+#, fuzzy
+#| msgid ""
+#| "Coordinación general del Laboratorio. Curaduría de proyectos. "
+#| "Coordinación de líneas de investigación y desarrollo."
 msgid ""
-"Coordinación general del Laboratorio. Curaduría de proyectos. Coordinación "
-"de líneas de investigación y desarrollo."
+"Coordinador de laT. Curaduría de proyectos. Coordinación de líneas de "
+"investigación y desarrollo."
 msgstr ""
 "Coordinació de laT. Curadoria de projectes. Coordinació de línies de recerca "
 "i desenvolupament."
 
-#: index.php:263
+#: index.php:268
 msgid ""
-"Me gusta conectar y producir multiplicidades variables e intensivas entre "
-"filosofía,\n"
-"                            clínica, política, tecnologia, comunicación, "
-"datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.\n"
-"                            Rebelcities. Comunes. GlobalSouth. Investigador, "
-"psicólogo, activista y tecnólogo."
+"Me gusta conectar y producir multiplicidades potentes entre filosofía, "
+"clínica, política, tecnología, comunicación, datos, redes, deseo y "
+"movimientos."
 msgstr ""
-"Investigador, psicòleg, activista i tecnòleg.\n"
-"M'agrada connectar i produir multiplicitats potens entre filosofia, clinica, "
-"política, tecnologia, comunicació, dades, xarxes, desig, moviments. "
 
-#: index.php:277
+#: index.php:280
 msgid "Project Manager"
 msgstr ""
 
-#: index.php:281
+#: index.php:284
 msgid ""
 "Jurista, eterna estudiante de entornos digitales y cambio social. Me "
 "interesa\n"
@@ -565,11 +617,11 @@ msgstr ""
 "el que té a veure amb la cultura digital, la sobirania tecnològica i "
 "l'activisme social."
 
-#: index.php:293
+#: index.php:296
 msgid "Responsable de Comunicación. Equipo de Producción"
 msgstr "Responsable de comunicació i de l’equip de producció. "
 
-#: index.php:297
+#: index.php:300
 msgid ""
 "Si sale comunicación es por que me ha molado el arte del micro-relato, así, "
 "en redes;\n"
@@ -580,30 +632,30 @@ msgstr ""
 "xarxes; el de la producció és accidental, com el millor que sempre passa en "
 "la vida. Filòleg, activista i escriptor."
 
-#: index.php:309
+#: index.php:312
 msgid ""
 "Curaduría de proyectos y coordinación de líneas de investigación y "
 "desarrollo."
 msgstr ""
 "Curadoria de projectes i coordinació de línies de recerca i desenvolupament."
 
-#: index.php:313
+#: index.php:316
 msgid "Investigador, IN3/UOC."
 msgstr "Investigador, IN3/UOC, Equip Decidim."
 
-#: index.php:324
+#: index.php:327
 msgid "Equipo de producción y comunicación."
 msgstr "Eunate Serrano. Equip de producció y comunicació. "
 
-#: index.php:328
+#: index.php:331
 msgid "Investigadora. Comunicación política y periodismo de datos."
 msgstr "Investigadora. Comunicació política i periodisme de dades."
 
-#: index.php:339 index.php:474
+#: index.php:342 index.php:476
 msgid "Equipo de comunicación."
 msgstr "Equip de comunicació. "
 
-#: index.php:343
+#: index.php:346
 msgid ""
 "Periodista con interés práctico y teórico en ciencia de datos, activismo\n"
 "                            social y uso de la tecnología para el cambio "
@@ -612,11 +664,11 @@ msgstr ""
 "Periodista amb interès pràctic i teòric en ciència de dades, activisme "
 "social i ús de la tecnologia per al canvi social i el bé comú."
 
-#: index.php:358
+#: index.php:361
 msgid "Equipo de comunicación. Responsable de laT[le]."
 msgstr "Bruno Sokolowicz. Equip de comunicació. Responsable de laT[le]"
 
-#: index.php:362
+#: index.php:365
 msgid ""
 "Periodista optimista. Activista zen. Presentador TV. #CulturaDigital "
 "@tipstve Radio @scannerfm @350BCN"
@@ -624,19 +676,19 @@ msgstr ""
 "Periodista optimista ツ Activista zen  Presentador  TV #CulturaDigital "
 "@tipstve  Radio  @scannerfm @350BCN "
 
-#: index.php:373
+#: index.php:376
 msgid "Diseño gráfico."
 msgstr "Disseny gràfic."
 
-#: index.php:377
+#: index.php:380
 msgid "Prototipos de mobiliario de diseño abierto. Assoc Makea Tu Vida"
 msgstr "Prototips de mobiliari de disseny obert. Assoc Makea La teva Vida"
 
-#: index.php:388 index.php:404 index.php:438 index.php:490
+#: index.php:391 index.php:407 index.php:441 index.php:492
 msgid "Equipo de comunicación/web"
 msgstr "Equip de comunicació/web"
 
-#: index.php:392
+#: index.php:395
 msgid ""
 "Psicólogo y programador con ínfulas de activista. De vez en cuando\n"
 "                            intenta mejorar el mundo con escarceos en ONG’s."
@@ -644,7 +696,7 @@ msgstr ""
 "Psicòleg i programador amb ínfules d'activista. De tant en tant intenta "
 "millorar el món participant en ONG’s."
 
-#: index.php:408
+#: index.php:411
 msgid ""
 "Permanentemente a caballo entre la ingeniería, la investigación y la "
 "cinematografía.\n"
@@ -657,11 +709,11 @@ msgstr ""
 "especialment intel·ligència artificial i big data, en la societat i en "
 "l'individu."
 
-#: index.php:421
+#: index.php:424
 msgid "Equipo de producción"
 msgstr "Equip de producció"
 
-#: index.php:425
+#: index.php:428
 msgid ""
 "Me gusta innovar a través de la tecnología y ayudar a crear productos de "
 "software\n"
@@ -673,7 +725,7 @@ msgstr ""
 "programari tècnicament excel·lents que milloren la vida humana. Valoro les "
 "relacions humanes basades en la confiança i el respecte mutu."
 
-#: index.php:442
+#: index.php:445
 msgid ""
 "Ingeniero informático y entusiasta de la tecnología. Interesado en big "
 "data,\n"
@@ -682,23 +734,29 @@ msgstr ""
 "Enginyer informàtic i entusiasta de la tecnologia. Interessat en big data, "
 "codi obert i drets digitals."
 
-#: index.php:457
+#: index.php:460
 msgid "Equipo de Producción."
 msgstr "Equip de producció."
 
-#: index.php:461
+#: index.php:464
+#, fuzzy
+#| msgid ""
+#| "Surfeando entre saberes expertos y activistas, entre lo local y lo "
+#| "metropolit(ano).\n"
+#| "                            Produciendo para el común siempre que sea "
+#| "sexy y me aseguren que se puede liar parda ;)  \n"
+#| "                            Nota: no lo sé como traducir al inglés…"
 msgid ""
 "Surfeando entre saberes expertos y activistas, entre lo local y lo "
 "metropolit(ano).\n"
 "                            Produciendo para el común siempre que sea sexy y "
-"me aseguren que se puede liar parda ;)  \n"
-"                            Nota: no lo sé como traducir al inglés…"
+"me aseguren que se puede liar parda ;)"
 msgstr ""
 "Surfejant entre sabers experts i activistes, entre el local i el "
 "metropolit(anus). Produint per al comú sempre que sigui sexy i m'assegurin "
 "que es pot liar parda ;)"
 
-#: index.php:478
+#: index.php:480
 msgid ""
 "Costurera: a veces con hilos otras en redes, con experiencia cosiendo en\n"
 "                            movimientos sociales y medios de comunicación."
@@ -706,19 +764,19 @@ msgstr ""
 "Costurera: de vegades amb fils, altres en xarxes, amb experiència cosint en "
 "moviments socials i mitjans de comunicació."
 
-#: index.php:494
+#: index.php:496
 msgid "Ingeniero informático y entusiasta de la tecnología."
 msgstr "Enginyer informàtic i entusiasta de la tecnologia."
 
-#: index.php:508
+#: index.php:510
 msgid "LaT es un espacio abierto a la participacion y la creacion colectiva."
 msgstr "LaT és un espai obert a la participació i a la creació col·lectiva."
 
-#: index.php:509
+#: index.php:511
 msgid "Por lo que hemos habilitado varias formas para que participes."
 msgstr "Ja tenim diverses formes per a que participis."
 
-#: index.php:517
+#: index.php:519
 msgid ""
 "Síguenos en las redes sociales, donde tendrás la info actualizada de los "
 "proyectos y del laboratorio."
@@ -726,15 +784,20 @@ msgstr ""
 "Segueix-nos a les xarxes socials, on tindràs la info actualitzada dels "
 "projectes i del laboratori."
 
-#: index.php:536
+#: index.php:538
+#, fuzzy
+#| msgid ""
+#| "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la "
+#| "info del laboratorio."
 msgid ""
-"Suscríbete a la newsletter de laT para que te llegue a tu mail toda la info "
-"del laboratorio."
+"Suscríbete a la <a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
+"d/1syQDQdMd7JFu9MkSQB8a2KJSzLpxuXzN6CGSuv--Q0M/edit\">newsletter</a> de laT "
+"para que te llegue a tu mail toda la info del laboratorio."
 msgstr ""
 "Subscriu-te a la newsletter de laT perquè t'arribi al teu mail tota la info "
 "del laboratori."
 
-#: index.php:543
+#: index.php:545
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
 "recibir las informaciones de alguno de los proyectos, aquí puedes "
@@ -744,30 +807,36 @@ msgstr ""
 "i rebre les informacions d'algun dels projectes, aquí pots subscriure't i "
 "començar a formar part de les diferents comunitats."
 
-#: index.php:550
+#: index.php:552
+#, fuzzy
+#| msgid ""
+#| "Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
+#| "nuestras actividades. También se retransmiten en directo por si no puedes "
+#| "venir."
 msgid ""
-"Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
+"Si te has perdido alguna actividad, en <a href=\"https://www.youtube.com/"
+"channel/UCvUVC_bGvUiQecAt_HWEUQw\">laT/le</a> tienes todos los videos de "
 "nuestras actividades. También se retransmiten en directo por si no puedes "
 "venir."
 msgstr ""
 "Si t'has perdut alguna activitat, a laT/le tens tots els videos de les "
 "nostres activitats. També es retransmeten en directe per si no pots venir."
 
-#: index.php:556
+#: index.php:559
 msgid "Proponnos alguna actividad o proyecto"
 msgstr ""
 "Si tens alguna activitat o projecte que sintonitzi amb LaT pots proposar-"
 "aquí."
 
-#: index.php:562
+#: index.php:565
 msgid "Nombre"
 msgstr "Nom"
 
-#: index.php:574
+#: index.php:577
 msgid "Mensaje"
 msgstr "Missatge"
 
-#: index.php:580
+#: index.php:583
 msgid "Enviar"
 msgstr "Enviar"
 
@@ -819,3 +888,16 @@ msgstr "Todd Motto (@toddmotto)"
 #. Author URI of the plugin/theme
 msgid "http://toddmotto.com"
 msgstr "http://toddmotto.com"
+
+#~ msgid ""
+#~ "Me gusta conectar y producir multiplicidades variables e intensivas entre "
+#~ "filosofía,\n"
+#~ "                            clínica, política, tecnologia, comunicación, "
+#~ "datos, redes, deseo, movimientos, tecnopolítica. 15M. Globalrev.\n"
+#~ "                            Rebelcities. Comunes. GlobalSouth. "
+#~ "Investigador, psicólogo, activista y tecnólogo."
+#~ msgstr ""
+#~ "Investigador, psicòleg, activista i tecnòleg.\n"
+#~ "M'agrada connectar i produir multiplicitats potens entre filosofia, "
+#~ "clinica, política, tecnologia, comunicació, dades, xarxes, desig, "
+#~ "moviments. "
