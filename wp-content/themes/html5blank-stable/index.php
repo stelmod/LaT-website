@@ -220,7 +220,7 @@
               <p>
               <?php _e('<b>C-4:</b> Ciencias - Comunes - Ciudades - Comunidades.
               Seminario permanente de investigación colectiva sobre ciencias, tecnologías y transformación social.
-              Curadoria de Emmanuele Ecozzo y Luce prignano.', 'html5blank'); ?>
+              Curadoria de Emmanuele Cozzo y Luce Prignano.', 'html5blank'); ?>
               </p>
             </div>
           </div>
