@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
-"POT-Creation-Date: 2017-05-25 10:22+0200\n"
-"PO-Revision-Date: 2017-05-25 10:27+0200\n"
+"POT-Creation-Date: 2017-05-25 11:02+0200\n"
+"PO-Revision-Date: 2017-05-25 11:06+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -204,17 +204,6 @@ msgid "Territorio"
 msgstr "Territori"
 
 #: index.php:35
-#, fuzzy
-#| msgid ""
-#| "LaT se encuentra en la 8a planta del edificio Mediatic, junto a la "
-#| "<b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana "
-#| "y espacio público. El laboratorio está situado en el distrito de Sant "
-#| "Martí, en el llamado <b>22@</b>, un área promovida como <b>distrito motor "
-#| "de la innovación tecnológica y del conocimiento en Barcelona</b>. "
-#| "Poblenou es un barrio con una fuerte tradición asociativa, con gran "
-#| "arraigo de colectivos makers, huertos urbanos y gran concentración de "
-#| "centros de investigación y formación y un fuerte tejido empresarial "
-#| "tecnológico."
 msgid ""
 "LaT se encuentra en la 8a planta del edificio Mediatic, junto a la "
 "<b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y "
@@ -352,7 +341,7 @@ msgstr ""
 "VRHub: iniciativa destinada a concentrar talent, oportunitats i coneixement "
 "en el camp de la Realitat Virtual des d'un enfocament social."
 
-#: index.php:98
+#: index.php:98 index.php:125 index.php:152 index.php:179
 msgid "Inscríbete"
 msgstr "Inscriu-te"
 
@@ -396,12 +385,6 @@ msgid ""
 msgstr ""
 "Una trucada a imaginar futurs possibles per a la ciutat i el municipalisme "
 "des d'un enfocament tecnopolítica, transversal i dels comuns."
-
-#: index.php:125
-msgid ""
-"<a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
-"d/1Qp9gZn7V22MW4JUAKEucj2VMpfJNS7VjqdP9102Odpg/edit\">Inscríbete</a>"
-msgstr ""
 
 #: index.php:129
 msgid "Coordinadores"
@@ -449,15 +432,7 @@ msgstr ""
 "Passat, present, futur: un cicle per visibilitzar espais d'acció "
 "ciberfeminista i facilitar la diversitat de gènere en el camp tecnològic"
 
-#: index.php:152
-msgid ""
-"<a href=\"https://docs.google.com/a/thoughtworks.com/forms/d/1GSMfy8tHhbD-"
-"WTDs_Lx4mmkvAEDuoMKtXRvCNfnIjO4/edit\">Inscríbete</a>"
-msgstr ""
-
 #: index.php:156
-#, fuzzy
-#| msgid "Coordinadores"
 msgid "Coordinadoras"
 msgstr "Coordinadors"
 
@@ -476,12 +451,6 @@ msgid ""
 msgstr ""
 "Makers de barri: Pensar, dissenyar i construir eines i dispositius per a "
 "l'entorn urbà com bé comú"
-
-#: index.php:179
-msgid ""
-"<a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
-"d/1NSzQXnSaf_jQmkA8b0aohsukoDzU0O6c5-JmPEggZwQ/edit\">Inscríbete</a>"
-msgstr ""
 
 #: index.php:187
 msgid "23 de junio"
@@ -526,10 +495,6 @@ msgstr ""
 "C-4:"
 
 #: index.php:213
-#, fuzzy
-#| msgid ""
-#| "<i>TrendingTalks:</i> Conferencias con personas que pensamos que son "
-#| "relevantes en los ámbitos de interés de laT. Curadoria de laT."
 msgid ""
 "<b>TrendingTalks:</b> Conferencias con personas que pensamos que son "
 "relevantes en los ámbitos de interés de laT. Curadoria de laT."
@@ -538,11 +503,6 @@ msgstr ""
 "rellevants en els àmbits d'interès de LaT. Curadoria de LaT."
 
 #: index.php:217
-#, fuzzy
-#| msgid ""
-#| "<i>CCC / Compartiu coneximent colectiu:</i> invitaremos a un colectivo o "
-#| "varios colectivos, proyecto o red para que presenten su trabajo y los "
-#| "conocimientos sobre temas específicos. Curadoría de laT."
 msgid ""
 "<b>CCC / Compartiu coneximent colectiu:</b> invitaremos a un colectivo o "
 "varios colectivos, proyecto o red para que presenten su trabajo y los "
@@ -553,12 +513,6 @@ msgstr ""
 "coneixements sobre temes específics. Curadoria de LaT."
 
 #: index.php:221
-#, fuzzy
-#| msgid ""
-#| "<i>C-4:</i> Ciencias - Comunes - Ciudades - Comunidades. \n"
-#| "              Seminario permanente de investigación colectiva sobre "
-#| "ciencias, tecnologías y transformación social. \n"
-#| "              Curadoria de Emmanuele Cozzo y Luce Prignano."
 msgid ""
 "<b>C-4:</b> Ciencias - Comunes - Ciudades - Comunidades.\n"
 "              Seminario permanente de investigación colectiva sobre "
@@ -567,7 +521,7 @@ msgid ""
 msgstr ""
 "<b><i>C-4:</i></b> Ciències - Comuns - Ciutats - Comunitats.\n"
 "Seminari permanent d'investigació col·lectiva sobre ciències, tecnologies i "
-"transformació social. Curadoria d’Emmanuele Cozzo y Luce Prignano."
+"transformació social. Curadoria d’Emmanuele Ecozzo i Luce Prignano."
 
 #: index.php:250
 msgid ""
@@ -584,10 +538,6 @@ msgstr ""
 "social."
 
 #: index.php:264
-#, fuzzy
-#| msgid ""
-#| "Coordinación general del Laboratorio. Curaduría de proyectos. "
-#| "Coordinación de líneas de investigación y desarrollo."
 msgid ""
 "Coordinador de laT. Curaduría de proyectos. Coordinación de líneas de "
 "investigación y desarrollo."
@@ -601,6 +551,8 @@ msgid ""
 "clínica, política, tecnología, comunicación, datos, redes, deseo y "
 "movimientos."
 msgstr ""
+"M'agrada connectar i produir multiplicitats potens entre filosofia, clinica, "
+"política, tecnologia, comunicació, dades, xarxes, desig, moviments. "
 
 #: index.php:280
 msgid "Project Manager"
@@ -739,13 +691,6 @@ msgid "Equipo de Producción."
 msgstr "Equip de producció."
 
 #: index.php:464
-#, fuzzy
-#| msgid ""
-#| "Surfeando entre saberes expertos y activistas, entre lo local y lo "
-#| "metropolit(ano).\n"
-#| "                            Produciendo para el común siempre que sea "
-#| "sexy y me aseguren que se puede liar parda ;)  \n"
-#| "                            Nota: no lo sé como traducir al inglés…"
 msgid ""
 "Surfeando entre saberes expertos y activistas, entre lo local y lo "
 "metropolit(ano).\n"
@@ -785,17 +730,14 @@ msgstr ""
 "projectes i del laboratori."
 
 #: index.php:538
-#, fuzzy
-#| msgid ""
-#| "Suscríbete a la newsletter de laT para que te llegue a tu mail toda la "
-#| "info del laboratorio."
 msgid ""
 "Suscríbete a la <a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
 "d/1syQDQdMd7JFu9MkSQB8a2KJSzLpxuXzN6CGSuv--Q0M/edit\">newsletter</a> de laT "
 "para que te llegue a tu mail toda la info del laboratorio."
 msgstr ""
-"Subscriu-te a la newsletter de laT perquè t'arribi al teu mail tota la info "
-"del laboratori."
+"Subscriu-te a la <a href=\"https://docs.google.com/a/thoughtworks.com/forms/"
+"d/1syQDQdMd7JFu9MkSQB8a2KJSzLpxuXzN6CGSuv--Q0M/edit\">newsletter</a> de laT "
+"perquè t'arribi al teu mail tota la info del laboratori."
 
 #: index.php:545
 msgid ""
@@ -808,18 +750,14 @@ msgstr ""
 "començar a formar part de les diferents comunitats."
 
 #: index.php:552
-#, fuzzy
-#| msgid ""
-#| "Si te has perdido alguna actividad, en laT/le tienes todos los videos de "
-#| "nuestras actividades. También se retransmiten en directo por si no puedes "
-#| "venir."
 msgid ""
 "Si te has perdido alguna actividad, en <a href=\"https://www.youtube.com/"
 "channel/UCvUVC_bGvUiQecAt_HWEUQw\">laT/le</a> tienes todos los videos de "
 "nuestras actividades. También se retransmiten en directo por si no puedes "
 "venir."
 msgstr ""
-"Si t'has perdut alguna activitat, a laT/le tens tots els videos de les "
+"Si t'has perdut alguna activitat, a <a href=\"https://www.youtube.com/"
+"channel/UCvUVC_bGvUiQecAt_HWEUQw\">laT/le</a> tens tots els videos de les "
 "nostres activitats. També es retransmeten en directe per si no pots venir."
 
 #: index.php:559
