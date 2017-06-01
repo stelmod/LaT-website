@@ -16,7 +16,7 @@
                 <div class="col-lg-2">
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 bigger-font">
-                <p><?php _e('La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y sociedad. El laboratorio quiere ser un catalizador de proyectos y comunidades de investigación, desarrollo y prototipado tecnológico orientados a la transformación social y el bien común.', 'html5blank'); ?></p>
+                <p><?php _e('LaT, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y sociedad. El laboratorio quiere ser un catalizador de proyectos y comunidades de  aprendizaje, investigación, desarrollo y prototipado tecnológico orientados a la transformación social y el bien común.', 'html5blank'); ?></p>
                 </div>
                 <div class="col-lg-2">
                 </div>
@@ -32,19 +32,19 @@
                   <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Territorio', 'html5blank'); ?></b></p>
                       <p>
-                        <?php _e('LaT se encuentra en la 8a planta del edificio Mediatic, junto a la <b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y espacio público. El laboratorio está situado en el distrito de Sant Martí, en el <b>22@</b>, un área promovida como <b>distrito motor de la innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con una fuerte tradición asociativa, con gran arraigo de colectivos makers, huertos urbanos y gran concentración de centros de investigación y formación y un fuerte tejido empresarial tecnológico.', 'html5blank'); ?>
+                        <?php _e('LaT se encuentra en el 117 del Carrer de Roc Boronat, en la 8ª planta del edificio Mediatic, junto a la <b>Superilla del PobleNou</b>, un reciente experimento de ecología urbana y espacio público. El Laboratorio está situado en el distrito de Sant Martí, en el corazón del <b>22@</b>, un área promovida como <b>motor de la innovación tecnológica y del conocimiento en Barcelona</b>. Poblenou es un barrio con una fuerte tradición asociativa, con gran arraigo de colectivos makers, gran concentración de centros de investigación y formación y un fuerte tejido empresarial tecnológico.', 'html5blank'); ?>
                       </p>
                   </div>
                   <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Contexto tecnológico', 'html5blank');?></b></p>
                       <p>
-                        <?php _e('Estamos al inicio de una <b>"4ª revolución industrial"</b> que reconfigurará, de lo molecular a lo global, las estructuras materiales de la realidad. Pero las tecnologías no son neutras: constituyen <b>formas de vida y campos de batalla</b> dominados por las corporaciones más poderosas del planeta. Frente a la visión y el diseño de tecnología hegemónicos, guiados por la búsqueda del <b>beneficio privado</b>, han surgido formas de <b>resistencia, re-apropiación y construcción de alternativas</b> tecnológicas orientadas a la <b>autonomía social, la sostenibilidad y el bien común</b>. LaT aspira a nutrir esas alternativas.', 'html5blank'); ?>
+                        <?php _e('Estamos al inicio de una <b>"4ª revolución industrial"</b> que reconfigurará, de lo molecular a lo global, las estructuras materiales de la realidad. Pero las tecnologías no son políticamente neutras: constituyen <b>formas de vida y campos de batalla</b> dominados por los gobiernos y las corporaciones más poderosas del planeta. Frente a la visión y el diseño de tecnología hegemónicos, ligados al control gubernamental y el expolio <b>privado</b>, han surgido formas de <b>resistencia</b>, <b>re-apropiación</b> y <b>construcción de alternativas</b> tecnológicas orientadas a la <b>autonomía social, la sostenibilidad y el bien común.</b> LaT aspira a nutrir esas alternativas.', 'html5blank'); ?>
                       </p>
                   </div>
                   <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
                     <p class="bigger-font"><b><?php _e('Visión'); ?></b></p>
                       <p>
-                        <?php _e('En LaT queremos ser un <b>ateneu de experimentación tecnopolítica</b> que sirva como catalizador de proyectos y comunidades de investigación, desarrollo, prototipado y acción orientados al bien común. Trabajamos para <b>ser un proyecto de referencia en la construcción de visiones y prácticas críticas</b>. También aspiramos a construir un proyecto resiliente y sostenible a largo plazo. Para lograrlo interpelamos y orientamos nuestras actividades a comunidades, colectivos y personas apasionadas por las tecnologías y la transformación social.', 'html5blank'); ?>
+                        <?php _e('LaT quiere ser un <b>ateneo de experimentación tecnopolítica</b> que sirva como catalizador de proyectos y comunidades de aprendizaje, investigación, desarrollo y prototipado tecnológicos orientados al bien común. Trabajamos para <b>ser una iniciativa de referencia en la construcción de visiones y prácticas críticas.</b> También aspiramos a construir un proyecto resiliente y sostenible a largo plazo. Para lograrlo interpelamos y orientamos nuestras actividades a comunidades, colectivos y personas apasionadas por las tecnologías y la transformación social, de Barcelona y fuera de ella.', 'html5blank'); ?>
                       </p>
                   </div>
                   <div class="col-lg-3 col-sm-6 col-md-6 padding-bottom-20">
@@ -54,7 +54,7 @@
 
                       <ul>
                       <li>
-                      <?php _e('<b>Analizar y diagnosticar</b> críticamente los modos de producción y uso de tecnologías, hoy.', 'html5blank'); ?>
+                      <?php _e('<b>Analizar</b> críticamente los modos de producción y uso de tecnologías, hoy.', 'html5blank'); ?>
                       </li>
                       <li>
                       <?php _e('<b>Explorar nuevas tendencias</b> en la intersección entre tecnologías, subjetividad y sociedad.', 'html5blank'); ?>
@@ -119,7 +119,7 @@
                     </div>
                     <div class="row some-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                      <p class="h-centered"><?php _e('Una llamada a imaginar futuros posibles para la ciudad y el municipalismo desde un enfoque tecnopolítica, transversal y de los comunes.', 'html5blank'); ?></p>
+                      <p class="h-centered"><?php _e('Una llamada a imaginar futuros posibles para la ciudad y el municipalismo desde un enfoque tecnopolítico, transversal y de los comunes.', 'html5blank'); ?></p>
                     </div>
                     <div class="row lighter-font normal-font left-aligned">
                       <p class="h-centered"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfppvDT0CEmp_ubmMouKwqL8yVBlWSiOObtpQnM3rtml2fTtw/viewform"><?php _e('Inscríbete', 'html5blank'); ?></a></p>
@@ -210,11 +210,11 @@
               <p><?php _e('Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos eventos en una lógica informal, acogedora y unas birras para amenizar. Los eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:', 'html5blank'); ?></p>
 
               <p>
-              <?php _e('<b>TrendingTalks:</b> Conferencias con personas que pensamos que son relevantes en los ámbitos de interés de laT. Curadoria de laT.', 'html5blank'); ?>
+              <?php _e('<b>TrendingTalks:</b> Conferencias con personas relevantes en los ámbitos de interés de laT. Curadoria de laT.', 'html5blank'); ?>
               </p>
 
               <p>
-              <?php _e('<b>CCC / Compartiu coneximent colectiu:</b> invitaremos a un colectivo o varios colectivos, proyecto o red para que presenten su trabajo y los conocimientos sobre temas específicos. Curadoría de laT.', 'html5blank'); ?>
+              <?php _e('<b>CCC / Compartiu coneximent colectiu:</b> encuentro con un colectivo o varios colectivos, proyectos o redes para que presenten su trabajo y conocimientos sobre temas específicos. Curadoría de laT.', 'html5blank'); ?>
               </p>
 
               <p>
@@ -247,7 +247,7 @@
               <div class="col-lg-2 col-md-2 col-sm-2">
               </div>
               <div class="col-lg-8 col-md-8 col-sm-8">
-                <p class="text-centered"><?php _e('LaT es un proyecto autónomo que nace de la colaboracion de tres actores: TecnopoliticaBCN, <a href="https://www.thoughtworks.com/">Thoughtworks.com</a> y <a href="http://tecnopolitica.net/">Tecnopolitica.net/UOC</a>. Somos un grupo de personas apasionadas por las tecnologías y la transformación social.', 'html5blank'); ?></p>
+                <p class="text-centered"><?php _e('LaT es un proyecto autónomo que nace de la colaboracion de tres actores: <a href="https://twitter.com/DatanAlysis15m">TecnopoliticaBCN</a>, <a href="https://www.thoughtworks.com/">Thoughtworks.com</a> y <a href="http://tecnopolitica.net/">Tecnopolitica.net/UOC</a>. Somos un grupo de personas apasionadas por las tecnologías y la transformación social.', 'html5blank'); ?></p>
               </div>
               <div class="col-lg-2 col-md-2 col-sm-2">
               </div>
@@ -309,7 +309,7 @@
                     </div>
                     <div class="row some-very-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
-                        <p class="h-centered"><?php _e('Curaduría de proyectos y coordinación de líneas de investigación y desarrollo.', 'html5blank'); ?></p>
+                        <p class="h-centered"><?php _e('Coordinador de líneas de investigación y desarrollo. Curador de proyectos.', 'html5blank'); ?></p>
                     </div>
                     <div class="row some-very-minor-spacing"></div>
                     <div class="row lighter-font normal-font left-aligned">
@@ -535,14 +535,14 @@
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa2.png" />
                     <div class="row some-mid-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                      <p class="h-centered"><?php _e('Suscríbete a la <a href="https://docs.google.com/a/thoughtworks.com/forms/d/1syQDQdMd7JFu9MkSQB8a2KJSzLpxuXzN6CGSuv--Q0M/edit">newsletter</a> de laT para que te llegue a tu mail toda la info del laboratorio.', 'html5blank'); ?></p>
+                      <p class="h-centered"><?php _e('Suscríbete a la <a href="https://docs.google.com/a/thoughtworks.com/forms/d/1syQDQdMd7JFu9MkSQB8a2KJSzLpxuXzN6CGSuv--Q0M/edit">newsletter</a> de LaT para que te llegue a tu mail toda la info del laboratorio.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
                     <img class="h-centered" src="<?php echo get_bloginfo('template_url') ?>/img/participa3.png" />
                     <div class="row some-minor-spacing"></div>
                     <div class="row smaller-font normal-font left-aligned">
-                      <p class="h-centered"><?php _e('Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y recibir las informaciones de alguno de los proyectos, aquí puedes suscribirte y empezar a formar parte de las distintas comunidades.', 'html5blank'); ?></p>
+                      <p class="h-centered"><?php _e('Sigue nuestros proyectos, que duran hasta Diciembre. Si quieres participar y recibir información de alguno de los proyectos, aquí puedes suscribirte y empezar a formar parte de las distintas comunidades.', 'html5blank'); ?></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-6 margin-50">
@@ -556,7 +556,7 @@
             <form action="mailto:info@lat.barcelona" target="_blank" enctype="text/plain" method="post">
               <div class="row">
                   <div class="col-lg-12">
-                  <p class="bigger-font"><?php _e('Proponnos alguna actividad o proyecto', 'html5blank'); ?></p>
+                  <p class="bigger-font"><?php _e('Si tienes una actividad o proyecto que sintonice con LaT, contáctanos', 'html5blank'); ?></p>
                   </div>
               </div>
               <div class="row some-spacing"></div>

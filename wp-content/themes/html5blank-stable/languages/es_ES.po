@@ -186,7 +186,7 @@ msgstr ""
 
 #: index.php:26
 msgid ""
-"La T, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un "
+"LaT, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un "
 "centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y "
 "sociedad. El laboratorio quiere ser un catalizador de proyectos y "
 "comunidades de investigación, desarrollo y prototipado tecnológico "
@@ -645,7 +645,7 @@ msgstr ""
 #: index.php:518
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
-"recibir las informaciones de alguno de los proyectos, aquí puedes "
+"recibir la información de alguno de los proyectos, aquí puedes "
 "suscribirte y empezar a formar parte de las distintas comunidades."
 msgstr ""
 
