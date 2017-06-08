@@ -652,3 +652,46 @@ ul,li {
     border-radius: 50px;
 }
 
+.ciberfeminismo-section {
+  width: 100%;
+  background-color: black;
+  min-height: 100%;
+  padding-top: 1px;
+}
+
+.full-page {
+  padding-top: 70px;
+}
+
+.always-collapsed {
+  padding: 0 0 0 0 !important;
+  background: #040409 url("img/logo-lat-small.png") no-repeat !important;
+  height: 70px !important;
+  background-size: auto 68.2% !important;
+  background-position: 5% center !important;
+}
+
+.higher {
+  margin-top: 10px;
+}
+
+.page {
+  padding-bottom: 75px;
+  color: black;
+}
+
+.one-column {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 50px;
+}
+
+.page p {
+  margin-bottom: 1em;
+}
+
+.page-title {
+  font-size: 42px;
+  color: black;
+}
+
