@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-06-22 23:32:30+0000\n"
+"PO-Revision-Date: 2017-06-30 12:19:36+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6725,7 +6725,7 @@ msgstr "http://es.wordpress.org/feed/"
 #. then use that. Otherwise, leave untranslated.
 #: wp-admin/includes/dashboard.php:1117 wp-admin/includes/dashboard.php:1288
 msgid "https://wordpress.org/news/"
-msgstr "https://es.wordpress.org/category/general/"
+msgstr "https://es.wordpress.org/news/"
 
 #: wp-admin/options-discussion.php:68
 msgid "(Signup has been disabled. Only members of this site can comment.)"
