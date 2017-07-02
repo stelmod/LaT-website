@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-06-30 12:19:36+0000\n"
+"PO-Revision-Date: 2017-07-02 08:44:01+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -201,7 +201,7 @@ msgstr "Eventos y noticias de WordPress"
 #. day of the week. See https://secure.php.net/date.
 #: wp-admin/includes/class-wp-community-events.php:387
 msgid "l, M j, Y"
-msgstr "I, j M, Y"
+msgstr "l, j M, Y"
 
 #: wp-admin/includes/class-wp-community-events.php:116
 msgid "Unknown API error."
