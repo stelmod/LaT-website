@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HTML5 Blank\n"
 "POT-Creation-Date: 2017-05-24 16:49+0200\n"
-"PO-Revision-Date: 2017-05-24 22:04+0200\n"
+"PO-Revision-Date: 2017-07-09 17:49-0500\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 1.8.7.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
@@ -186,7 +186,7 @@ msgstr ""
 
 #: index.php:26
 msgid ""
-"LaT, <b>el Laboratorio de tecnopolíticas para el bien común</b>, es un "
+"LaT, <b>el Laboratorio de Tecnopolíticas para el Bien Común</b>, es un "
 "centro de pensamiento y prácticas críticas sobre tecnología, subjetividad y "
 "sociedad. El laboratorio quiere ser un catalizador de proyectos y "
 "comunidades de investigación, desarrollo y prototipado tecnológico "
@@ -560,7 +560,7 @@ msgid ""
 "La T es un nodo abierto, un lugar encuentro para compartir conocimiento y "
 "tiempo."
 msgstr ""
-"La T es un nodo abierto, un lugar de encuentro para compartir conocimiento y "
+"LaT es un nodo abierto, un lugar de encuentro para compartir conocimiento y "
 "tiempo."
 
 #: index.php:434
@@ -581,7 +581,7 @@ msgstr ""
 
 #: index.php:444
 msgid ""
-"Todos los jueves, a partir de las 18.30, estaremos en LaT con distintos "
+"Todos los jueves, a partir de las 18h.30, estaremos en LaT con distintos "
 "eventos en una lógica informal, acogedora y unas birras para amenizar. Los "
 "eventos irán cambiando a cada semana, con los TrendingTalks y CCC y el C-4:"
 msgstr ""
@@ -645,8 +645,8 @@ msgstr ""
 #: index.php:518
 msgid ""
 "Sigue nuestros proyectos, que duran hasta diciembre. Si quieres participar y "
-"recibir la información de alguno de los proyectos, aquí puedes "
-"suscribirte y empezar a formar parte de las distintas comunidades."
+"recibir la información de alguno de los proyectos, aquí puedes suscribirte y "
+"empezar a formar parte de las distintas comunidades."
 msgstr ""
 
 #: index.php:525
@@ -670,7 +670,7 @@ msgstr ""
 
 #: index.php:555
 msgid "Enviar"
-msgstr ""
+msgstr "Propon"
 
 #: search.php:7
 #, php-format
